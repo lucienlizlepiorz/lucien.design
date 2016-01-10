@@ -1,0 +1,17 @@
+Title: lucien.design
+
+----
+
+Author: Lucien Liz-Lepiorz
+
+----
+
+Description: design & development by Lucien Liz-Lepiorz.
+
+----
+
+Keywords: graphic, web, interaction, interface, design
+
+----
+
+Copyright: © 2016 Lucien Liz-Lepiorz

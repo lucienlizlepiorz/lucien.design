@@ -1,0 +1,112 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* layout */
+
+html {
+	margin: 0;
+ 	padding: 0;
+ 	width: 100%;
+ 	height: 100%;
+}
+
+/* fonts */
+
+@font-face {
+  	font-family: 'Fira Sans Light';
+ 	 src: url('../fonts/FiraSans-Light.eot') format('eot'), url('../fonts/FiraSans-Light.woff') format('woff'), url('../fonts/FiraSans-Light.ttf') format('truetype');
+}
+
+@font-face {
+  	font-family: 'Fira Sans Light Italic';
+ 	 src: url('../fonts/FiraSans-LightItalic.eot') format('eot'), url('../fonts/FiraSans-LightItalic.woff') format('woff'), url('../fonts/FiraSans-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  	font-family: 'Fira Sans Bold';
+ 	 src: url('../fonts/FiraSans-Bold.eot') format('eot'), url('../fonts/FiraSans-Bold.woff') format('woff'), url('../fonts/FiraSans-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  	font-family: 'Fira Sans Bold Italic';
+ 	 src: url('../fonts/FiraSans-BoldItalic.eot') format('eot'), url('../fonts/FiraSans-BoldItalic.woff') format('woff'), url('../fonts/FiraSans-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  	font-family: 'Fira Mono Regular';
+ 	 src: url('../fonts/FiraMono-Regular.eot') format('eot'), url('../fonts/FiraMono-Regular.woff') format('woff'), url('../fonts/FiraMono-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  	font-family: 'Fira Mono Medium';
+ 	 src: url('../fonts/FiraMono-Medium.eot') format('eot'), url('../fonts/FiraMono-Medium.woff') format('woff'), url('../fonts/FiraMono-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  	font-family: 'Fira Mono Bold';
+ 	 src: url('../fonts/FiraMono-Bold.eot') format('eot'), url('../fonts/FiraMono-Bold.woff') format('woff'), url('../fonts/FiraMono-Bold.ttf') format('truetype');
+}
+
+body {
+	font-family: 'Fira Sans Light';
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 24px;
+	color: #FFFFFF;
+	background-color: #0000FF;
+}
+
+h1 {
+	font-family: 'Fira Mono Bold';
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 36px;
+}
+
+h1:hover {
+	font-family: 'Fira Sans Bold';
+}
+
+a:link {
+	padding-bottom: 2px;
+	text-decoration: none;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #FFFFFF;
+	color: #FFFFFF;
+}
+
+a:link:hover {
+    border-bottom: none;
+}
+
+a:visited {
+	color: #FFFFFF;
+}
+
+/* styles */
+
+::selection {
+    background-color: #000000;
+}
+
+::-moz-selection {
+    background-color: #000000;
+}
+
+.noSelection {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+#something {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
