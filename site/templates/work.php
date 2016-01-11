@@ -1,6 +1,6 @@
 <?php snippet("header") ?>
 
-	<div id="something">
+	<div id="something-is-near">
 		<?php echo $page->text()->kirbytext() ?>
 	</div>
 
