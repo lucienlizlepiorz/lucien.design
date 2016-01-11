@@ -7,6 +7,15 @@
 
 	<link rel="shortcut icon" href="<?php echo url("assets/images/favicon.ico") ?>" type="image/x-icon"/>
 
+	<!-- IE 9 and below -->
+	<!--[if IE]><link rel="shortcut icon" href="<?php echo url("assets/images/favicon.ico") ?>"><![endif]-->
+
+	<!-- touch icons - iOS and Android 2.1+  --> 
+	<link rel="apple-touch-icon" href="<?php echo url("assets/images/apple-touch-icon.png") ?>">
+
+	<!-- Firefox, Chrome, Safari, IE 11+ and Opera -->
+	<link rel="icon" href="<?php echo url("assets/images/favicon.png") ?>">
+
 	<title><?php echo $site->title()->html() ?> :: <?php echo $page->title()->html() ?></title>
 
 	<meta name="description" content="<?php echo $site->description()->html() ?>">

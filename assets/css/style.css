@@ -54,6 +54,13 @@ body {
 	line-height: 24px;
 	color: #FFFFFF;
 	background-color: #0000FF;
+	
+	/* animation */
+	animation-name: background-color-change;
+	animation-duration: 3s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
 }
 
 h1 {
@@ -109,4 +116,51 @@ a:visited {
 	left: 50%;
 	transform: translate(-50%, -50%);
 	text-align: center;
+}
+
+/* keyframes */
+
+@-webkit-keyframes background-color-change {
+	0% {
+    	background-color: #000000;
+  	}
+  	100% {
+    	background-color: #0000FF;
+  	}
+}
+
+@-moz-keyframes background-color-change {
+	0% {
+    	background-color: #000000;
+  	}
+  	100% {
+    	background-color: #0000FF;
+  	}
+}
+
+@-ms-keyframes background-color-change {
+	0% {
+    	background-color: #000000;
+  	}
+  	100% {
+    	background-color: #0000FF;
+  	}
+}
+
+@-o-keyframes background-color-change {
+	0% {
+    	background-color: #000000;
+  	}
+  	100% {
+    	background-color: #0000FF;
+  	}
+}
+
+@keyframes background-color-change {
+	0% {
+    	background-color: #000000;
+  	}
+  	100% {
+    	background-color: #0000FF;
+  	}
 }
