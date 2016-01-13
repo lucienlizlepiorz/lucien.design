@@ -12,10 +12,34 @@ html {
  	background-color: #0000FF;
  	 	
  	/* background color animation */
+	-webkit-animation-name: background-color-change;
+	-moz-animation-name: background-color-change;
+	-ms-animation-name: background-color-change;
+	-o-animation-name: background-color-change;
 	animation-name: background-color-change;
+	
+	-webkit-animation-duration: 3s;
+	-moz-animation-duration: 3s;
+	-ms-animation-duration: 3s;
+	-o-animation-duration: 3s;
 	animation-duration: 3s;
+	
+	-webkit-animation-timing-function: ease-in-out;
+	-moz-animation-timing-function: ease-in-out;
+	-ms-animation-timing-function: ease-in-out;
+	-o-animation-timing-function: ease-in-out;
 	animation-timing-function: ease-in-out;
+	
+	-webkit-animation-iteration-count: infinite;
+	-moz-animation-iteration-count: infinite;
+	-ms-animation-iteration-count: infinite;
+	-o-animation-iteration-count: infinite;
 	animation-iteration-count: infinite;
+	
+	-webkit-animation-direction: alternate;
+	-moz-animation-direction: alternate;
+	-ms-animation-direction: alternate;
+	-o-animation-direction: alternate;
 	animation-direction: alternate;
 }
 
@@ -79,28 +103,11 @@ h1:hover {
 	font-family: 'Fira Sans Bold';
 }
 
-a {
+a, a:visited {
 	display: inline-block;
     position: relative;
-	text-decoration: none;
 	color: #FFFFFF;
-}
-
-a:before {
-	content: '';
-    display: inline-block;
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    height: 1px;
-    
-    /* underline animation */
-    -webkit-transition: width 0s ease;
-    -moz-transition: width 0s ease;
-    -ms-transition: width 0s ease;
-    -o-transition: width 0s ease;
-    transition: width 0s ease;	
+	text-decoration: none;
 }
 
 a:after {
@@ -112,41 +119,6 @@ a:after {
     width: 100%;
     height: 1px;
     background-color: #FFFFFF;
-    
-    /* underline animation */
-    -webkit-transition: width .4s ease;
-    -moz-transition: width .4s ease;
-    -ms-transition: width .4s ease;
-    -o-transition: width .4s ease;
-    transition: width .4s ease;
-}
-
-a:hover:before {
-    width: 0%;
-    background-color: #FFFFFF;
-    
-    /* underline animation */
-    -webkit-transition: width .4s ease;
-    -moz-transition: width .4s ease;
-    -ms-transition: width .4s ease;
-    -o-transition: width .4s ease;
-    transition: width .4s ease;
-}
-
-a:hover:after {
-    width: 0%;
-    background-color: none;
-    
-    /* underline animation */
-    -webkit-transition: width 0s ease;
-    -moz-transition: width 0s ease;
-    -ms-transition: width 0s ease;
-    -o-transition: width 0s ease;
-    transition: width 0s ease;
-}
-
-a:visited {
-	color: #FFFFFF;
 }
 
 /* styles */
