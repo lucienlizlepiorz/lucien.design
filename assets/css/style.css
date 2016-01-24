@@ -18,29 +18,42 @@ html {
 	-o-animation-name: background-color-change;
 	animation-name: background-color-change;
 	
-	-webkit-animation-duration: 3s;
-	-moz-animation-duration: 3s;
-	-ms-animation-duration: 3s;
-	-o-animation-duration: 3s;
-	animation-duration: 3s;
+	-webkit-animation-duration: 1s;
+	-moz-animation-duration: 1s;
+	-ms-animation-duration: 1s;
+	-o-animation-duration: 1s;
+	animation-duration: 1s;
 	
-	-webkit-animation-timing-function: ease-in-out;
-	-moz-animation-timing-function: ease-in-out;
-	-ms-animation-timing-function: ease-in-out;
-	-o-animation-timing-function: ease-in-out;
-	animation-timing-function: ease-in-out;
+	-webkit-animation-timing-function: ease-out;
+	-moz-animation-timing-function: ease-out;
+	-ms-animation-timing-function: ease-out;
+	-o-animation-timing-function: ease-out;
+	animation-timing-function: ease-out;
 	
-	-webkit-animation-iteration-count: infinite;
-	-moz-animation-iteration-count: infinite;
-	-ms-animation-iteration-count: infinite;
-	-o-animation-iteration-count: infinite;
-	animation-iteration-count: infinite;
-	
-	-webkit-animation-direction: alternate;
-	-moz-animation-direction: alternate;
-	-ms-animation-direction: alternate;
-	-o-animation-direction: alternate;
-	animation-direction: alternate;
+	-webkit-animation-iteration-count: 1;
+	-moz-animation-iteration-count: 1;
+	-ms-animation-iteration-count: 1;
+	-o-animation-iteration-count: 1;
+	animation-iteration-count: 1;
+}
+
+body {
+	width: 48em;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	font-size: 16px;
+}
+
+#header {
+	position: absolute;
+	top: 2em;
+}
+
+#footer {
+	position: absolute;
+	bottom: 4em;
 }
 
 /* fonts */
@@ -71,50 +84,8 @@ html {
 }
 
 @font-face {
-  	font-family: 'Fira Mono Medium';
- 	 src: url('../fonts/FiraMono-Medium.eot') format('eot'), url('../fonts/FiraMono-Medium.woff') format('woff'), url('../fonts/FiraMono-Medium.ttf') format('truetype');
-}
-
-@font-face {
   	font-family: 'Fira Mono Bold';
  	 src: url('../fonts/FiraMono-Bold.eot') format('eot'), url('../fonts/FiraMono-Bold.woff') format('woff'), url('../fonts/FiraMono-Bold.ttf') format('truetype');
-}
-
-body, h1 {
-	font-weight: normal;
-	margin: 0;
-	padding: 0;
-	color: #FFFFFF;
-}
-
-body {
-	font-family: 'Fira Sans Light';
-	font-size: 16px;
-	line-height: 24px;
-}
-
-h1 {
-	font-family: 'Fira Mono Bold';
-	font-size: 24px;
-	line-height: 36px;
-}
-
-a, a:visited {
-	display: inline-block;
-    position: relative;
-	color: #FFFFFF;
-	text-decoration: none;
-}
-
-a:after {
-    content: '';
-    display: inline-block;
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    width: 100%;
-    height: 1px;
-    background-color: #FFFFFF;
 }
 
 /* styles */
@@ -127,18 +98,48 @@ a:after {
     background-color: #000000;
 }
 
-#something-is-near {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	text-align: center;
-	
-	/* vertically and horizontally center */
-	-webkit-transform: translate(-50%, -50%);
-	-moz-transform: translate(-50%, -50%);
-	-ms-transform: translate(-50%, -50%);
-	-o-transform: translate(-50%, -50%);
-	transform: translate(-50%, -50%);
+p, h1, h3 {
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+	color: #FFFFFF;
+}
+
+p {
+	font-family: 'Fira Sans Light';
+	font-size: 1em; /* 16 x 1 = 16 */
+	line-height: 2em; /* 16 x 2 = 32 */
+}
+
+h1 {
+	font-family: 'Fira Sans Light';
+	font-size: 1.5em; /* 16 x 1.5 = 24 */
+	line-height: 3em; /* 16 x 3 = 48 */
+}
+
+h3 {
+	font-family: 'Fira Sans Light';
+	font-size: .75em; /* 16 x .75 = 12 */
+	line-height: 1.5em; /* 16 x 1.5 = 24 */
+	text-transform: uppercase;
+}
+
+a, a:link, a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+	border-bottom: solid 1px #FFFFFF;
+}
+
+.light {
+	font-family: 'Fira Sans Light';
+}
+
+.mono-regular {
+	font-family: 'Fira Mono Regular';
+}
+
+.mono-bold {
+	font-family: 'Fira Mono Bold';
 }
 
 /* keyframes */
