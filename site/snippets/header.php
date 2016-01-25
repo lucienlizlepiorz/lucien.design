@@ -28,4 +28,8 @@
 </head>
 <body>
 
-	<div id="header"><h1><span class="mono-bold">Lucien</span> Liz-Lepiorz</h1></div>
+	<div id="header">
+		<h1>
+			<span class="mono-bold">Lucien</span> Liz-Lepiorz
+		</h1>
+	</div>

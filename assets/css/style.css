@@ -38,12 +38,12 @@ html {
 }
 
 body {
-	width: 48em;
-	margin-top: 0;
-	margin-right: auto;
-	margin-bottom: 0;
-	margin-left: auto;
 	font-size: 16px;
+}
+
+#header, #footer {
+	width: 60%;
+	left: 20%;
 }
 
 #header {
@@ -140,6 +140,23 @@ a, a:link, a:visited {
 
 .mono-bold {
 	font-family: 'Fira Mono Bold';
+}
+
+.current-page {
+	padding-top: .25em;
+	padding-right: .5em;
+	padding-bottom: .25em;
+	padding-left: .5em;
+	color: #0000FF;
+	background-color: #FFFFFF;
+}
+
+.current-page::selection {
+	color: #FFFFFF;
+}
+
+.current-page::-moz-selection {
+	color: #FFFFFF;
 }
 
 /* keyframes */
