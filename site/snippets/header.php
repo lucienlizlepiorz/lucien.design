@@ -34,4 +34,4 @@
 		</h1>
 	</div>
 	
-	<?php snippet("navigation") ?>
+	<div id="content">
