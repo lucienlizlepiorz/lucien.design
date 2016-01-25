@@ -143,6 +143,10 @@ a {
 	font-family: 'Fira Mono Bold';
 }
 
+.no-underline {
+	border-bottom: none;
+}
+
 a.current-page {
 	padding-top: .25em;
 	padding-right: .5em;
