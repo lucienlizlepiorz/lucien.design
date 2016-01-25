@@ -124,7 +124,7 @@ h3 {
 	text-transform: uppercase;
 }
 
-a, a:link, a:visited {
+a {
 	color: #FFFFFF;
 	text-decoration: none;
 	border-bottom: solid 1px #FFFFFF;
@@ -142,24 +142,21 @@ a, a:link, a:visited {
 	font-family: 'Fira Mono Bold';
 }
 
-.current-page {
+a.current-page {
 	padding-top: .25em;
 	padding-right: .5em;
 	padding-bottom: .25em;
 	padding-left: .5em;
 	color: #0000FF;
 	background-color: #FFFFFF;
+	border-bottom: none;
 }
 
-a, a:link, a:visited .current-page {
-	border-bottom: 0px;
-}
-
-.current-page::selection {
+a.current-page::selection {
 	color: #FFFFFF;
 }
 
-.current-page::-moz-selection {
+a.current-page::-moz-selection {
 	color: #FFFFFF;
 }
 
