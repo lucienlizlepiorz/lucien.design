@@ -28,8 +28,10 @@
 </head>
 <body>
 
-	<div id="header">
+	<div id="name">
 		<h1>
 			<span class="mono-bold">Lucien</span> Liz-Lepiorz
 		</h1>
 	</div>
+	
+	<?php snippet("navigation") ?>

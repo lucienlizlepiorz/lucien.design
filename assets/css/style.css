@@ -38,22 +38,25 @@ html {
 }
 
 body {
+	margin: 0;
+ 	padding: 0;
 	font-size: 16px;
+	line-height: 1.5em;
 }
 
-#header, #footer {
-	width: 60%;
-	left: 20%;
+#name, #navigation {
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+	text-align: center;
 }
 
-#header {
-	position: absolute;
-	top: 2em;
+#name {
+	margin-top: 2em;
 }
 
-#footer {
-	position: absolute;
-	bottom: 4em;
+#navigation {
+	margin-bottom: 4em;
 }
 
 /* fonts */
@@ -99,28 +102,26 @@ body {
 }
 
 p, h1, h3 {
-	font-weight: normal;
 	margin: 0;
 	padding: 0;
 	color: #FFFFFF;
+	font-weight: normal;
 }
 
 p {
 	font-family: 'Fira Sans Light';
 	font-size: 1em; /* 16 x 1 = 16 */
-	line-height: 2em; /* 16 x 2 = 32 */
 }
 
 h1 {
 	font-family: 'Fira Sans Light';
 	font-size: 1.5em; /* 16 x 1.5 = 24 */
-	line-height: 3em; /* 16 x 3 = 48 */
+	line-height: 1.5em; /* 24 x 1.5 = 36 */
 }
 
 h3 {
 	font-family: 'Fira Sans Light';
 	font-size: .75em; /* 16 x .75 = 12 */
-	line-height: 1.5em; /* 16 x 1.5 = 24 */
 	text-transform: uppercase;
 }
 
