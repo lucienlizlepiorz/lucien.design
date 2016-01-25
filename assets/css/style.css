@@ -151,6 +151,10 @@ a, a:link, a:visited {
 	background-color: #FFFFFF;
 }
 
+a, a:link, a:visited .current-page {
+	border-bottom: 0px;
+}
+
 .current-page::selection {
 	color: #FFFFFF;
 }
