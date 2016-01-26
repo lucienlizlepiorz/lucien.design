@@ -95,10 +95,12 @@ body {
 /* styles */
 
 ::selection {
+	color: #FFFFFF;
     background-color: #000000;
 }
 
 ::-moz-selection {
+	color: #FFFFFF;
     background-color: #000000;
 }
 
@@ -121,7 +123,7 @@ h1 {
 }
 
 h3 {
-	font-family: 'Fira Sans Light';
+	font-family: 'Fira Mono Regular';
 	font-size: .75em; /* 16 x .75 = 12 */
 	text-transform: uppercase;
 }
@@ -130,10 +132,6 @@ a {
 	color: #FFFFFF;
 	text-decoration: none;
 	border-bottom: solid 1px #FFFFFF;
-}
-
-.light {
-	font-family: 'Fira Sans Light';
 }
 
 .mono-regular {
@@ -156,14 +154,6 @@ a.current-page {
 	color: #0000FF;
 	background-color: #FFFFFF;
 	border-bottom: none;
-}
-
-a.current-page::selection {
-	color: #FFFFFF;
-}
-
-a.current-page::-moz-selection {
-	color: #FFFFFF;
 }
 
 /* keyframes */
