@@ -60,6 +60,14 @@ body {
 	bottom: 4em;
 }
 
+#content {
+	width: 32em;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 12em;
+	padding-bottom: 12em;
+}
+
 /* fonts */
 
 @font-face {
@@ -95,19 +103,19 @@ body {
 /* styles */
 
 ::selection {
-	color: #FFFFFF;
-    background-color: #000000;
+	color: #FFF;
+    background-color: #000;
 }
 
 ::-moz-selection {
-	color: #FFFFFF;
-    background-color: #000000;
+	color: #FFF;
+    background-color: #000;
 }
 
 p, h1, h3 {
 	margin: 0;
 	padding: 0;
-	color: #FFFFFF;
+	color: #FFF;
 	font-weight: normal;
 }
 
@@ -129,9 +137,23 @@ h3 {
 }
 
 a {
-	color: #FFFFFF;
+	color: #FFF;
 	text-decoration: none;
-	border-bottom: solid 1px #FFFFFF;
+	border-bottom: solid 1px #FFF;
+}
+
+a.current-page {
+	padding-top: .25em;
+	padding-right: .5em;
+	padding-bottom: .25em;
+	padding-left: .5em;
+	color: #0000FF;
+	background-color: #FFF;
+	border-bottom: none;
+}
+
+.no-underline {
+	border-bottom: none;
 }
 
 .mono-regular {
@@ -142,27 +164,20 @@ a {
 	font-family: 'Fira Mono Bold';
 }
 
-.no-underline {
-	border-bottom: none;
+/* color */
+
+.secondary {
+	color: #FFF; /* fallback */
+	color: rgba(255, 255, 255, .65);
 }
 
-a.current-page {
-	padding-top: .25em;
-	padding-right: .5em;
-	padding-bottom: .25em;
-	padding-left: .5em;
-	color: #0000FF;
-	background-color: #FFFFFF;
-	border-bottom: none;
-}
+/* animation keyframes */
 
-/* keyframes */
-
-/* background color animation */
+/* background color change */
 
 @-webkit-keyframes background-color-change {
 	0% {
-    	background-color: #000000;
+    	background-color: #000;
   	}
   	100% {
     	background-color: #0000FF;
@@ -171,7 +186,7 @@ a.current-page {
 
 @-moz-keyframes background-color-change {
 	0% {
-    	background-color: #000000;
+    	background-color: #000;
   	}
   	100% {
     	background-color: #0000FF;
@@ -180,7 +195,7 @@ a.current-page {
 
 @-ms-keyframes background-color-change {
 	0% {
-    	background-color: #000000;
+    	background-color: #000;
   	}
   	100% {
     	background-color: #0000FF;
@@ -189,7 +204,7 @@ a.current-page {
 
 @-o-keyframes background-color-change {
 	0% {
-    	background-color: #000000;
+    	background-color: #000;
   	}
   	100% {
     	background-color: #0000FF;
@@ -198,7 +213,7 @@ a.current-page {
 
 @keyframes background-color-change {
 	0% {
-    	background-color: #000000;
+    	background-color: #000;
   	}
   	100% {
     	background-color: #0000FF;
