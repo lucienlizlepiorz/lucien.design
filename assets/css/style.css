@@ -4,9 +4,12 @@
 
 /* layout */
 
-html {
+* {
 	margin: 0;
  	padding: 0;
+}
+
+html {
 	width: 100%;
  	height: 100%;
  	background-color: #0000FF;
@@ -39,33 +42,34 @@ html {
 
 body {
 	height: 100%;
-	margin: 0;
- 	padding: 0;
 	font-size: 16px;
 	line-height: 1.5em;
 }
 
 #name, #navigation {
-	position: absolute;
-	width: 80%;
-	margin-left: 10%;
+	height: 6em;
+	padding-top: 2em;
+	padding-bottom: 2em;
 	text-align: center;
 }
 
-#name {
-	top: 2em;
+#push {
+	height: 2em;
 }
 
-#navigation {
-	bottom: 4em;
+#wrapper {
+	width: 36em;
+	max-width: 90%;
+	min-height: 100%;
+	margin-top: -10em;
+	margin-right: auto;
+	margin-bottom: -10em;
+	margin-left: auto;
 }
 
 #content {
-	width: 32em;
-	margin-right: auto;
-	margin-left: auto;
-	padding-top: 12em;
-	padding-bottom: 12em;
+	padding-top: 10em;
+	padding-bottom: 10em;
 }
 
 /* fonts */
@@ -113,8 +117,6 @@ body {
 }
 
 p, h1, h3 {
-	margin: 0;
-	padding: 0;
 	color: #FFF;
 	font-weight: normal;
 }

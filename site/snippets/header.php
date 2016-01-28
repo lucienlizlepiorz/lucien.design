@@ -33,4 +33,5 @@
 		<p><span class="mono-bold secondary">design & develop</span></p>
 	</div>
 	
-	<div id="content">
+	<div id="wrapper">
+		<div id="content">
