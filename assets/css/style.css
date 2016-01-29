@@ -12,32 +12,14 @@
 html {
 	width: 100%;
  	height: 100%;
- 	background-color: #0000FF;
+ 	background-color: #0000FF; /* fallback */
  	 	
  	/* background color animation */
-	-webkit-animation-name: background-color-change;
-	-moz-animation-name: background-color-change;
-	-ms-animation-name: background-color-change;
-	-o-animation-name: background-color-change;
-	animation-name: background-color-change;
-	
-	-webkit-animation-duration: 1s;
-	-moz-animation-duration: 1s;
-	-ms-animation-duration: 1s;
-	-o-animation-duration: 1s;
-	animation-duration: 1s;
-	
-	-webkit-animation-timing-function: ease-out;
-	-moz-animation-timing-function: ease-out;
-	-ms-animation-timing-function: ease-out;
-	-o-animation-timing-function: ease-out;
-	animation-timing-function: ease-out;
-	
-	-webkit-animation-iteration-count: 1;
-	-moz-animation-iteration-count: 1;
-	-ms-animation-iteration-count: 1;
-	-o-animation-iteration-count: 1;
-	animation-iteration-count: 1;
+	-webkit-animation: background-color-change 1s ease-out 1;
+	-moz-animation: background-color-change 1s ease-out 1;
+	-ms-animation: background-color-change 1s ease-out 1;
+	-o-animation: background-color-change 1s ease-out 1;
+	animation: background-color-change 1s ease-out 1;
 }
 
 body {
@@ -70,6 +52,12 @@ body {
 #content {
 	padding-top: 10em;
 	padding-bottom: 10em;
+}
+
+#something-is-near {
+   	margin-top: 4em;
+   	margin-bottom: 4em;
+	text-align: center;
 }
 
 /* fonts */
@@ -124,6 +112,7 @@ p, h1, h3 {
 p {
 	font-family: 'Fira Sans Light';
 	font-size: 1em; /* 16 x 1 = 16 */
+	margin-bottom: 1.5em;
 }
 
 h1 {
@@ -164,6 +153,20 @@ a.current-page {
 
 .mono-bold {
 	font-family: 'Fira Mono Bold';
+}
+
+#something-is-near h1 {
+	display: inline-block;
+	padding-right: .5em;
+   	border-right: 2px solid transparent;  /* fallback */
+	text-align: center;
+	
+	/* blinking text cursor animation */
+	-webkit-animation: blinking-text-cursor 1s step-start 0s infinite;
+	-moz-animation: blinking-text-cursor 1s step-start 0s infinite;
+	-ms-animation: blinking-text-cursor 1s step-start 0s infinite;
+	-o-animation: blinking-text-cursor 1s step-start 0s infinite;
+	animation: blinking-text-cursor 1s step-start 0s infinite;
 }
 
 /* color */
@@ -219,5 +222,37 @@ a.current-page {
   	}
   	100% {
     	background-color: #0000FF;
+  	}
+}
+
+/* blinking text cursor */
+
+@-webkit-keyframes blinking-text-cursor {
+	50% {
+    	border-right: 2px solid #FFF;
+  	}
+}
+
+@-moz-keyframes blinking-text-cursor {
+	50% {
+    	border-right: 2px solid #FFF;
+  	}
+}
+
+@-ms-keyframes blinking-text-cursor {
+	50% {
+    	border-right: 2px solid #FFF;
+  	}
+}
+
+@-o-keyframes blinking-text-cursor {
+	50% {
+    	border-right: 2px solid #FFF;
+  	}
+}
+
+@keyframes blinking-text-cursor {
+	50% {
+    	border-right: 2px solid #FFF;
   	}
 }

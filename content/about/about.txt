@@ -2,6 +2,10 @@ Title: about
 
 ----
 
-Text:
+Text: Formally trained in graphic design, a curious spirit has allowed Lucien to gain expertise in typography, interaction design, and mobile development. While this journey truly began with iWeb experiments, it matured following the debut of Windows Phone 8. 
+
+Refusing to use any sub-standard transit apps, Lucien taught himself C# and the principles of both object-oriented programming and Windows development. A few weeks later, MetroNext was in the store and the gates of nerddom opened. 
 
 In his spare time, Lucien enjoys LEGOs, Vespas, and cowboys.
+
+### (link: assets/pdf/Lucien_Liz-Lepiorz_CV.pdf target: _blank text: view curriculum vitae >)

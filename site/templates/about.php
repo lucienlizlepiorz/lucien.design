@@ -1,5 +1,5 @@
 <?php snippet("header") ?>
 
-<p><?php echo $page->text() ?></p>
+<?php echo $page->text()->kirbytext() ?>
 
 <?php snippet("footer") ?>
