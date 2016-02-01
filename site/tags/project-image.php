@@ -16,7 +16,7 @@ kirbytext::$tags["project-image"] = array(
     	$caption = NULL;
     }
             
-    return "<p><div class='project-image-container'><img class='project-image' src='".$url."' alt='".$description."'>".$caption."</div></p>";
+    return "<p><div class='project-image'><img src='".$url."' alt='".$description."'>".$caption."</div></p>";
   }
 );
 

@@ -76,7 +76,7 @@ body {
 	margin-bottom: 0;
 }
 
-.project-image-container, .project-image {
+.project-image, .project-image img {
 	display: block;
 	position: relative;
 	width: 100%;
@@ -189,10 +189,6 @@ a.current-page {
 
 .mono-bold {
 	font-family: 'Fira Mono Bold';
-}
-
-.extra-line-height {
-	line-height: 2em;
 }
 
 .project-title {
