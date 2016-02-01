@@ -69,15 +69,14 @@ body {
 }
 
 .project-image {
-	display: block;
+	display: inline-block;
 	width: 100%;
-	margin-top: 1em;
 }
 
 .project-image-caption {
 	position: absolute;
 	width: auto;
-	margin-top: -2em;
+	margin-top: -2.5em;
 	padding-top: .25em;
 	padding-right: .5em;
 	padding-bottom: .25em;
