@@ -68,15 +68,19 @@ body {
 	padding-bottom: 10em;
 }
 
-.project-image {
-	display: inline-block;
+#content *:nth-last-child(2) {
+	margin-bottom: 0;
+}
+
+.project-image-container, .project-image {
+	display: block;
 	width: 100%;
 }
 
 .project-image-caption {
 	position: absolute;
 	width: auto;
-	margin-top: -2.5em;
+	margin-top: -2em;
 	padding-top: .25em;
 	padding-right: .5em;
 	padding-bottom: .25em;
