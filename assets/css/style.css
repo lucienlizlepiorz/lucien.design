@@ -35,6 +35,20 @@ body {
 	text-align: center;
 }
 
+#name h1 {
+	display: inline-block;
+	padding-right: .25em;
+   	border-right: 2px solid transparent;  /* fallback */
+	text-align: center;
+	
+	/* blinking text cursor animation */
+	-webkit-animation: blinking-text-cursor 1s step-start 0s infinite;
+	-moz-animation: blinking-text-cursor 1s step-start 0s infinite;
+	-ms-animation: blinking-text-cursor 1s step-start 0s infinite;
+	-o-animation: blinking-text-cursor 1s step-start 0s infinite;
+	animation: blinking-text-cursor 1s step-start 0s infinite;
+}
+
 #push {
 	height: 2em;
 }
@@ -54,10 +68,22 @@ body {
 	padding-bottom: 10em;
 }
 
-#something-is-near {
-   	margin-top: 4em;
-   	margin-bottom: 4em;
-	text-align: center;
+.project-image {
+	display: block;
+	width: 100%;
+	margin-top: 1em;
+}
+
+.project-image-caption {
+	position: absolute;
+	width: auto;
+	margin-top: -2em;
+	padding-top: .25em;
+	padding-right: .5em;
+	padding-bottom: .25em;
+	padding-left: .5em;
+	background-color: #000;
+	background-color: rgba(0, 0, 0, .6);
 }
 
 /* fonts */
@@ -155,18 +181,12 @@ a.current-page {
 	font-family: 'Fira Mono Bold';
 }
 
-#something-is-near h1 {
-	display: inline-block;
-	padding-right: .5em;
-   	border-right: 2px solid transparent;  /* fallback */
-	text-align: center;
-	
-	/* blinking text cursor animation */
-	-webkit-animation: blinking-text-cursor 1s step-start 0s infinite;
-	-moz-animation: blinking-text-cursor 1s step-start 0s infinite;
-	-ms-animation: blinking-text-cursor 1s step-start 0s infinite;
-	-o-animation: blinking-text-cursor 1s step-start 0s infinite;
-	animation: blinking-text-cursor 1s step-start 0s infinite;
+.project-title {
+	margin-bottom: 0;
+}
+
+.project-keywords {
+	margin-bottom: 1.5em;
 }
 
 /* color */

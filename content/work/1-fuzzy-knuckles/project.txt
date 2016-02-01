@@ -1,0 +1,9 @@
+Title: Fuzzy Knuckles
+
+----
+
+Keywords: typography, generative, programming
+
+----
+
+Text: Envisioned as an homage to the designer, Fuzzy Knuckles takes Erik Spiekermann’s Fira Sans as a base upon which thousands of hairs generate and grow.
