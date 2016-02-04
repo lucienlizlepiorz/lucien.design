@@ -203,7 +203,7 @@ a.current-page {
 
 .secondary {
 	color: #FFF; /* fallback */
-	color: rgba(255, 255, 255, .65);
+	color: rgba(255, 255, 255, .70);
 }
 
 /* animation keyframes */
