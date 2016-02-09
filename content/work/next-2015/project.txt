@@ -1,0 +1,13 @@
+Title: NEXT 2015
+
+----
+
+Keywords: exhibition, branding, interaction
+
+----
+
+Text:
+
+(project-image: tombstone.png description: organic forms in classical motifs)
+
+(project-image: New-York-Ave.png description: banners at New York Avenue)
