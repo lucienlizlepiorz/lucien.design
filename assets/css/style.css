@@ -168,8 +168,10 @@ h3 {
 }
 
 ul {
-	margin-left: 1em; /* compensates for outside position */
 	list-style-type: square;
+	list-style-position: inside;
+	margin-left: 1em;
+	text-indent: -1em;
 }
 
 a {
