@@ -8,4 +8,6 @@ Instead of surrendering to sub-standard transit apps, Lucien taught himself C# a
 
 In his spare time, Lucien enjoys LEGOs, Vespas, and cowboys.
 
-### (link: assets/pdf/Lucien_Liz-Lepiorz_CV.pdf target: _blank text: view curriculum vitae >)
+### [view curriculum vitae >][1]
+
+[1]: assets/pdf/Lucien_Liz-Lepiorz_CV.pdf

@@ -25,7 +25,6 @@ html {
 body {
 	height: 100%;
 	font-size: 16px;
-	line-height: 1.5em;
 }
 
 #name, #navigation {
@@ -37,8 +36,9 @@ body {
 
 #name h1 {
 	display: inline-block;
+	margin-bottom: 0;
 	padding-right: .25em;
-   	border-right: 2px solid transparent;  /* fallback */
+   	border-right: 2px solid transparent; /* fallback */
 	text-align: center;
 	
 	/* blinking text cursor animation */
@@ -97,33 +97,38 @@ body {
 /* fonts */
 
 @font-face {
-  	font-family: 'Fira Sans Light';
- 	 src: url('../fonts/FiraSans-Light.eot') format('eot'), url('../fonts/FiraSans-Light.woff') format('woff'), url('../fonts/FiraSans-Light.ttf') format('truetype');
+  	font-family: "Fira Sans";
+ 	src: url("../fonts/FiraSans-Light.eot") format("eot"), url("../fonts/FiraSans-Light.woff") format("woff"), url("../fonts/FiraSans-Light.ttf") format("truetype");
 }
 
 @font-face {
-  	font-family: 'Fira Sans Light Italic';
- 	 src: url('../fonts/FiraSans-LightItalic.eot') format('eot'), url('../fonts/FiraSans-LightItalic.woff') format('woff'), url('../fonts/FiraSans-LightItalic.ttf') format('truetype');
+  	font-family: "Fira Sans";
+ 	src: url("../fonts/FiraSans-LightItalic.eot") format("eot"), url("../fonts/FiraSans-LightItalic.woff") format("woff"), url("../fonts/FiraSans-LightItalic.ttf") format("truetype");
+  	font-style: italic;
 }
 
 @font-face {
-  	font-family: 'Fira Sans Bold';
- 	 src: url('../fonts/FiraSans-Bold.eot') format('eot'), url('../fonts/FiraSans-Bold.woff') format('woff'), url('../fonts/FiraSans-Bold.ttf') format('truetype');
+  	font-family: "Fira Sans";
+ 	src: url("../fonts/FiraSans-Bold.eot") format("eot"), url("../fonts/FiraSans-Bold.woff") format("woff"), url("../fonts/FiraSans-Bold.ttf") format("truetype");
+	font-weight: bold;
 }
 
 @font-face {
-  	font-family: 'Fira Sans Bold Italic';
- 	 src: url('../fonts/FiraSans-BoldItalic.eot') format('eot'), url('../fonts/FiraSans-BoldItalic.woff') format('woff'), url('../fonts/FiraSans-BoldItalic.ttf') format('truetype');
+  	font-family: "Fira Sans";
+ 	src: url("../fonts/FiraSans-BoldItalic.eot") format("eot"), url("../fonts/FiraSans-BoldItalic.woff") format("woff"), url("../fonts/FiraSans-BoldItalic.ttf") format("truetype");
+	font-weight: bold;
+  	font-style: italic;
 }
 
 @font-face {
-  	font-family: 'Fira Mono Regular';
- 	 src: url('../fonts/FiraMono-Regular.eot') format('eot'), url('../fonts/FiraMono-Regular.woff') format('woff'), url('../fonts/FiraMono-Regular.ttf') format('truetype');
+  	font-family: "Fira Mono";
+ 	src: url("../fonts/FiraMono-Regular.eot") format("eot"), url("../fonts/FiraMono-Regular.woff") format("woff"), url("../fonts/FiraMono-Regular.ttf") format("truetype");
 }
 
 @font-face {
-  	font-family: 'Fira Mono Bold';
- 	 src: url('../fonts/FiraMono-Bold.eot') format('eot'), url('../fonts/FiraMono-Bold.woff') format('woff'), url('../fonts/FiraMono-Bold.ttf') format('truetype');
+  	font-family: "Fira Mono";
+  	font-weight: bold;
+ 	src: url("../fonts/FiraMono-Bold.eot") format("eot"), url("../fonts/FiraMono-Bold.woff") format("woff"), url("../fonts/FiraMono-Bold.ttf") format("truetype");
 }
 
 /* styles */
@@ -138,34 +143,36 @@ body {
     background-color: #000;
 }
 
-p, h1, h3 {
+p, h1, h3, ul, a {
 	color: #FFF;
 	font-weight: normal;
+	line-height: 1.5em;
+	margin-bottom: 1.5em;
 }
 
-p {
-	font-family: 'Fira Sans Light';
+p, ul {
+	font-family: "Fira Sans";
 	font-size: 1em; /* 16 x 1 = 16 */
-	margin-bottom: 1.5em; /* 16 x 1.5 = 24 */
 }
 
 h1 {
-	font-family: 'Fira Sans Light';
+	font-family: "Fira Sans";
 	font-size: 1.5em; /* 16 x 1.5 = 24 */
-	line-height: 1.5em; /* 24 x 1.5 = 36 */
 }
 
 h3 {
-	font-family: 'Fira Mono Regular';
+	font-family: "Fira Mono";
 	font-size: .75em; /* 16 x .75 = 12 */
-	line-height: 1.5em; /* 12 x 1.5 = 18 */
-	margin-bottom: 2em; /* 12 x 2 = 24 */
 	letter-spacing: 1px;
 	text-transform: uppercase;
 }
 
+ul {
+	margin-left: 1em; /* compensates for outside position */
+	list-style-type: square;
+}
+
 a {
-	color: #FFF;
 	text-decoration: none;
 	border-bottom: solid 1px #FFF;
 }
@@ -185,11 +192,12 @@ a.current-page {
 }
 
 .mono-regular {
-	font-family: 'Fira Mono Regular';
+	font-family: "Fira Mono";
 }
 
 .mono-bold {
-	font-family: 'Fira Mono Bold';
+	font-family: "Fira Mono";
+	font-weight: bold;
 }
 
 .project-title {

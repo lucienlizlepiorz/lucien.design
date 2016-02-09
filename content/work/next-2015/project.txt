@@ -6,7 +6,15 @@ Keywords: exhibition, branding, interaction
 
 ----
 
-Text:
+Text: Drawing inspiration from topography, the NEXT 2015 identity expresses both the Corcoran’s heritage and the journey that lies ahead. Individual paths unite in one community: the resemblance to a fingerprint heightens this notion. Digital components included comprehensive development and maintenance.
+
+### awards
+- Adobe Design Achievement Awards, Semifinalist <span class="secondary">*2015*</span>
+- Graphis Design Annual, Silver Award <span class="secondary">*2016*
+- HOW International Design Awards, Merit Award <span class="secondary">*2016*
+- University & College Designers Association, Award of Excellence <span class="secondary">*2015*</span>
+
+### [view the microsite >][1]
 
 (project-image: keywords.png description: developing a conceptual focus)
 
@@ -33,3 +41,5 @@ Text:
 (project-image: microsite.png description: microsite, initial view)
 
 (project-image: app.png description: directory & map kiosk)
+
+[1]: http://next.corcoran.gwu.edu/archive/2015
