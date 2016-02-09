@@ -8,6 +8,28 @@ Keywords: exhibition, branding, interaction
 
 Text:
 
+(project-image: keywords.png description: developing a conceptual focus)
+
+(project-image: wordmap.png description: finalized wordmap)
+
 (project-image: tombstone.png description: organic forms in classical motifs)
 
 (project-image: New-York-Ave.png description: banners at New York Avenue)
+
+(project-image: entryway.png description: recessed entryway graphics)
+
+(project-image: atrium.png description: branding at exhibition start)
+
+(project-image: hallway.png description: hallway directional aid)
+
+(project-image: wayfinding.png description: wayfinding signage)
+
+(project-image: print-invitation.png description: sculptural print invitation)
+
+(project-image: gallery-guide.png description: gallery guide & program)
+
+(project-image: merchandise.png description: selected merchandise)
+
+(project-image: microsite.png description: microsite, initial view)
+
+(project-image: app.png description: directory & map kiosk)
