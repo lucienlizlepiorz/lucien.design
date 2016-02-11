@@ -1,0 +1,41 @@
+Title: 1x1 Masters
+
+----
+
+Keywords: book design, typography, interaction design
+
+----
+
+Text: 1x1 Masters–utilizing a visual language of bitmapping and anti-Modernist composition–compares Matthew Carter, Zuzana Licko, and Rudy VanderLans: three of the digital age’s most prominent type designers. Image treatments reflect not only the original medium, but notions of influence and inextricable connection. Initially a 6" x 9" book, the design was later translated into an interactive publication via InDesign’s DPS suite of tools.
+
+(project-image: cover.png description: front & rear covers)
+
+(project-image: inside-cover.png description: inside cover)
+
+(project-image: a1.png description: Licko-VanderLans)
+
+(project-image: b1.png description: Massimo: Wanted)
+
+(project-image: detail-b1.png description: typographic system detail)
+
+(project-image: c1.png description: 128K alongside System 7)
+
+(project-image: a2.png description: multigenerational perspectives)
+
+(project-image: b2.png description: new tech, new art)
+
+(project-image: c2.png description: interdisciplinary process)
+
+(project-image: a3.png description: pixels to points)
+
+(project-image: b3.png description: type/image)
+
+(project-image: detail-b3.png description: image treatment detail)
+
+(project-image: c3.png description: Verdana versus Mason)
+
+(project-image: works-cited.png description: works cited)
+
+(project-image: iPad-b1a.png description: publication adapted for iPad)
+
+(project-image: iPad-b1b.png description: Easter egg: heathen’s dictionary)
