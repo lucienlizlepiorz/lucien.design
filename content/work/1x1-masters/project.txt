@@ -16,8 +16,6 @@ Text: 1x1 Masters–utilizing a visual language of bitmapping and anti-Modernist
 
 (project-image: b1.png description: Massimo: Wanted)
 
-(project-image: detail-b1.png description: typographic system detail)
-
 (project-image: c1.png description: 128K alongside System 7)
 
 (project-image: a2.png description: multigenerational perspectives)
@@ -30,11 +28,11 @@ Text: 1x1 Masters–utilizing a visual language of bitmapping and anti-Modernist
 
 (project-image: b3.png description: type/image)
 
-(project-image: detail-b3.png description: image treatment detail)
-
 (project-image: c3.png description: Verdana versus Mason)
 
 (project-image: works-cited.png description: works cited)
+
+(project-image: detail-typography.png description: typographic system detail)
 
 (project-image: iPad-b1a.png description: publication adapted for iPad)
 
