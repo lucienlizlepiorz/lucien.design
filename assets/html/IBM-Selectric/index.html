@@ -44,15 +44,21 @@
 		  	});
 		});
 		</script>
+		
+		<noscript>
+			<style type="text/css">
+				#preloader {
+					display: none;
+				}
+				
+				#container {
+					display: block;
+				}
+			</style>
+		</noscript>
 
 		<script type="text/javascript">
-			$(document).ready(function(){
-				$('#container').hide();
-				$("#preloader").show();
-			});
-  
 			$(window).load(function() { 
-				$("#container").hide();
 				$("#preloader").delay(0).fadeOut(1800); 
 				$('#container').fadeIn(1800);	
 			});
