@@ -1,0 +1,13 @@
+Title: IBM’s Selectric Revolution
+
+----
+
+Keywords: interaction design, web development, narrative
+
+----
+
+Text:
+
+### [view the site >][1]
+
+[1]: /assets/html/IBM-Selectric

@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8" />
+
+		<title>IBM&#8217;s Selectric Revolution</title>
+
+		<link rel="stylesheet" href="assets/css/style.css" type="text/css"/>
+
+		<!--loads a favicon (browser tab/url bar logo)-->
+		<link rel='shortcut icon' href='assets/images/favicon.ico' type='image/x-icon'/ >
+
+		<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+		<script type="text/javascript" src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+		<script type="text/javascript" src="assets/js/modernizr.js"></script>
+		<script type="text/javascript" src="assets/js/jquery.visible.min.js"></script>
+
+		<!--prevents user download of images-->
+		<script>
+			$(document).ready(function(){
+				$("img").mousedown(function(){
+					return false; 
+				});
+			});
+		</script>
+
+		<script>
+		$(function() {
+			$('a[href*=#]:not([href=#])').click(function() {
+				if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+			  		var target = $(this.hash);
+			  		target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+			  		
+			  		if (target.length) {
+						$('html,body').animate({
+				 		 	scrollTop: target.offset().top
+				 		 }, 1000);
+					
+						return false;
+			  		}
+				}
+		  	});
+		});
+		</script>
+
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$('#container').hide();
+				$("#preloader").show();
+			});
+  
+			$(window).load(function() { 
+				$("#container").hide();
+				$("#preloader").delay(0).fadeOut(1800); 
+				$('#container').fadeIn(1800);	
+			});
+		</script>
+	</head>
+
+	<body>
+
+		<div id="preloader">
+			<div id="loading"><p class="loadingtext">CONTENT LOADING...</p></div>
+		</div>
+
+		<div id="container">
+
+			<nav>
+				<ul class="navtext">
+					<li><a href="#intro">Introduction</a></li>
+					<li><a href="#typeball">The Typeball</a></li>
+					<li><a href="#composer">The Composer</a></li>
+				</ul>
+			</nav> 
+
+			<a name="intro"><div id="openingimagebox"></div></a>
+			
+			<div id="sitetitle">
+				<p class="title"><span class="highlight">Nothing</span> <span class="highlight">was</span> <span class="highlight">the</span> <span class="highlight">same.</span></p>
+			</div>
+			
+			<div id="openingcopy">
+				<p class="bodyintro">In 1961, IBM killed the traditional typewriter model. Their new Selectric typewriter didn't have keybars. Or a moving carriage. Or ink ribbons out in the open. Instead, a spherical typing element wizzed across the page, imprinting letters at an unprecedented speed. <span class="bodybold">It was called the typeball, and it came in over a dozen typefaces.</span></p>
+			</div>
+
+			<div id="content1">
+
+				<div id="timeline"></div>
+
+				<div id="leftcontainer">
+
+					<div class="left row1">
+						<div class="lefttext">
+							<p class="body">Since the 1800s, typewriters functioned by striking a typebar against paper when the corresponding key was pressed.</p>
+						</div>
+					</div>
+
+					<div class="left row2">
+						<div class="image" style="width:300px; height: 200px; position: absolute; right: 0px; top: 0px; background-image: url(assets/images/Carriage.gif); background-size: cover"></div>
+					</div>
+
+					<div class="left row3">
+						<div class="lefttext">
+							<p class="body">Additionally, only one monospaced typeface was at the user's disposal&mdash;no variation was available on the market.</p>
+						</div>
+					</div>
+
+				</div><!--end leftcontainer-->
+
+				<div id="rightcontainer">
+
+					<div class="right row1">
+						<div class="image" style="width:400px; height: 200px; position: absolute; left: 0px; top: 0px; background-image: url(assets/images/Keybar.gif); background-size: cover"></div>
+					</div>
+
+					<div class="right row2">
+						<div class="righttext">
+							<p class="body">As the typist worked through copy, the typewriter's carriage would move one space to the left with each additional keystroke.</p>
+						</div>
+					</div>
+
+					<div class="right row1">
+						<div class="image" style="width: 250px; height: 270px; position: absolute; left: 0px; top: 0px; background-image: url(assets/images/Paper.gif); background-size: cover"></div>
+					</div>
+
+				</div><!--end rightcontainer-->
+
+			</div><!--end content1-->
+
+			<a name="typeball"><div id="typeballimagebox"></div></a>
+
+			<div id="timelinejoint"></div>
+
+			<div class="secondarycopy">
+				<div class="secondarytitlebox">
+					<p class="secondarytitle">The Typeball</p>
+				</div>
+					
+				<p class="bodyintro">For seven years, IBM's engineers labored to perfect the Selectric's signature component: the typeball, also referred to as the &#8220;golf ball&#8221; and &#8220;single typing element.&#8221; IBM president Thomas Watson, Jr. labeled it as <span class="bodybold">&#8220;the most totally distinct invention we've ever made as a company.&#8221;</span> Each character was assigned binary code for tilt and rotation; engineers had also experimented with a mushroom form.</p>
+			</div>
+
+			<div id="content2">
+
+				<div id="timeline"></div>
+
+				<div id="leftcontainer">
+
+					<div class="left row4">
+						<div class="lefttext">
+							<p class="body">Instead of the carriage moving to accommodate additional text, the typewriter's housing remained completely still as the typeball worked its way across the page&mdash;all at blazing speed.</p>
+						</div>
+					</div>
+
+					<div class="left row5">
+						<div class="image" style="width:300px; height: 200px; position: absolute; right: 0px; top: 0px; background-image: url(assets/images/Typeball2.gif); background-size: cover"></div>
+					</div>
+
+					<div class="left row6">
+						<div class="lefttext">
+							<p class="body">Typists could resume from exactly where they left off. Consumer typefaces included a variety of serifs, sans serifs, and scripts.</p>
+						</div>
+					</div>
+
+				</div><!--end leftcontainer-->
+
+				<div id="rightcontainer">
+
+					<div class="right row4">
+						<div class="image" style="width:400px; height: 300px; position: absolute; left: 0px; top: 0px; background-image: url(assets/images/Typeball1.gif); background-size: cover; background-position: center;"></div>
+					</div>
+
+					<div class="right row5">
+						<div class="righttext">
+							<p class="body">The Selectric's housing could be easily opened to allow for a quick and simple typeface change.</p>
+						</div>
+					</div>
+
+					<div class="right row6">
+						<div class="image" style="width: 300px; height: 270px; position: absolute; left: 0px; top: 0px; background-image: url(assets/images/Typeball3.gif); background-size: cover"></div>
+					</div>
+
+				</div><!--end rightcontainer-->
+
+			</div><!--end content2-->
+
+			<a name="composer"><div id="composerimagebox"></div></a>
+
+			<div id="timelinejoint"></div>
+
+			<div class="secondarycopy">
+				<div class="secondarytitlebox">
+					<p class="secondarytitle">The Composer</p>
+				</div>
+					
+				<p class="bodyintro">Before the personal computer, professional typesetting required an investment of hundreds of thousands of dollars in specialized phototypesetting equipment. To streamline the process and appeal to smaller businesses, IBM released the Selectric Composer family of devices. <span class="bodybold">Using unique, variable-width typefaces and magnetic tape, body copy could be produced with professional results.</span></p>
+			</div>
+
+			<div id="content3">
+
+				<div id="timeline"></div>
+
+				<div id="leftcontainer">
+
+					<div class="left row7">
+						<div class="lefttext">
+							<p class="body">First, copy was typed on the basic, monospaced Magnetic Typewriter which recorded each character on magnetic tape.</p>
+						</div>
+					</div>
+
+					<div class="left row8">
+						<div class="image" style="width:300px; height: 250px; position: absolute; right: 0px; top: 0px; background-image: url(assets/images/Magnetic-Tape.png); background-size: cover; background-position: center;"></div>
+					</div>
+
+					<div class="left row9">
+						<div class="lefttext">
+							<p class="body">Finally, justification settings were calculated and set, and the Magnetic Composer read the tape, automatically outputting the copy onto paper. The operator would need to be present to oversee end-of-line decisions such as hypenation.</p>
+						</div>
+					</div>
+
+				</div><!--end leftcontainer-->
+
+				<div id="rightcontainer">
+
+					<div class="right row7">
+						<div class="image" style="width:380px; height: 250px; position: absolute; left: 0px; top: 0px; background-image: url(assets/images/Magnetic-Typewriter.png); background-size: cover; background-position: center;"></div>	
+					</div>
+
+					<div class="right row8">
+						<div class="righttext">
+							<p class="body">The finalized tape was then removed and placed into the computer's second bay; corrections could be implemented by cutting and replacing the corresponding section of tape.</p>
+						</div>
+					</div>
+
+					<div class="right row9">
+						<div class="image" style="width: 380px; height: 250px; position: absolute; left: 0px; top: 0px; background-image: url(assets/images/Magnetic-Composer.png); background-size: cover; background-position: center;"></div>
+					</div>
+
+				</div><!--end rightcontainer-->
+
+			</div><!--end content3-->
+
+			<div id="IBMLogo">
+				<img src="assets/images/IBM-Logo.png" style="width: 100px; height: auto; margin-top: 3px;"/>
+			</div>
+			
+			<div id="IBMLogotext">
+				<p class="logotext"><span class="white">A Culture of THINK</span><br /><br /><a href="#intro">TOP</a></p>
+			</div>
+
+			<!--scripts for fly-in columns-->
+			<script>
+				var win = $(window);
+				var leftMods = $(".left");
+
+				leftMods.each(function(i, el) {
+					if ($(el).visible(true)) {
+						$(el).addClass("already-visible"); 
+					}
+				});
+
+				win.scroll(function(event) {
+					leftMods.each(function(i, el) {
+						var el = $(el);
+
+						if (el.visible(true)) {
+							el.addClass("come-in"); 
+						} else {
+							el.removeClass("come-in already-visible");
+						}
+				  	});
+				});
+			</script>
+
+			<script>
+				var win = $(window);
+				var rightMods = $(".right");
+
+				rightMods.each(function(i, el) {
+					if ($(el).visible(true)) {
+						$(el).addClass("already-visible-right"); 
+				  	}
+				});
+
+				win.scroll(function(event) {
+				  	rightMods.each(function(i, el) {
+						var el = $(el);
+
+						if (el.visible(true)) {
+					  		el.addClass("come-in-right"); 
+						} else {
+					  		el.removeClass("come-in-right already-visible-right");
+						}
+				  	});
+				});
+			</script>
+
+		</div><!--end container-->
+
+	</body>
+
+</html>

@@ -10,4 +10,4 @@ In his spare time, Lucien enjoys LEGOs, Vespas, and cowboys.
 
 ### [view curriculum vitae >][1]
 
-[1]: assets/pdf/Lucien-Liz-Lepiorz-CV.pdf
+[1]: /assets/pdf/Lucien-Liz-Lepiorz-CV.pdf
