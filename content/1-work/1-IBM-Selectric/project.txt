@@ -1,0 +1,35 @@
+Title: IBM’s Selectric Revolution
+
+----
+
+Keywords: interaction design, web development, narrative
+
+----
+
+Text: As the first commercially-viable typewriter to offer interchangeable typefaces, the IBM Selectric introduced unseen visual diversity to the masses. Structured around the concept of a timeline, this site summarizes both technological breakthroughs and the models available for production-ready typesetting.
+
+### [view the site >][1]
+
+(project-image: sitemap.png description: preliminary sitemap)
+
+(project-image: low-res-nothing.png description: low-res wireframe)
+
+(project-image: hi-res-typeball.png description: applying color & content)
+
+(project-image: hi-res-timeline.png description: initial image exploration)
+
+(project-image: nothing.png description: setting the stage)
+
+(project-image: typeball.png description: introduction of mechanics)
+
+(project-image: detail-composition.png description: compositional detail)
+
+(project-image: timeline.png description: staggered timeline placement)
+
+(project-image: detail-animated.gif description: animated detail)
+
+(project-image: composer.png description: text as visual form)
+
+(project-image: IBM.png description: big blue at the root)
+
+[1]: /assets/html/IBM-Selectric
