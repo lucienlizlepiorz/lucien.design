@@ -6,7 +6,7 @@ Keywords: interaction design, web development, narrative
 
 ----
 
-Text: As the first commercially-viable typewriter to offer interchangeable typefaces, the IBM Selectric introduced unseen visual diversity to the masses. Structured around the concept of a timeline, this site summarizes both technological breakthroughs and the models available for production-ready typesetting.
+Text: As the first commercially-viable typewriter to offer interchangeable typefaces, the IBM Selectric introduced unseen visual diversity to the masses. Structured around the concept of a timeline, this website summarizes both technological breakthroughs and the models available for production-ready typesetting.
 
 ### [view the site >][1]
 
