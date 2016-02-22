@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" lang="en">
 <head>  
                                                                                                                                                                                                                             
      <!--                 LLLLLL                            LLLL           LLLLL                                        
@@ -26,7 +26,8 @@
                   LLLL         LLLLLLLLLL    LLLLLLLL        LLLLLLLL         LLLLL     LLLLLLLL   I am Macintosh-->                                                                                                                        
 
 	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;"/>
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;"/>	
+	<meta property="og:image" content="<?php echo url("content/1-work/3-1x1-Masters/b3.png") ?>" />
 
 	<link rel="shortcut icon" href="<?php echo url("assets/images/favicon.ico") ?>" type="image/x-icon"/>
 
@@ -41,7 +42,7 @@
 
 	<title><?php echo $page->title() ?> :: <?php echo $site->title() ?></title>
 
-	<meta name="description" content="<?php echo $site->description()->html() ?>">
+	<meta name="description" content="<?php echo $site->description()->html() ?>">	
 	<meta name="keywords" content="<?php echo $site->keywords()->html() ?>">
 
 	<?php echo css("assets/css/style.css") ?>

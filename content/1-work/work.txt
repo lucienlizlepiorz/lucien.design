@@ -1,1 +1,5 @@
 Title: work
+
+----
+
+Text: welcome to a corner of the world wide web that’s home to design for mobile devices, the web, print, and our physical environment. Take a gander.

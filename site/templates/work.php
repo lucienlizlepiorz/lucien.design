@@ -2,6 +2,10 @@
 
 <?php snippet("top") ?>
 
+<h1 id="hello" class="mono-bold">hello.</h1>
+
+<div id="welcome-text"><?php echo $page->text()->kirbytext() ?></div>
+
 <ul id="projects-list">
   
 	<?php foreach(page('work')->children()->visible()->flip() as $project): ?>
