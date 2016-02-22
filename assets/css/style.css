@@ -221,9 +221,9 @@ li {
 li:before {
     display: table-cell;
     position: relative;
-    top: -.15em;
-    padding-right: .5em;
-    font-size: .75em;
+    top: -.2em;
+    padding-right: .6em;
+    font-size: .6em;
     content: "▸";
 }
 
