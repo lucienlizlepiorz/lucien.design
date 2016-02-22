@@ -208,8 +208,6 @@ h3 {
 ul {
 	list-style-type: square;
 	list-style-position: inside;
-	margin-left: 1em;
-	text-indent: -1em;
 }
 
 a {
