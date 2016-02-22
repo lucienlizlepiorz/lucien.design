@@ -219,6 +219,11 @@ body {
  	src: url("../fonts/FiraMono-Bold.eot") format("eot"), url("../fonts/FiraMono-Bold.woff") format("woff"), url("../fonts/FiraMono-Bold.ttf") format("truetype");
 }
 
+@font-face {
+  	font-family: "Wingdings 3";
+ 	src: url("../fonts/Wingdings-3.eot") format("eot"), url("../fonts/Wingdings-3.woff") format("woff"), url("../fonts/Wingdings-3.ttf") format("truetype");
+}
+
 /* styles */
 
 ::selection {
@@ -267,8 +272,8 @@ li {
 li:before {
     display: table-cell;
     padding-right: .5em;
-    font-size: .75em;
-    content: "▸";
+    font-family: "Wingdings 3";
+    content: "ê";
 }
 
 a {
