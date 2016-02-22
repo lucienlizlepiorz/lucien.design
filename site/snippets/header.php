@@ -23,7 +23,7 @@
                   LLLL         LLL      LLLLLLLL      LLLLLL          LLLLLLL      LLLLL        LLL                     
                   LLL          LLL      LLLLLL     LLLLLLLLLLLLLLLLLLLLLLLLLLLL LLLLLLLLL     LLLL               
                   LLL          LLLLLLLLLLLLLLLLLLLLLLLL    LLLLLLLLLLLL    LLLLLLLLLL  LLLLLLLLLL                   
-                  LLLL         LLLLLLLLLL    LLLLLLLL        LLLLLLLL         LLLLL     LLLLLLLL   I am Macintosh-->                                                                                                                        
+                  LLLL         LLLLLLLLLL    LLLLLLLL        LLLLLLLL         LLLLL     LLLLLLLL   I am Macintosh -->                                                                                                                        
 
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;"/>	
