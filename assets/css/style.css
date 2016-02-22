@@ -103,6 +103,10 @@ body {
 	margin-bottom: 2em;
 }
 
+#projects-list li:before {
+	display: none;
+}
+
 #projects-list a {
 	border-bottom: none;
 }
@@ -206,8 +210,21 @@ h3 {
 }
 
 ul {
-	list-style-type: square;
-	list-style-position: inside;
+    display: table;
+}
+
+li {
+    list-style: none;
+    display: table-row;
+}
+
+li:before {
+    display: table-cell;
+    position: relative;
+    top: -.15em;
+    padding-right: .5em;
+    font-size: .75em;
+    content: "▸";
 }
 
 a {
