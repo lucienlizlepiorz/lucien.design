@@ -6,7 +6,7 @@ Author: Lucien Liz-Lepiorz
 
 ----
 
-Description: design & development by Lucien Liz-Lepiorz.
+Description: design & development by Lucien Liz-Lepiorz. projects span mobile devices, the web, print, and our physical environment.
 
 ----
 
