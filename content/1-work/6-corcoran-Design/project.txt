@@ -20,7 +20,7 @@ Text: Showcasing undergraduate 2D design work from the Corcoran School of the Ar
 
 (project-image: secondary.png description: info & project interfaces)
 
-(project-image: iPad-motion.png description: device-agnostic structure)
+(project-image: iPad-motion.png description: adaptive structure)
 
 (project-image: iPad-info.png description: altered navigation for tablet)
 
