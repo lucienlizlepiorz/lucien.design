@@ -20,4 +20,10 @@ Text: Showcasing undergraduate 2D design work from the Corcoran School of the Ar
 
 (project-image: secondary.png description: info & project interfaces)
 
+(project-image: iPad-motion.png description: device-agnostic structure)
+
+(project-image: iPad-info.png description: altered navigation for tablet)
+
+(project-image: iPad-project.png description: optimized real estate)
+
 [1]: https://itunes.apple.com/us/app/corcoran-design/id1009557568?mt=8

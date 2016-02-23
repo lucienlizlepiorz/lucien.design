@@ -1,0 +1,29 @@
+Title: The Lives of Others
+
+----
+
+Keywords: motion design, title credits, surveillance
+
+----
+
+Text: Touching on themes of institutionalized suppression, artistic subversion, personal doubt, and unknown intimacy, *The Lives of Others* follows a cog in the Stasi’s police machine. Looped footage of cold, metallic environments communicates an oppressive atmosphere; before transitioning, each named entity disintegrates into indecipherable code, and ultimately, oblivion.
+
+<div class="video-wrapper"><iframe src="https://player.vimeo.com/video/127494616" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
+(project-image: networks.png description: alternative concept: networks)
+
+(project-image: tape.png description: magnetic recordings)
+
+(project-image: waiting.png description: the anonymous state)
+
+(project-image: files.png description: compositional integration)
+
+(project-image: code.png description: disappearing into code)
+
+(project-image: darkness.png description: listening station, hidden type)
+
+(project-image: light.png description: identity revealed)
+
+(project-image: needle.png description: manic audio needle)
+
+(project-image: final.png description: film title, closing frame)
