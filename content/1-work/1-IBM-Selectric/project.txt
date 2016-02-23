@@ -30,6 +30,6 @@ Text: As the first commercially-viable typewriter to offer interchangeable typef
 
 (project-image: composer.png description: text as visual form)
 
-(project-image: IBM.png description: big blue at the root)
+(project-image: IBM.png description: end: big blue at the root)
 
 [1]: /assets/html/IBM-Selectric

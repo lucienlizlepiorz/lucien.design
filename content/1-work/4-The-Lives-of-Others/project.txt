@@ -20,10 +20,10 @@ Text: Touching on themes of institutionalized suppression, artistic subversion, 
 
 (project-image: code.png description: disappearing into code)
 
-(project-image: darkness.png description: listening station, hidden type)
+(project-image: darkness.png description: listening station, hidden title)
 
 (project-image: light.png description: identity revealed)
 
 (project-image: needle.png description: manic audio needle)
 
-(project-image: final.png description: film title, closing frame)
+(project-image: final.png description: closing frame with film title)

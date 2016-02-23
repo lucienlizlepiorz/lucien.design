@@ -12,7 +12,7 @@ Text: Showcasing undergraduate 2D design work from the Corcoran School of the Ar
 
 (project-image: primary.png description: design categories)
 
-(project-image: home.png description: home screen with app icon)
+(project-image: home.png description: home screen with icon)
 
 (project-image: graphic.png description: modular thumbnail grid)
 

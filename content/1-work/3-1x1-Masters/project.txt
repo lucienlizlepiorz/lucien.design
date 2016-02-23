@@ -28,7 +28,7 @@ Text: 1x1 Masters–utilizing a visual language of bitmapping and anti-Modernist
 
 (project-image: b3.png description: type/image)
 
-(project-image: c3.png description: Verdana versus Mason)
+(project-image: c3.png description: Verdana with Mason)
 
 (project-image: works-cited.png description: works cited)
 
