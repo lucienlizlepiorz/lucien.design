@@ -31,13 +31,13 @@
 
 	<link rel="shortcut icon" href="<?php echo url("assets/images/favicon.ico") ?>" type="image/x-icon"/>
 
-	<!-- IE 9 and below -->
+	<!-- icons for IE 9 and below -->
 	<!--[if IE]><link rel="shortcut icon" href="<?php echo url("assets/images/favicon.ico") ?>"><![endif]-->
 
-	<!-- touch icons - iOS and Android 2.1+  --> 
+	<!-- icons for touch - iOS and Android 2.1+  --> 
 	<link rel="apple-touch-icon" href="<?php echo url("assets/images/apple-touch-icon.png") ?>">
 
-	<!-- Firefox, Chrome, Safari, IE 11+ and Opera -->
+	<!-- icons for Firefox, Chrome, Safari, IE 11+ and Opera -->
 	<link rel="icon" href="<?php echo url("assets/images/favicon.png") ?>">
 
 	<title><?php echo $page->title() ?> :: <?php echo $site->title() ?></title>
@@ -46,6 +46,15 @@
 	<meta name="keywords" content="<?php echo $site->keywords()->html() ?>">
 
 	<?php echo css("assets/css/style.css") ?>
+	
+	<!-- css for IE 9 and below -->
+	<!--[if IE]>
+		<style type="text/css">
+        	#name h1 {
+				padding-right: 0;
+				border-right: none;
+			}
+    <![endif]-->
 	
 	<?php snippet("analytics") ?>
 
