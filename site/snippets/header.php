@@ -50,11 +50,12 @@
 	<!-- css for IE 9 and below -->
 	<!--[if IE]>
 		<style type="text/css">
-        	#name h1 {
+    		#name h1 {
 				padding-right: 0;
-				border-right: none;
+   				border-right: none;
 			}
-    <![endif]-->
+		</style>
+	<![endif]-->
 	
 	<?php snippet("analytics") ?>
 

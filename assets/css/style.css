@@ -7,12 +7,13 @@
 * {
 	margin: 0;
  	padding: 0;
+ 	border: none;
 }
 
 html {
 	width: 100%;
  	height: 100%;
- 	background-color: #0000FF; /* fallback */
+ 	background-color: #0000FF;
  	 	
  	/* background color animation */
 	-webkit-animation: background-color-change 1s ease-out 1;
@@ -25,6 +26,10 @@ html {
 body {
 	height: 100%;
 	font-size: 16px;
+}
+
+span { 
+	display: inline-block;
 }
 
 #bsod-link {
@@ -64,7 +69,8 @@ body {
 }
 
 #bsod-cursor {
-	color: transparent; /* fallback */
+	color: #AAA;
+	visibility: hidden;
 	
 	/* blinking underscore animation */
 	-webkit-animation: blinking-underscore 1s step-start 0s infinite;
@@ -85,7 +91,7 @@ body {
 	display: inline-block;
 	margin-bottom: 0;
 	padding-right: .25em;
-   	border-right: 2px solid transparent; /* fallback */
+   	border-right: 2px solid transparent;
 	text-align: center;
 	
 	/* blinking text cursor animation */
@@ -131,6 +137,10 @@ body {
 	padding-top: 1em;
 	padding-bottom: 1em;
 	border-bottom: 1px solid #FFF;
+}
+
+#welcome-text p {
+	margin-bottom: 0;
 }
 
 #projects-list {
@@ -182,9 +192,16 @@ body {
 	background-color: rgba(0, 0, 0, .6);
 }
 
+.project-image-caption h3 {
+	margin-bottom: 0;
+}
+
 .video-wrapper {
+	display: block;
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
+	width: 100%;
+	overflow: hidden;
 }
 
 .video-wrapper iframe {
@@ -199,42 +216,63 @@ body {
 
 @font-face {
   	font-family: "Fira Sans";
- 	src: url("../fonts/FiraSans-Light.eot") format("eot"), url("../fonts/FiraSans-Light.woff") format("woff"), url("../fonts/FiraSans-Light.ttf") format("truetype");
+  	src: url("../fonts/FiraSans-Light.eot") format("eot");
+    src: url('../fonts/FiraSans-Light.eot?#iefix') format('embedded-opentype'),
+         url("../fonts/FiraSans-Light.woff") format('woff'),
+         url("../fonts/FiraSans-Light.ttf") format('truetype');         
 }
 
 @font-face {
   	font-family: "Fira Sans";
- 	src: url("../fonts/FiraSans-LightItalic.eot") format("eot"), url("../fonts/FiraSans-LightItalic.woff") format("woff"), url("../fonts/FiraSans-LightItalic.ttf") format("truetype");
+  	src: url("../fonts/FiraSans-LightItalic.eot") format("eot");
+    src: url('../fonts/FiraSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+         url("../fonts/FiraSans-LightItalic.woff") format('woff'),
+         url("../fonts/FiraSans-LightItalic.ttf") format('truetype');
   	font-style: italic;
 }
 
 @font-face {
-  	font-family: "Fira Sans";
- 	src: url("../fonts/FiraSans-Bold.eot") format("eot"), url("../fonts/FiraSans-Bold.woff") format("woff"), url("../fonts/FiraSans-Bold.ttf") format("truetype");
+  	font-family: "Fira Sans";	
+	src: url("../fonts/FiraSans-Bold.eot") format("eot");
+    src: url('../fonts/FiraSans-Bold.eot?#iefix') format('embedded-opentype'),
+         url("../fonts/FiraSans-Bold.woff") format('woff'),
+         url("../fonts/FiraSans-Bold.ttf") format('truetype');
 	font-weight: bold;
 }
 
 @font-face {
-  	font-family: "Fira Sans";
- 	src: url("../fonts/FiraSans-BoldItalic.eot") format("eot"), url("../fonts/FiraSans-BoldItalic.woff") format("woff"), url("../fonts/FiraSans-BoldItalic.ttf") format("truetype");
+  	font-family: "Fira Sans";	
+	src: url("../fonts/FiraSans-BoldItalic.eot") format("eot");
+    src: url('../fonts/FiraSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+         url("../fonts/FiraSans-BoldItalic.woff") format('woff'),
+         url("../fonts/FiraSans-BoldItalic.ttf") format('truetype');
 	font-weight: bold;
   	font-style: italic;
 }
 
 @font-face {
-  	font-family: "Fira Mono";
- 	src: url("../fonts/FiraMono-Regular.eot") format("eot"), url("../fonts/FiraMono-Regular.woff") format("woff"), url("../fonts/FiraMono-Regular.ttf") format("truetype");
+  	font-family: "Fira Mono";	
+ 	src: url("../fonts/FiraMono-Regular.eot") format("eot");
+    src: url('../fonts/FiraMono-Regular.eot?#iefix') format('embedded-opentype'),
+         url("../fonts/FiraMono-Regular.woff") format('woff'),
+         url("../fonts/FiraMono-Regular.ttf") format('truetype');	
 }
 
 @font-face {
   	font-family: "Fira Mono";
-  	font-weight: bold;
- 	src: url("../fonts/FiraMono-Bold.eot") format("eot"), url("../fonts/FiraMono-Bold.woff") format("woff"), url("../fonts/FiraMono-Bold.ttf") format("truetype");
+ 	src: url("../fonts/FiraMono-Bold.eot") format("eot");
+    src: url('../fonts/FiraMono-Bold.eot?#iefix') format('embedded-opentype'),
+         url("../fonts/FiraMono-Bold.woff") format('woff'),
+         url("../fonts/FiraMono-Bold.ttf") format('truetype');
+ 	font-weight: bold;
 }
 
 @font-face {
-  	font-family: "Wingdings 3";
- 	src: url("../fonts/Wingdings-3.eot") format("eot"), url("../fonts/Wingdings-3.woff") format("woff"), url("../fonts/Wingdings-3.ttf") format("truetype");
+  	font-family: "FontAwesome";	
+ 	src: url("../fonts/FontAwesome.eot") format("eot");
+    src: url('../fonts/FontAwesome.eot?#iefix') format('embedded-opentype'),
+         url("../fonts/FontAwesome.woff") format('woff'),
+         url("../fonts/FontAwesome.ttf") format('truetype'); 	
 }
 
 /* styles */
@@ -274,19 +312,19 @@ h3 {
 }
 
 ul {
-    display: table;
-}
-
-li {
-    list-style: none;
-    display: table-row;
+    list-style-type: none;
+    margin-left: .625em;
 }
 
 li:before {
-    display: table-cell;
-    padding-right: .5em;
-    font-family: "Wingdings 3";
-    content: "ê";
+    display: inline-block;
+    position: relative;
+    top: -.0625em;
+    left: -1em;
+    width: 0;
+    font-family: "FontAwesome";
+    font-size: .625em;
+    content: "\f0da";
 }
 
 a {
@@ -328,7 +366,7 @@ a.current-page {
 /* color */
 
 .secondary {
-	color: #FFF; /* fallback */
+	filter: alpha(opacity=70); /* IE 5+ */
 	color: rgba(255, 255, 255, .70);
 }
 
@@ -338,31 +376,31 @@ a.current-page {
 
 @-webkit-keyframes blinking-underscore {
 	50% {
-    	color: #AAA;
+    	visibility: visible;
   	}
 }
 
 @-moz-keyframes blinking-underscore {
 	50% {
-    	color: #AAA;
+    	visibility: visible;
   	}
 }
 
 @-ms-keyframes blinking-underscore {
 	50% {
-    	color: #AAA;
+    	visibility: visible;
   	}
 }
 
 @-o-keyframes blinking-underscore {
 	50% {
-    	color: #AAA;
+    	visibility: visible;
   	}
 }
 
 @keyframes blinking-underscore {
 	50% {
-    	color: #AAA;
+    	visibility: visible;
   	}
 }
 
