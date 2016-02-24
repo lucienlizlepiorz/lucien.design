@@ -5,6 +5,30 @@
 /* @fontface */
 
 @font-face {
+  	font-family: "Ubuntu Mono Bold";
+  	src: url("../fonts/ubuntumono-bold.eot") format("eot");
+    src: url("../fonts/ubuntumono-bold.eot?#iefix") format("embedded-opentype"),
+         url("../fonts/ubuntumono-bold.woff") format("woff"),
+         url("../fonts/ubuntumono-bold.ttf") format("truetype");         
+}
+
+@font-face {
+  	font-family: "Ubuntu Light";
+  	src: url("../fonts/ubuntu-light.eot") format("eot");
+    src: url("../fonts/ubuntu-light.eot?#iefix") format("embedded-opentype"),
+         url("../fonts/ubuntu-light.woff") format("woff"),
+         url("../fonts/ubuntu-light.ttf") format("truetype");         
+}
+
+@font-face {
+  	font-family: "Ubuntu Bold";
+  	src: url("../fonts/ubuntu-bold.eot") format("eot");
+    src: url("../fonts/ubuntu-bold.eot?#iefix") format("embedded-opentype"),
+         url("../fonts/ubuntu-bold.woff") format("woff"),
+         url("../fonts/ubuntu-bold.ttf") format("truetype");         
+}
+
+@font-face {
   	font-family: 'Ubuntu Mono Bold';
  	src: url('../fonts/ubuntumono-bold.eot') format('eot'), url('../fonts/ubuntumono-bold.woff') format('woff'), url('../fonts/ubuntumono-bold.ttf') format('truetype'); 
 }
