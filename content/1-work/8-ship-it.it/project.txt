@@ -1,0 +1,33 @@
+Title: ship.it
+
+----
+
+Keywords: interaction design, programming, Android
+
+----
+
+Text: Addressing a gap in the marketplace, ship.it joins two of the most requested shipping queries–rates and tracking information–with a series of approachable, concise interfaces. Through the EasyPost API, users can immediately compare service levels, costs, and tracking details between FedEx, UPS, and the United States Postal Service. Additional features include support for both Spanish speakers and foreign unit systems. Pending release on Google Play.
+
+(project-image: user-flow.png description: initial flowmap)
+
+(project-image: launch.png description: launching & location request)
+
+(project-image: ship.png description: shipment data entry)
+
+(project-image: error-toast.png description: error toast)
+
+(project-image: requesting-rates.png description: set origin, rates request sequence)
+
+(project-image: rates.png description: rates sorted by carrier & cost)
+
+(project-image: track.png description: tracking input with history)
+
+(project-image: requesting-details.png description: retrieving details)
+
+(project-image: package-saved.png description: package information saved)
+
+(project-image: action-bar-menu.png description: menu options)
+
+(project-image: settings.png description: settings interface)
+
+(project-image: Spanish-rate-review.png description: Spanish translation: rate & review)
