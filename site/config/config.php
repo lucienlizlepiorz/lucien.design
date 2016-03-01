@@ -30,3 +30,4 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 */
 
 c::set("home", "work");
+c::set('ssl', true);
