@@ -25,9 +25,9 @@
                 LLL          LLLLLLLLLLLLLLLLLLLLLLLL    LLLLLLLLLLLL    LLLLLLLLLL  LLLLLLLLLL                   
                 LLLL         LLLLLLLLLL    LLLLLLLL        LLLLLLLL         LLLLL     LLLLLLLL   I am Macintosh. -->                                                                                                                        
 
-	<meta charset="utf-8" />
+	<meta charset="utf-8"/>
 	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;"/>	
-	<meta property="og:image" content="<?php echo url("content/1-work/3-1x1-Masters/b3.png") ?>" />
+	<meta property="og:image" content="<?php echo url("content/1-work/3-1x1-Masters/b3.png") ?>"/>
 
 	<link rel="shortcut icon" href="<?php echo url("assets/images/favicon.ico") ?>" type="image/x-icon"/>
 
