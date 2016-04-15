@@ -29,8 +29,6 @@
 	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;"/>	
 	<meta property="og:image" content="<?php echo url("content/1-work/3-1x1-Masters/b3.png") ?>"/>
 
-	<link rel="shortcut icon" href="<?php echo url("assets/images/favicon.ico") ?>" type="image/x-icon"/>
-
 	<!-- icons for IE 9 and below -->
 	<!--[if IE]><link rel="shortcut icon" href="<?php echo url("assets/images/favicon.ico") ?>"><![endif]-->
 
