@@ -10,9 +10,13 @@ Text: Addressing a gap in the marketplace, ship.it joins two of the most request
 
 (project-image: user-flow.png description: initial flowmap)
 
+During planning, the proposed feature set included optional user account creation via Facebook authentication. As this would primarily benefit the fringe case of users with multiple installations, accounts were sacrificed for an increased focus on core functionality. 
+
 (project-image: launch.png description: launching & location request)
 
 (project-image: ship.png description: shipment data entry)
+
+An emphasis on lowercase capitalization and friendly error notifications humanizes the entire experience, further helping to render obtuse data as approachable by anyone.
 
 (project-image: error-toast.png description: error toast)
 
@@ -20,14 +24,20 @@ Text: Addressing a gap in the marketplace, ship.it joins two of the most request
 
 (project-image: rates.png description: rates sorted by carrier & cost)
 
+When requesting either rates or tracking information, users encounter color schemes derived from each carrier’s branding identity. Instead of presenting individual logos alongside a single color palette, this broad application unites elements across interactions and provides subtle reinforcement for the user.
+
 (project-image: track.png description: tracking input with history)
 
 (project-image: requesting-details.png description: retrieving details)
 
 (project-image: package-saved.png description: package information saved)
 
+Optional package names provide quick recognition and fully bridge the enterprise and consumer spaces: anonymous numbers gain personal meaning. Based on a package’s delivery status, two distinct categories aid in organization. Users may additionally clear their entire history or individually delete entries.
+
 (project-image: action-bar-menu.png description: menu options)
 
 (project-image: settings.png description: settings interface)
 
 (project-image: Spanish-rate-review.png description: Spanish translation: rate & review)
+
+Multi-lingual support includes localized strings, as well as automatic conversion of dates and time stamps into the user’s natural format. Negotiating these translations ultimately resulted in concise text across languages.

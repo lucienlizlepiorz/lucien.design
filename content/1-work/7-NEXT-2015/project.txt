@@ -20,11 +20,15 @@ Text: Drawing inspiration from topography, the *NEXT* 2015 identity expresses bo
 
 (project-image: wordmap.png description: finalized wordmap)
 
+Set against the backdrop of an institutional merger between the Corcoran and George Washington University, wordmap ideation allowed each junior designer to craft an identity rooted in these key concepts. From a group of three options, the final direction (my individual design) combines organic movement with technical structure: a synthesis of identities. 
+
 (project-image: tombstone.png description: organic forms in classical motifs)
 
 (project-image: New-York-Ave.png description: banners at New York Avenue)
 
 (project-image: entryway.png description: recessed entryway graphics)
+
+In addition to providing an additional level of visual interest (one that also retains the viewer’s focus on form and legibility), cool tones compliment the branding program’s architectural context.
 
 (project-image: atrium.png description: branding at exhibition start)
 
@@ -32,11 +36,15 @@ Text: Drawing inspiration from topography, the *NEXT* 2015 identity expresses bo
 
 (project-image: wayfinding.png description: wayfinding signage)
 
+Visual vocabulary included the integration of abstract forms and solid gradient fields that mimicked the wordmark’s movement. Both elements add depth and dimension, further highlighting an interdisciplinary nature.
+
 (project-image: print-invitation.png description: sculptural print invitation)
 
 (project-image: gallery-guide.png description: gallery guide & program)
 
 (project-image: merchandise.png description: selected merchandise)
+
+Digital components introduced black transparencies and blurred, gradient-like imagery. Intended as a means to refine hierarchical relationships, these techniques emulate the capabilities of physical texture, form, and distance.
 
 (project-image: microsite.png description: microsite, initial view)
 

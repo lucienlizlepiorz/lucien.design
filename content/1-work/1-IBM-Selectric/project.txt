@@ -18,18 +18,26 @@ Text: As the first commercially-viable typewriter to offer interchangeable typef
 
 (project-image: hi-res-timeline.png description: initial image exploration)
 
+Between the ideation and development stages, image treatment shifted from primarily static, full-color reproductions to animated black-and-white GIFs. 
+
 (project-image: nothing.png description: setting the stage)
 
 (project-image: typeball.png description: introduction of mechanics)
 
 (project-image: detail-composition.png description: compositional detail)
 
+Dramatic image enlargements, created with fixed-position containers, reveal themselves as the user scrolls through the site. Magnification heightens mechanical beauty and focuses on the technology as form, versus product. 
+
 (project-image: timeline.png description: staggered timeline placement)
 
 (project-image: detail-animated.gif description: animated detail)
 
+Extracted from promotional footage, detail shots inform users of the Selectric’s innovative movement in a manner that engages, renders consistently across browsers, and requires minimal bandwidth.
+
 (project-image: composer.png description: text as visual form)
 
 (project-image: IBM.png description: end: big blue at the root)
+
+While not animated, concluding imagery maintains visual continuity through the usage of a high-contrast, black-and-white palette.
 
 [1]: /assets/html/IBM-Selectric

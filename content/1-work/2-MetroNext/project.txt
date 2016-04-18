@@ -12,13 +12,19 @@ Text: As a daily Washington, DC commuter, WMATA’s arrival predictions for both
 
 (project-image: panorama.png description: seamless panorama)
 
+Windows 8’s panorama control allows for rapid access to any section, eliminating the need for potentially disorienting navigational structures. By placing rail and bus arrivals adjacent to each other, users may compare upcoming trips via either mode.
+
 (project-image: start.png description: Start screen with app tile)
 
 (project-image: rail.png description: Foggy Bottom arrivals)
 
+Colors directly correspond to each rail line: all other elements recede to a secondary level through the use of gray text.
+
 (project-image: interaction-rail.png description: rail station selection)
 
 (project-image: bus.png description: en-route Metrobus lines)
+
+Bus stops prominently display identification numbers, thereby rendering their usage as natural for regular commuters. Due to the possibility of visitors not recognizing these features, future updates will include the option of automatically locating nearby stops.
 
 (project-image: interaction-bus.png description: bus stop entry & predictions)
 

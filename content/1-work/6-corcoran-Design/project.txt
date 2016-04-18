@@ -16,11 +16,17 @@ Text: Showcasing undergraduate 2D design work from the Corcoran School of the Ar
 
 (project-image: graphic.png description: modular thumbnail grid)
 
+Thumbnails of varying scale and placement establish multiple levels of prominence, while an interwoven grid simultaneously emphasizes the codependent nature of undergraduate design work.
+
 (project-image: project-shown.png description: extended description revealed)
+
+Besides detailing a project’s scope and concept, descriptions contextualize each piece within the broader curriculum. A dedicated info page summarizes educational culture and the relationship with a global design community.
 
 (project-image: secondary.png description: info & project interfaces)
 
 (project-image: iPad-motion.png description: responsive structure)
+
+Layouts seamlessly scale regardless of form factor. A collection of continous gradients unifies the interface, representing the diverse array of student backgrounds and areas of specialization. 
 
 (project-image: iPad-info.png description: altered navigation for tablet)
 

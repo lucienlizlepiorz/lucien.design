@@ -16,6 +16,8 @@ Text: Touching on themes of institutionalized suppression, artistic subversion, 
 
 (project-image: waiting.png description: the anonymous state)
 
+Uncomfortably long loops of footage establish narrative tension, communicating both the uncertainty of totalitarianism and repetitiveness of suffering.
+
 (project-image: files.png description: compositional integration)
 
 (project-image: code.png description: disappearing into code)
@@ -23,6 +25,8 @@ Text: Touching on themes of institutionalized suppression, artistic subversion, 
 (project-image: darkness.png description: listening station, hidden title)
 
 (project-image: light.png description: identity revealed)
+
+Myriad arrangements of dials, needles, buttons, and indicator lights supply visual stimulation and echo the calculated, yet publicly incomprehensible, workings of the German Democratic Republic.
 
 (project-image: needle.png description: manic audio needle)
 
