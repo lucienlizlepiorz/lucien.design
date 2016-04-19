@@ -9,13 +9,13 @@
 
 	<form method="post">
 		<div class="input-content">
-			<input type="username" id="username" name="username" autocomplete="off" autofocus placeholder="<?php echo $page->username()->html() ?>">
-			<div id="username" class="input-icon"></div>
+			<input id="username" class="input-field" type="username" name="username" autocomplete="off" autofocus placeholder="<?php echo $page->username()->html() ?>">
+			<div id="username-icon" class="input-icon"></div>
 		</div>
 
 		<div class="input-content">
-			<input type="password" id="password" name="password" autocomplete="off" autofocus placeholder="<?php echo $page->password()->html() ?>">
-			<div id="password" class="input-icon"></div>
+			<input id="password" class="input-field" type="password" name="password" autocomplete="off" autofocus placeholder="<?php echo $page->password()->html() ?>">
+			<div id="password-icon" class="input-icon"></div>
 		</div>
 		
 		<div>      

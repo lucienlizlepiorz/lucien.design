@@ -97,10 +97,15 @@ input, .submit {
 
 input {
 	display: block;
+	position: relative;
     width: 100%;
     margin-bottom: 1em;
 	padding: .5em;
 	background-color: #FFF;
+}
+
+input:focus { 
+    outline: 2px solid #000;
 }
 
 .input-content {
@@ -108,25 +113,29 @@ input {
     width: 100%;
 }
 
+.input-field {
+	padding-right: 3em;
+}
+
 .input-icon {
 	position: absolute;
     top: .25em;
-    right: .625em;
+    right: .75em;
     bottom: .25em;
     height: auto;
     padding-left: .75em;
+    color: #666;
+    border-left: 1px solid #666;
     text-align: center;
-    color: rgba(0, 0, 0, .6);
-    border-left: 1px dashed rgba(0, 0, 0, .6);
     font-family: "FontAwesome";
     line-height: 1.625em;
 }
 
-#username:before {
+#username-icon:before {
     content: "\f25b";
 }
 
-#password:before {
+#password-icon:before {
     content: "\f084";
 }
 
