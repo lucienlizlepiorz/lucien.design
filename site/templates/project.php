@@ -1,11 +1,6 @@
 <?php if(!$site->user() && !$page->isVisible() && $page->uid() != "error"): ?>
-	<!-- pass source page-->
-	<form method="get" action="login.php">
-		<input type="hidden" name="source" value="<?php echo $page->uid() ?>">
-		<input type="submit">
-	</form>
-	
-	<?php go("login"); ?>
+	<!-- pass source, redirect to login -->
+	<?php go("login?source={$page->uri([$lang = null])}"); ?>
 <?php endif ?>
 
 <?php snippet("header") ?>

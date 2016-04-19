@@ -14,7 +14,7 @@
 		</div>
 
 		<div class="input-content">
-			<input id="password" class="input-field" type="password" name="password" autocomplete="off" autofocus placeholder="<?php echo $page->password()->html() ?>">
+			<input id="password" class="input-field" type="password" name="password" autocomplete="off" placeholder="<?php echo $page->password()->html() ?>">
 			<div id="password-icon" class="input-icon"></div>
 		</div>
 		

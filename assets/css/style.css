@@ -114,7 +114,7 @@ input:focus {
 }
 
 .input-field {
-	padding-right: 3em;
+	padding-right: 2.5em;
 }
 
 .input-icon {
@@ -122,10 +122,15 @@ input:focus {
     top: .25em;
     right: .75em;
     bottom: .25em;
-    height: auto;
+    width: 1em;
     padding-left: .75em;
-    color: #666;
-    border-left: 1px solid #666;
+    
+    /* gray */ 
+    filter: alpha(opacity=70); /* IE 5+ */
+	color: #4D4D4D; /* fallback */
+	color: rgba(0, 0, 0, .70);
+    
+    /* icon */ 
     text-align: center;
     font-family: "FontAwesome";
     line-height: 1.625em;
@@ -456,6 +461,7 @@ a.current-page {
 
 .secondary {
 	filter: alpha(opacity=70); /* IE 5+ */
+	color: #FFF; /* fallback */
 	color: rgba(255, 255, 255, .70);
 }
 

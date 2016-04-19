@@ -11,9 +11,7 @@ return function($site, $pages, $page) {
 	if(r::is("post") and get("login")) {
 		// fetch the user, run login method
 		if($user = $site->user(get("username")) and $user->login(get("password"))) {
-			if ($source = "google") {
-				go("google");
-			}
+			go($source);
 		} else {
 			// make sure the alert is displayed in the template
 			$error = true;

@@ -6,7 +6,7 @@ Keywords: interaction design, programming, Windows
 
 ----
 
-Text: As a daily Washington, DC commuter, WMATA’s arrival predictions for both rail and bus are an essential asset. Before this project, the mobile Windows ecosystem lacked any compact and intelligently designed applications for the purpose. Through the utilization of Microsoft’s panoramic interaction pattern, users may readily access arrivals for both rail and bus stops, active service advisories, and favorited stations.
+Text: As a daily Washington, DC commuter, WMATA’s arrival predictions for both rail and bus are an essential asset. Before this project, the mobile Windows ecosystem lacked any compact and intelligently-designed applications for the purpose. Through the utilization of Microsoft’s panoramic interaction pattern, users may readily access arrivals for both rail and bus stops, active service advisories, and favorited stations.
 
 ### [download from the store >][1]
 
