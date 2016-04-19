@@ -42,13 +42,16 @@ span {
 }
 
 
-#bsod {
-	width: 36em;
+#bsod, #login {
 	max-width: 90%;
-	padding-top: 10%;
-	padding-bottom: 10%;
 	margin-right: auto;
 	margin-left: auto;
+}
+
+#bsod {
+	width: 36em;
+	padding-top: 10%;
+	padding-bottom: 10%;
 	text-align: center;
 }
 
@@ -78,6 +81,63 @@ span {
 	-ms-animation: blinking-underscore 1s step-start 0s infinite;
 	-o-animation: blinking-underscore 1s step-start 0s infinite;
 	animation: blinking-underscore 1s step-start 0s infinite;
+}
+
+#login {
+	width: 16em;
+	padding-top: 15%;
+	padding-bottom: 15%;
+}
+
+input, .submit {
+	-webkit-box-sizing: border-box;
+  	-moz-box-sizing: border-box;
+  	box-sizing: border-box;
+}
+
+input {
+	display: block;
+    width: 100%;
+    margin-bottom: 1em;
+	padding: .5em;
+	background-color: #FFF;
+}
+
+.input-content {
+    position: relative;
+    width: 100%;
+}
+
+.input-icon {
+	position: absolute;
+    top: .25em;
+    right: .625em;
+    bottom: .25em;
+    height: auto;
+    padding-left: .75em;
+    text-align: center;
+    border-left: 1px dashed rgba(0, 0, 0, .6);
+    color: rgba(0, 0, 0, .6);
+    font-family: "FontAwesome";
+    line-height: 1.625em;
+}
+
+#username:before {
+    content: "\f25b";
+}
+
+#password:before {
+    content: "\f084";
+}
+
+.submit {
+	width: 100%;
+	margin: 0;
+	color: #FFF;
+	background-color: #0000FF; /* fallback */
+	background-color: rgba(0, 0, 0, 0);
+	border: 1px solid #FFF;
+  	cursor: pointer;
 }
 
 #name, #navigation {
@@ -294,7 +354,7 @@ p, h1, h3, ul, a {
 	margin-bottom: 1.5em;
 }
 
-p, ul {
+p, ul, input {
 	font-family: "Fira Sans";
 	font-size: 1em; /* 16 x 1 = 16 */
 }
@@ -304,27 +364,46 @@ h1 {
 	font-size: 1.5em; /* 16 x 1.5 = 24 */
 }
 
-h3 {
+h3, .submit {
 	font-family: "Fira Mono";
 	font-size: .75em; /* 16 x .75 = 12 */
 	letter-spacing: 1px;
 	text-transform: uppercase;
 }
 
-ul {
+ul, .alert {
     list-style-type: none;
-    margin-left: .625em;
+}
+
+li {
+	padding-left: .625em;
+}
+
+li:before, .alert li:before {
+    display: inline-block;
+    position: relative;
+    width: 0;
+    font-family: "FontAwesome";
 }
 
 li:before {
-    display: inline-block;
-    position: relative;
-    top: -.0625em;
+	top: -.0625em;
     left: -1em;
-    width: 0;
-    font-family: "FontAwesome";
     font-size: .625em;
     content: "\f0da";
+}
+
+.alert li {
+	padding-bottom: 1em;
+	padding-left: 1.75em;
+	border-bottom: 1px solid #FFF;
+}
+
+.alert li:before {
+	top: .125em;
+    left: -1.75em;
+    font-size: 1em;
+    content: "\f071";
 }
 
 a {

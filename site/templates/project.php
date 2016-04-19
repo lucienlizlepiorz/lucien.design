@@ -1,3 +1,13 @@
+<?php if(!$site->user() && !$page->isVisible() && $page->uid() != "error"): ?>
+	<!-- pass source page-->
+	<form method="get" action="login.php">
+		<input type="hidden" name="source" value="<?php echo $page->uid() ?>">
+		<input type="submit">
+	</form>
+	
+	<?php go("login"); ?>
+<?php endif ?>
+
 <?php snippet("header") ?>
 
 <?php snippet("top") ?>
