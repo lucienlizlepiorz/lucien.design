@@ -116,8 +116,8 @@ input {
     height: auto;
     padding-left: .75em;
     text-align: center;
-    border-left: 1px dashed rgba(0, 0, 0, .6);
     color: rgba(0, 0, 0, .6);
+    border-left: 1px dashed rgba(0, 0, 0, .6);
     font-family: "FontAwesome";
     line-height: 1.625em;
 }
