@@ -1,8 +1,12 @@
 <?php snippet("header") ?>
 
 <div id="login">
-	<?php if($error): ?>
-		<ul class="alert"><li><?php echo $page->alert() ?></li></ul>
+	<?php if($authenticationError): ?>
+		<ul class="alert"><li><?php echo $page->authentication() ?></li></ul>
+	<?php endif ?>
+	
+	<?php if($accessError): ?>
+		<ul class="alert"><li><?php echo $page->access() ?></li></ul>
 	<?php endif ?>
 	
 	<p class="mono-bold"><?php echo $page->text() ?></p>

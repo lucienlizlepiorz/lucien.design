@@ -2,7 +2,11 @@ Title: login
 
 ----
 
-Alert: oops! looks your username or password is incorrect.
+Authentication: oops! looks your username or password is incorrect.
+
+----
+
+Access: oops! looks your account can’t access this page.
 
 ----
 
