@@ -213,6 +213,7 @@ input {
 	display: block;
 	width: 100%;
 	margin-bottom: 2em;
+	padding-left: 0;
 }
 
 #projects-list li:first-child {
