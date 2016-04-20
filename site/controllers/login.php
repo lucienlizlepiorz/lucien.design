@@ -1,17 +1,47 @@
 <?php 
 
 return function($site, $pages, $page) {
-	// get source
+	// get source page
 	$source = $_GET["source"];
 
 	// form submission
 	if(r::is("post") and get("login")) {
 		// fetch the user, run login method
 		if($user = $site->user(get("username")) and $user->login(get("password"))) {
-			if ($user != "okgoogle" && $user->hasRole("external") && $source = "google") {
-				$accessError = true;
+			if ($user->hasRole("external")) {
+				// check source page
+				switch ($source) {
+					case "google":
+						// check user
+						switch ($user->username()) {
+							case "okgoogle":
+								// approved access
+								go($source);
+								break;
+							default:
+								// prevent page access
+								$accessError = true;
+						}
+						break;
+					case NULL:
+						// user accessed login directly
+						go("/");
+						break;
+					default:
+						// normal access
+						break;
+				}
 			} else {
-				go($source);
+				switch ($source) {
+					case NULL:
+						// user accessed login directly
+						go("/");
+						break;
+					default:
+						// unlimited access
+						go($source);
+						break;
+				}
 			}
 		} else {
 			// make sure the alert is displayed in the template

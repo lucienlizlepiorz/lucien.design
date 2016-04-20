@@ -1,7 +1,36 @@
-<?php if(!$site->user() && !$page->isVisible() && $page->uid() != "error"): ?>
-	<!-- pass source, redirect to login -->
-	<?php go("login?source={$page->uri([$lang = null])}"); ?>
-<?php endif ?>
+<?php 
+
+if(!$page->isVisible()) {
+	
+	if (!$site->user()) {
+		// pass source page, redirect to login
+		go("login?source={$page->uri([$lang = null])}");
+	} else {
+		$user = $site->user();
+		
+		if ($user->hasRole("external")) {	
+			// check current page
+			switch ($page->uid()) {
+				case "google":
+					// check user
+					switch ($user->username()) {
+						case "okgoogle":
+							// approved access
+							break;
+						default:
+							// prevent page access
+							go("/");
+					}
+					break;
+				default:
+					// normal access
+					break;
+			}
+		}
+	} 
+} 
+
+?>
 
 <?php snippet("header") ?>
 
