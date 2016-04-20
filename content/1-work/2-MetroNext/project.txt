@@ -12,7 +12,7 @@ Text: As a daily Washington, DC commuter, WMATA’s arrival predictions for both
 
 (project-image: panorama.png description: seamless panorama)
 
-Windows 8’s panorama control allows for rapid access to any section, eliminating the need for potentially disorienting navigational structures. By placing rail and bus arrivals adjacent to each other, users may compare upcoming trips via either mode.
+Windows 8’s panorama control allows for quick access to any section, eliminating the need for potentially disorienting navigational structures. By placing rail and bus arrivals adjacent to each other, users may compare upcoming trips via either mode.
 
 (project-image: start.png description: Start screen with app tile)
 

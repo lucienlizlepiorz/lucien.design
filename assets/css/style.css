@@ -152,6 +152,10 @@ input:focus {
   	cursor: pointer;
 }
 
+.submit:focus { 
+    outline: none;
+}
+
 #name, #navigation {
 	height: 6em;
 	padding-top: 2em;

@@ -34,7 +34,7 @@ Dramatic image enlargements, created with fixed-position containers, reveal them
 
 Extracted from promotional footage, detail shots inform users of the Selectric’s innovative movement in a manner that engages, renders consistently across browsers, and requires minimal bandwidth.
 
-(project-image: composer.png description: text as visual form)
+(project-image: composer.png description: text as image)
 
 (project-image: IBM.png description: end: big blue at the root)
 
