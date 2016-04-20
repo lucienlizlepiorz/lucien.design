@@ -23,12 +23,9 @@ return function($site, $pages, $page) {
 								$accessError = true;
 						}
 						break;
-					case NULL:
-						// user accessed login directly
-						go("/");
-						break;
 					default:
-						// normal access
+						// user accessed login directly, normal access
+						go("/");
 						break;
 				}
 			} else {
