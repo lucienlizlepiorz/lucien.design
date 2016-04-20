@@ -96,7 +96,6 @@ input, .submit {
 }
 
 input {
-	display: block;
 	position: relative;
     width: 100%;
     margin-bottom: 1em;
@@ -123,7 +122,6 @@ input:focus {
     right: .75em;
     bottom: .25em;
     width: 1em;
-    padding-left: .75em;
     
     /* gray */ 
     filter: alpha(opacity=70); /* IE 5+ */
@@ -149,7 +147,7 @@ input:focus {
 	margin: 0;
 	color: #FFF;
 	background-color: #0000FF; /* fallback */
-	background-color: rgba(0, 0, 0, 0);
+	background-color: rgba(0, 0, 255, 0);
 	border: 1px solid #FFF;
   	cursor: pointer;
 }
@@ -394,6 +392,12 @@ li {
 	padding-left: .625em;
 }
 
+.alert li {
+	padding-bottom: 1em;
+	padding-left: 1.75em;
+	border-bottom: 1px solid #FFF;
+}
+
 li:before, .alert li:before {
     display: inline-block;
     position: relative;
@@ -406,12 +410,6 @@ li:before {
     left: -1em;
     font-size: .625em;
     content: "\f0da";
-}
-
-.alert li {
-	padding-bottom: 1em;
-	padding-left: 1.75em;
-	border-bottom: 1px solid #FFF;
 }
 
 .alert li:before {

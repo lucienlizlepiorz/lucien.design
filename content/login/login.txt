@@ -22,4 +22,4 @@ Password: password
 
 ----
 
-Button: enter
+Button: login
