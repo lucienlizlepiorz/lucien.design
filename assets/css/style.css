@@ -101,6 +101,7 @@ input {
     margin-bottom: 1em;
 	padding: .5em;
 	background-color: #FFF;
+	border-radius: 0;
 }
 
 input:focus { 
@@ -124,7 +125,6 @@ input:focus {
     width: 1em;
     
     /* gray */ 
-    filter: alpha(opacity=70); /* IE 5+ */
 	color: #4D4D4D; /* fallback */
 	color: rgba(0, 0, 0, .70);
     

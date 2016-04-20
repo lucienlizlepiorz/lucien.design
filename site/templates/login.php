@@ -13,12 +13,12 @@
 
 	<form method="post">
 		<div class="input-content">
-			<input id="username" class="input-field" type="username" name="username" autocomplete="off" autofocus placeholder="<?php echo $page->username()->html() ?>">
+			<input id="username" class="input-field" type="username" name="username" autocomplete="off" autocorrect="off" autocapitalize="none" autofocus placeholder="<?php echo $page->username()->html() ?>">
 			<div id="username-icon" class="input-icon"></div>
 		</div>
 
 		<div class="input-content">
-			<input id="password" class="input-field" type="password" name="password" autocomplete="off" placeholder="<?php echo $page->password()->html() ?>">
+			<input id="password" class="input-field" type="password" name="password" autocomplete="off" autocorrect="off" autocapitalize="none" placeholder="<?php echo $page->password()->html() ?>">
 			<div id="password-icon" class="input-icon"></div>
 		</div>
 		
