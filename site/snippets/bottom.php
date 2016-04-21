@@ -3,3 +3,5 @@
 </div><!-- wrapper -->
 
 <?php snippet("navigation") ?>
+
+<?php snippet("login-state") ?>

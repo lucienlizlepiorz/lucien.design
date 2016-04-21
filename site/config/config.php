@@ -49,3 +49,12 @@ c::set("roles", array(
 		"panel"   => false
 	)
 ));
+c::set("routes", array(
+	array(
+		"pattern" => "logout",
+		"action"  => function() {
+			if($user = site()->user()) $user->logout();
+			go("/");
+		}
+	)
+));

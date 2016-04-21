@@ -157,10 +157,20 @@ input:focus {
 }
 
 #name, #navigation {
-	height: 6em;
 	padding-top: 2em;
-	padding-bottom: 2em;
 	text-align: center;
+}
+
+#name, #login-state {
+	height: 6em;
+}
+
+#name {
+	padding-bottom: 2em;
+}
+
+#navigation {
+	padding-bottom: 1em;
 }
 
 #name h1 {
@@ -180,6 +190,10 @@ input:focus {
 
 #navigation h3 {
 	margin-bottom: .75em;
+}
+
+#login-state {
+	text-align: center;
 }
 
 #push {
@@ -425,7 +439,7 @@ li:before {
 
 a {
 	text-decoration: none;
-	border-bottom: solid 1px #FFF;
+	border-bottom: 1px solid #FFF;
 }
 
 a.current-page {
@@ -465,6 +479,14 @@ a.current-page {
 	filter: alpha(opacity=70); /* IE 5+ */
 	color: #FFF; /* fallback */
 	color: rgba(255, 255, 255, .70);
+}
+
+.secondary a {
+	filter: alpha(opacity=70); /* IE 5+ */
+	color: #FFF; /* fallback */
+	color: rgba(255, 255, 255, .70);
+	border-bottom: 1px solid #FFF; /* fallback */
+	border-bottom: 1px solid rgba(255, 255, 255, .70);
 }
 
 /* animation keyframes */
