@@ -14,7 +14,7 @@ Text: Envisioned as an homage to the designer, Fuzzy Knuckles takes Erik Spieker
 
 As much as any other artistic field, typographic form expresses personality: Fuzzy Knuckles arose from the desire to integrate corporeal elements with the technical arena of strokes and polygons.
 
-(project-image: w.png description: a wet and wispy w)
+(project-image: w.png description: a wet & wispy w)
 
 (project-image: b.png description: b: the fuzz chub)
 
