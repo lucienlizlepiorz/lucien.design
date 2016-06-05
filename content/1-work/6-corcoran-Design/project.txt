@@ -6,9 +6,7 @@ Keywords: interaction design, programming, iOS
 
 ----
 
-Text: Showcasing undergraduate 2D design work from the Corcoran School of the Arts & Design at the George Washington University, corcoran:Design provides users with a canvas of thumbnails to explore. Individual projects contain CDN-hosted images, brief descriptions, and links to a student’s online presence. Additionally, a secondary info page summarizes both academic structure and culture.
-
-### [download from the store >][1]
+Text: Showcasing undergraduate 2D design work from the Corcoran School of the Arts & Design at the George Washington University, corcoran:Design provides users with a canvas of thumbnails to explore. Individual projects contain CDN-hosted images, brief descriptions, and links to a student’s online presence. Additionally, a secondary info page summarizes academic structure and culture. Employed for recruiting over a one-year duration following iOS App Store certification.
 
 (project-image: primary.png description: design categories)
 
@@ -31,5 +29,3 @@ Layouts seamlessly scale regardless of form factor. A collection of continous gr
 (project-image: iPad-info.png description: altered navigation for tablet)
 
 (project-image: iPad-project.png description: optimized real estate)
-
-[1]: https://itunes.apple.com/us/app/corcoran-design/id1009557568?mt=8

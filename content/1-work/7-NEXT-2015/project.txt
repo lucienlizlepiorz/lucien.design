@@ -14,8 +14,6 @@ Text: Drawing inspiration from topography, the *NEXT* 2015 identity expresses bo
 - HOW International Design Awards, Merit Award <span class="secondary">*2016*</span>
 - University & College Designers Association, Award of Excellence <span class="secondary">*2015*</span>
 
-### [view the microsite >][1]
-
 (project-image: keywords.png description: developing a conceptual focus)
 
 (project-image: wordmap.png description: finalized wordmap)
@@ -49,5 +47,3 @@ Digital components introduced black transparencies and blurred, gradient-like im
 (project-image: microsite.png description: microsite, initial view)
 
 (project-image: app.png description: directory & map kiosk)
-
-[1]: http://next.corcoran.gwu.edu/archive/2015
