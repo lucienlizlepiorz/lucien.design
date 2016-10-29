@@ -11,10 +11,22 @@ return function($site, $pages, $page) {
 			if ($user->hasRole("external")) {
 				// check source page
 				switch ($source) {
-					case "google":
+					case "Google":
 						// check user
 						switch ($user->username()) {
 							case "okgoogle":
+								// approved access
+								go($source);
+								break;
+							default:
+								// prevent page access
+								$accessError = true;
+						}
+						break;
+					case "Learnmetrics":
+						// check user
+						switch ($user->username()) {
+							case "lucien":
 								// approved access
 								go($source);
 								break;

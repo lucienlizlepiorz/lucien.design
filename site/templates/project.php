@@ -11,10 +11,21 @@ if(!$page->isVisible()) {
 		if ($user->hasRole("external")) {	
 			// check current page
 			switch ($page->uid()) {
-				case "google":
+				case "Google":
 					// check user
 					switch ($user->username()) {
 						case "okgoogle":
+							// approved access
+							break;
+						default:
+							// prevent page access
+							go("/");
+					}
+					break;
+				case "Learnmetrics":
+					// check user
+					switch ($user->username()) {
+						case "lucien":
 							// approved access
 							break;
 						default:
