@@ -26,7 +26,7 @@ return function($site, $pages, $page) {
 					case "Learnmetrics":
 						// check user
 						switch ($user->username()) {
-							case "lucien":
+							case "fromdata":
 								// approved access
 								go($source);
 								break;

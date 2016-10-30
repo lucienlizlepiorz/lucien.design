@@ -25,7 +25,7 @@ if(!$page->isVisible()) {
 				case "Learnmetrics":
 					// check user
 					switch ($user->username()) {
-						case "lucien":
+						case "fromdata":
 							// approved access
 							break;
 						default:
