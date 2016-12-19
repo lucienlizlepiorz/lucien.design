@@ -43,3 +43,6 @@ RewriteRule ^(.*) index.php [L]
 # AddDefaultCharset UTF-8
 #
 # php_flag short_open_tag on
+
+# redirect Learnmetrics
+Redirect /Learnmetrics /work/Learnmetrics
