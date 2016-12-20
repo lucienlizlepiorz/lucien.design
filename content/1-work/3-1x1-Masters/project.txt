@@ -8,38 +8,38 @@ Keywords: book design, typography, interaction design
 
 Text: 1x1 Masters–utilizing a visual language of bitmapping and anti-Modernist composition–compares Matthew Carter, Zuzana Licko, and Rudy VanderLans: three of the digital age’s most prominent type designers. Image treatments reflect not only the original medium, but notions of influence and inextricable connection. Initially a 6" x 9" book, this design was later translated into an interactive publication via InDesign’s DPS suite of tools.
 
-(project-image: cover.png description: rear & front covers)
+(content-image: cover.png description: rear & front covers)
 
-(project-image: inside-cover.png description: inside cover, Bell Centennial)
+(content-image: inside-cover.png description: inside cover, Bell Centennial)
 
-(project-image: a1.png description: Licko-VanderLans)
+(content-image: a1.png description: Licko-VanderLans)
 
-(project-image: b1.png description: Massimo: Wanted)
+(content-image: b1.png description: Massimo: Wanted)
 
 Bitmapped photography, in conjunction with a screaming color palette and out-of-sequence line arrangement, abandons traditional design relationships in favor of aesthetic investigation that reverses the roles of text and image.
 
-(project-image: c1.png description: 128K alongside System 7)
+(content-image: c1.png description: 128K alongside System 7)
 
-(project-image: a2.png description: multigenerational perspectives)
+(content-image: a2.png description: multigenerational perspectives)
 
-(project-image: b2.png description: new tech, new art)
+(content-image: b2.png description: new tech, new art)
 
-(project-image: c2.png description: interdisciplinary process)
+(content-image: c2.png description: interdisciplinary process)
 
-(project-image: a3.png description: pixels to points)
+(content-image: a3.png description: pixels to points)
 
-(project-image: b3.png description: type/image)
+(content-image: b3.png description: type/image)
 
 Each highlighted statement utilizes a distinct typeface from the early digital era, rendering the text as both an example of visual form and ideological narrative.
 
-(project-image: c3.png description: Verdana with Mason)
+(content-image: c3.png description: Verdana with Mason)
 
-(project-image: works-cited.png description: works cited)
+(content-image: works-cited.png description: works cited)
 
-(project-image: detail-typography.png description: typographic system detail)
+(content-image: detail-typography.png description: typographic system detail)
 
-(project-image: iPad-b1a.png description: publication adapted for iPad)
+(content-image: iPad-b1a.png description: publication adapted for iPad)
 
 Existing content readily adapts to the digital medium, and an interactive dictionary of relevant typographic terms provides a touch of geeky depth.  
 
-(project-image: iPad-b1b.png description: Easter egg: heathen’s dictionary)
+(content-image: iPad-b1b.png description: Easter egg: heathen’s dictionary)

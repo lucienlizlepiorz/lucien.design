@@ -8,28 +8,28 @@ Keywords: typography, generative, programming
 
 Text: Envisioned as an homage to the designer, Fuzzy Knuckles takes Erik Spiekermann’s Fira Sans as a base upon which thousands of hairs generate and grow. Utilizing Processing, a field of vector origin points allows each strand to mutuate in direction, length, and opacity.
 
-(project-image: Processing.png description: developing with Processing)
+(content-image: Processing.png description: developing with Processing)
 
-(project-image: molecular.png description: initial experimentation: molecular)
+(content-image: molecular.png description: initial experimentation: molecular)
 
 As much as any other artistic field, typographic form expresses personality: Fuzzy Knuckles arose from the desire to integrate corporeal elements with the technical arena of strokes and polygons.
 
-(project-image: w.png description: a wet and wispy w)
+(content-image: w.png description: a wet and wispy w)
 
-(project-image: b.png description: b: the fuzz chub)
+(content-image: b.png description: b: the fuzz chub)
 
-(project-image: k.png description: cowlick k)
+(content-image: k.png description: cowlick k)
 
 Careful tweaking of the generated hair’s density and length resulted in code that could consistently produce the perfect amount of playful tufts.
 
-(project-image: g.png description: two-story grizzly)
+(content-image: g.png description: two-story grizzly)
 
-(project-image: t.png description: an untamable tangle)
+(content-image: t.png description: an untamable tangle)
 
-(project-image: detail-ampersand.png description: ampersand detail)
+(content-image: detail-ampersand.png description: ampersand detail)
 
 Automatically exported as a PDF, each letterform emerges from Processing with pure geometry, free of rasterization and ready for usage at any scale.
 
-(project-image: alphabet.png description: alphabet with punctuation)
+(content-image: alphabet.png description: alphabet with punctuation)
 
-(project-image: shampoo.png description: merchandise application)
+(content-image: shampoo.png description: merchandise application)

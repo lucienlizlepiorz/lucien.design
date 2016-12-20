@@ -10,33 +10,33 @@ Text: As the first commercially-viable typewriter to offer interchangeable typef
 
 ### [view the site >][1]
 
-(project-image: sitemap.png description: preliminary sitemap)
+(content-image: sitemap.png description: preliminary sitemap)
 
-(project-image: low-res-nothing.png description: low-res wireframe)
+(content-image: low-res-nothing.png description: low-res wireframe)
 
-(project-image: hi-res-typeball.png description: applying color & content)
+(content-image: hi-res-typeball.png description: applying color & content)
 
-(project-image: hi-res-timeline.png description: initial image exploration)
+(content-image: hi-res-timeline.png description: initial image exploration)
 
 Between the ideation and development stages, image treatment shifted from primarily static, full-color reproductions to animated black-and-white GIFs. 
 
-(project-image: nothing.png description: setting the stage)
+(content-image: nothing.png description: setting the stage)
 
-(project-image: typeball.png description: introduction of mechanics)
+(content-image: typeball.png description: introduction of mechanics)
 
-(project-image: detail-composition.png description: compositional detail)
+(content-image: detail-composition.png description: compositional detail)
 
 Dramatic image enlargements, created with fixed-position containers, reveal themselves as the user scrolls through the site. Magnification heightens mechanical beauty and focuses on the technology as form, versus product. 
 
-(project-image: timeline.png description: staggered timeline placement)
+(content-image: timeline.png description: staggered timeline placement)
 
-(project-image: detail-animated.gif description: animated detail)
+(content-image: detail-animated.gif description: animated detail)
 
 Extracted from promotional footage, detail shots inform users of the Selectric’s innovative movement in a manner that engages, renders consistently across browsers, and requires minimal bandwidth.
 
-(project-image: composer.png description: text as image)
+(content-image: composer.png description: text as image)
 
-(project-image: IBM.png description: end: big blue at the root)
+(content-image: IBM.png description: end: big blue at the root)
 
 While not animated, concluding imagery maintains visual continuity through the usage of a high-contrast, black-and-white palette.
 

@@ -8,24 +8,24 @@ Keywords: interaction design, programming, iOS
 
 Text: Showcasing undergraduate 2D design work from the Corcoran School of the Arts & Design at the George Washington University, corcoran:Design provides users with a canvas of thumbnails to explore. Individual projects contain CDN-hosted images, brief descriptions, and links to a student’s online presence. Additionally, a secondary info page summarizes academic structure and culture. Employed for recruiting over a one-year duration following iOS App Store certification.
 
-(project-image: primary.png description: design categories)
+(content-image: primary.png description: design categories)
 
-(project-image: home.png description: home screen with icon)
+(content-image: home.png description: home screen with icon)
 
-(project-image: graphic.png description: modular thumbnail grid)
+(content-image: graphic.png description: modular thumbnail grid)
 
 Thumbnails of varying scale and placement establish multiple levels of prominence, while an interwoven grid simultaneously emphasizes the codependent nature of undergraduate design work.
 
-(project-image: project-shown.png description: extended description revealed)
+(content-image: project-shown.png description: extended description revealed)
 
 Besides detailing a project’s scope and concept, descriptions contextualize each piece within the broader curriculum. An info page summarizes the department’s environment and relationship with a global design community.
 
-(project-image: secondary.png description: info & project interfaces)
+(content-image: secondary.png description: info & project interfaces)
 
-(project-image: iPad-motion.png description: responsive structure)
+(content-image: iPad-motion.png description: responsive structure)
 
 Layouts seamlessly scale regardless of form factor. A collection of continous gradients unifies the interface, representing the diverse array of student backgrounds and areas of specialization. 
 
-(project-image: iPad-info.png description: altered navigation for tablet)
+(content-image: iPad-info.png description: altered navigation for tablet)
 
-(project-image: iPad-project.png description: optimized real estate)
+(content-image: iPad-project.png description: optimized real estate)
