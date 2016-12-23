@@ -201,7 +201,8 @@ input:focus {
 }
 
 #pagination {
-	padding-top: 2em;
+	padding-top: 1em;
+	border-top: 1px solid;
 }
 
 .next {
@@ -485,7 +486,7 @@ a.current-page {
 	margin-bottom: 0;
 }
 
-.content-keywords {
+.content-metadata {
 	margin-bottom: 1.5em;
 }
 

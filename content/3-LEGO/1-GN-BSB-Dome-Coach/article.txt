@@ -1,0 +1,47 @@
+Title: Great Northern’s Big Sky Blue Dome Coach
+
+----
+
+Date: 12/22/2016
+
+----
+
+Author: Lucien
+
+----
+
+Text: Connecting Chicago with Seattle and Portland, the Empire Builder operated with Budd-built dome coaches following a 1955 equipment renewal. These cars afforded panoramic views of the Pacific Northwest, Glacier National Park, and the high plains of Montana. In 1967, the Great Northern Railway unveiled their new “Big Sky Blue” livery: a simultaneous embrace of modernist design and the romance of western vistas. Recreated with a width of six studs, this model mirrors the dome’s complex curvature and includes a detailed interior.
+
+(content-image: Prototype-Exterior-Chicago.png description: prototype arriving at Chicago)
+
+Big Sky Blue featured prominently during Amtrak’s early Rainbow Era. Additional slabs and rooftop corrugation distinguish the car from others in the consist built by American Car & Foundry for the Builder.
+
+(content-image: Prototype-Exterior-Minot.png description: Minot service stop)
+
+(content-image: Exterior-1.png description: rolling by the designer & his partner)
+
+Exterior ornaments include end door handrails, running gear, underbody components, and roof access points.
+
+(content-image: Exterior-2.png description: alternate exterior view)
+
+(content-image: Exterior-Detail-End.png description: detail: diaphragm with end doors)
+
+While not prototypical, the entryway-end diaphragm features a full height door for structural reinforcement. Normally, a wire gate would have resided here. A ball-and-socket coupling system replaces the standard LEGO magnets.
+
+(content-image: Exterior-Detail-Dome.png description: detail: dome construction)
+
+(content-image: Prototype-Floorplan.png description: Empire Builder floorplans)
+
+The model features a compressed interior layout that mimics seating placement, direction, and color applications.
+
+(content-image: Prototype-Interior.png description: coach seats with regional decor)
+
+(content-image: Interior-1.png description: cutaway interior)
+
+(content-image: Interior-Detail-Seats.png description: detail: seating & flooring pattern)
+
+Seats include leg rests and simulated stainless steel details. Two lavatories provide all the necessary comforts for a passenger group that includes a National Parks tourist, a Roaring Twenties baronness, and a contemporary Montana cattle rancher.
+
+(content-image: Interior-Detail-Lavatory.png description: detail: women’s lavatory-lounge)
+
+(content-image: Interior-2.png description: tourist with baronness)

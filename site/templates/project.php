@@ -49,7 +49,7 @@ if(!$page->isVisible()) {
 
 <p class="content-title mono-bold"><?php echo $page->title() ?></p>
 
-<h3 class="content-keywords secondary"><?php echo $page->keywords() ?></h3>
+<h3 class="content-metadata secondary"><?php echo $page->keywords() ?></h3>
 
 <?php echo $page->text()->kirbytext() ?>
 
