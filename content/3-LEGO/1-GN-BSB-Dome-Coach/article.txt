@@ -40,8 +40,8 @@ The model features a compressed interior layout that mimics seating placement, d
 
 (content-image: Interior-Detail-Seats.png description: detail: seating & flooring pattern)
 
-Seats include leg rests and simulated stainless steel details. Two lavatories provide all the necessary comforts for a passenger group that includes a National Parks tourist, a Roaring Twenties baronness, and a contemporary Montana cattle rancher.
+Seats include leg rests and simulated stainless steel details. Two lavatories provide all the necessary comforts for a passenger group that includes a National Parks tourist, a Roaring Twenties baroness, and a contemporary Montana cattle rancher.
 
 (content-image: Interior-Detail-Lavatory.png description: detail: women’s lavatory-lounge)
 
-(content-image: Interior-2.png description: tourist with baronness)
+(content-image: Interior-2.png description: tourist with baroness)
