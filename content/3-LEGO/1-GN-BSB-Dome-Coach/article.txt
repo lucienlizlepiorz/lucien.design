@@ -24,9 +24,9 @@ Exterior ornaments include end door handrails, running gear, underbody component
 
 (content-image: Exterior-2.png description: alternate exterior view)
 
-(content-image: Exterior-Detail-End.png description: detail: diaphragm with end doors)
+(content-image: Exterior-Detail-End.png description: detail: diaphragm with gate)
 
-While not prototypical, the entryway-end diaphragm features a full height door for structural reinforcement. Normally, a wire gate would have resided here. A ball-and-socket coupling system replaces the standard LEGO magnets.
+Instead of a full-height door, the entryway diaphragm features a half-height gate to serve as a safeguard during reverse moves or special operations. A ball-and-socket coupling system replaces the standard LEGO magnets.
 
 (content-image: Exterior-Detail-Dome.png description: detail: dome construction)
 
