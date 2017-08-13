@@ -498,6 +498,10 @@ a.current-page {
 	font-weight: bold;
 }
 
+.font-icon {
+	font-family: "FontAwesome";
+}
+
 .content-title {
 	margin-bottom: 0;
 }

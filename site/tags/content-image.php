@@ -6,9 +6,9 @@ kirbytext::$tags["content-image"] = array(
   ),
   "html" => function($tag) {
   
-  	$file 			= $tag->file($tag->attr("content-image"));
-  	$url 			= $file->url();
-  	$description 	= $tag->attr("description");
+  	$file          = $tag->file($tag->attr("content-image"));
+  	$url           = $file->url();
+  	$description   = $tag->attr("description");
     
     if ($description != "") {
     	$caption = "<div class='content-image-caption'><h3>".$description."</h3></div>";
