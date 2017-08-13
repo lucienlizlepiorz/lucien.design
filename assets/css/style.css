@@ -237,13 +237,17 @@ input:focus {
 }
 
 #section-title-text {
-	margin-bottom: 0em;
+	margin-bottom: 0;
 }
 
 #section-summary-text {
 	padding-top: 1em;
 	padding-bottom: 1em;
 	border-bottom: 1px solid #FFF;
+}
+
+#section-summary-text:first-child {
+	padding-top: 0;
 }
 
 #section-summary-text p {
