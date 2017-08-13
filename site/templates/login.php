@@ -1,5 +1,7 @@
 <?php snippet("header") ?>
 
+<?php snippet("top") ?>
+
 <div id="login">
 	<?php if($authenticationError): ?>
 		<ul class="alert"><li><?php echo $page->authentication() ?></li></ul>

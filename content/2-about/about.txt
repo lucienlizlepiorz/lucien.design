@@ -2,7 +2,7 @@ Title: about
 
 ----
 
-Text: Formally trained in graphic design, a continually curious spirit has driven me to gain expertise in interaction design, mobile development, and typography. While this journey truly began with iWeb experiments, it matured following the debut of Windows Phone 8. 
+Text: Beyond formal training in graphic design, a continually curious spirit has driven me to gain expertise in interaction design, mobile development, and typography. While this journey truly began with iWeb experiments, it matured following the debut of Windows Phone 8. 
 
 Instead of surrendering to sub-standard transit apps, I decided to teach myself C# and the principles of both object-oriented programming and Windows development. A few weeks later, MetroNext was in the store and the gates of nerddom had opened. 
 
