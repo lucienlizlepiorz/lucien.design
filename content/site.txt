@@ -14,4 +14,4 @@ Keywords: graphic, web, interaction, interface, design
 
 ----
 
-Copyright: © 2016 Lucien Liz-Lepiorz
+Copyright: © 2017 Lucien Liz-Lepiorz
