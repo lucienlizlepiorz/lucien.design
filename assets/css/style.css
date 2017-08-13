@@ -275,7 +275,20 @@ input:focus {
 	border-bottom: none;
 }
 
-.content-thumb, .content-thumb img {
+.restricted-content-thumb {
+	height: 12em;
+	text-align: center;
+	background-color: #000;
+	background-color: rgba(0, 0, 0, .6);
+	border: 1px solid #FFF;
+}
+
+.restricted-content-thumb p {
+	padding-top: 5em;
+	padding-bottom: 5em;
+}
+
+.restricted-content-thumb, .content-thumb, .content-thumb img {
 	display: block;
 	width: 100%;
 	overflow: hidden;

@@ -12,7 +12,13 @@
 	<li>
   		<a class="content-title mono-bold" href="<?php echo $project->url() ?>"><?php echo $project->title() ?></a>
 		<h3 class="content-metadata secondary"><?php echo $project->keywords() ?></h3>
-		<a class="content-thumb" href="<?php echo $project->url() ?>"><img src="<?php echo $project->image("thumb.png")->url() ?>" alt="<?php echo $project->title() ?>"></img></a>
+		<?php if($project->image("thumb.png")): ?>
+  			<a class="content-thumb" href="<?php echo $project->url() ?>"><img src="<?php echo $project->image("thumb.png")->url() ?>" alt="<?php echo $project->title() ?>"></img></a>	
+		<?php else: ?>
+			<a href="<?php echo $project->url() ?>">
+				<div class="restricted-content-thumb"><p class="mono-bold">restricted access</p></div>	
+			</a>	
+		<?php endif ?>
   	</li>
   	<?php endforeach ?>
   

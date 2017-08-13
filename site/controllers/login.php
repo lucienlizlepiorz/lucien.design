@@ -23,10 +23,10 @@ return function($site, $pages, $page) {
 								$accessError = true;
 						}
 						break;
-					case "Learnmetrics":
+					case "work/Catalytic":
 						// check user
 						switch ($user->username()) {
-							case "fromdata":
+							case "hal9000":
 								// approved access
 								go($source);
 								break;
