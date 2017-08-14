@@ -111,6 +111,7 @@ input {
 
 input:focus { 
     outline: 2px solid #000;
+    outline-offset: 0;
 }
 
 .input-content {
