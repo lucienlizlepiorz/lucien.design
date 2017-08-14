@@ -96,6 +96,8 @@ input, .submit {
 	-webkit-box-sizing: border-box;
   	-moz-box-sizing: border-box;
   	box-sizing: border-box;
+  	padding-top: 1em;
+  	padding-bottom: 1em;
 }
 
 input {
