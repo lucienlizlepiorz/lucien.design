@@ -159,7 +159,8 @@ input:focus {
 }
 
 .submit:focus { 
-    outline: none;
+    outline: 2px solid #000;
+    outline-offset: -4px;
 }
 
 #name, #navigation {
