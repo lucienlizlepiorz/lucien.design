@@ -11,7 +11,7 @@
 		<ul class="alert"><li><?php echo $page->access() ?></li></ul>
 	<?php endif ?>
 	
-	<p class="mono-bold"><?php echo $page->text() ?></p>
+	<p class="mono-bold"><?php echo smartypants($page->text()) ?></p>
 
 	<form method="post">
 		<div class="input-content">

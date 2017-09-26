@@ -10,8 +10,8 @@
 
 	<?php foreach($articles as $article): ?>
 	<li>
-  		<a class="content-title mono-bold" href="<?php echo $article->url() ?>"><?php echo $article->title() ?></a>
-		<h3 class="content-metadata secondary">posted on <?php echo $article->date('F j, Y') ?> by <?php echo $article->author() ?></h3>
+  		<a class="content-title mono-bold" href="<?php echo $article->url() ?>"><?php echo smartypants($article->title()) ?></a>
+		<h3 class="content-metadata secondary">posted on <?php echo $article->date('F j, Y') ?> by <?php echo smartypants($article->author()) ?></h3>
 		<p><?php echo $article->text()->kirbytext() ?></p>
   	</li>
 	<?php endforeach ?>
