@@ -6,7 +6,7 @@ Authentication: oops! looks like your username or password is incorrect.
 
 ----
 
-Access: oops! looks like your account can’t access this page.
+Access: oops! looks like your account can't access this page.
 
 ----
 

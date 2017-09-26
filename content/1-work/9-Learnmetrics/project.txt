@@ -68,7 +68,7 @@ Condensing each theme into a single version increased clarity, and the addition 
 
 (content-image: concepts-sketch-11.png description: final stylistic exploration)
 
-Having achieved a substantial amount of concepts, work transitioned to the computer: multiple monochrome versions arose alongside a typographic lockup set in Circular. The typeface’s precise curvature seamlessly corresponds to the dual identity of data and education. Furthermore, a punchy period heightens impact and symbolizes the role of a technological challenger.
+Having achieved a substantial amount of concepts, work transitioned to the computer: multiple monochrome versions arose alongside a typographic lockup set in Circular. The typeface's precise curvature seamlessly corresponds to the dual identity of data and education. Furthermore, a punchy period heightens impact and symbolizes the role of a technological challenger.
 
 (content-image: v1-direction-1.png description: monochrome: Cloud Mind, version 1)
 
@@ -118,7 +118,7 @@ Due to the extreme approach angle of previous line versions, a simplified graph 
 
 (content-image: v4-direction-2g.png description: Decisive Data: version 4g, tilt)
 
-As a representative of the playful, illustration-friendly camp, version 4g divides the flowing graph into two segments, thereby highlighting the transformative power of Learnmetrics. Slightly tilted, the pencil’s point intercepts a rounded stroke at exactly 90 degrees.
+As a representative of the playful, illustration-friendly camp, version 4g divides the flowing graph into two segments, thereby highlighting the transformative power of Learnmetrics. Slightly tilted, the pencil's point intercepts a rounded stroke at exactly 90 degrees.
 
 (content-image: detail-v4-direction-2g.png description: detail: version 4g, #2 pencil)
 
@@ -134,7 +134,7 @@ Later, alternative versions strip away detail from the pencil. Such reductivism 
 
 (content-image: progress-update-1.png description: progress update: Cloud Mind, Decisive Data)
 
-In order to clearly communicate the creative process to remote team members, a progress update document summarized each direction’s development, inspiration, and public interpretation.
+In order to clearly communicate the creative process to remote team members, a progress update document summarized each direction's development, inspiration, and public interpretation.
 
 (content-image: progress-update-2.png description: progress update: Root Nexus, Paper & Pies)
 
@@ -180,9 +180,9 @@ Honeycomb Portal surfaced as an intriguing option, and a distant relative of Dec
 
 (content-image: v7-direction-9.png description: Out of the Pencil: version 7)
 
-At this point, the entire team regrouped to discuss the wordmark’s progress and initial impressions. Consensus grew around the general honeycomb shape, yet it lacked the educational identity of Decisive Data. 
+At this point, the entire team regrouped to discuss the wordmark's progress and initial impressions. Consensus grew around the general honeycomb shape, yet it lacked the educational identity of Decisive Data. 
 
-Reintroducing an illustrative pencil rectified these concerns, providing identity to the background stream of fractured data that transforms into an organized, linear structure. Data points along the graph’s top edge communicate analytics and exploration, versus the mathematical concepts of a sine curve.  
+Reintroducing an illustrative pencil rectified these concerns, providing identity to the background stream of fractured data that transforms into an organized, linear structure. Data points along the graph's top edge communicate analytics and exploration, versus the mathematical concepts of a sine curve.  
 
 (content-image: v8-direction-10a.png description: Honeycomb Clarity: version 8a)
 
@@ -204,7 +204,7 @@ Reintroducing an illustrative pencil rectified these concerns, providing identit
 
 (content-image: v8-direction-10j.png description: Honeycomb Clarity: version 8j)
 
-Executives immediately identified with both the new iconography and refreshing palette of medium-saturation blues and greens. Graphik, by Christian Schwartz of Commercial Type, replaced Circular as the wordmark’s typeface due to an increased selection of weights, optimized rendering, and heightened linearity. 
+Executives immediately identified with both the new iconography and refreshing palette of medium-saturation blues and greens. Graphik, by Christian Schwartz of Commercial Type, replaced Circular as the wordmark's typeface due to an increased selection of weights, optimized rendering, and heightened linearity. 
 
 (content-image: final-wordmark-standard.png description: final wordmark: Honeycomb Clarity, standard background)
 

@@ -6,7 +6,7 @@ Keywords: exhibition design, branding, interaction design
 
 ----
 
-Text: Drawing inspiration from topography, the *NEXT* 2015 identity expresses both the Corcoran’s heritage and the journey that lies ahead. Individual paths unite in one community: the resemblance to a fingerprint heightens this notion. Digital components included comprehensive development and maintenance. Created with Grace Boyle, Francheska Guerrero, David Hodgson, Anders Larsson, and Nora Mosley. Individual responsibilities: wordmark, wayfinding signage, print invitation, microsite, directory & map kiosk.
+Text: Drawing inspiration from topography, the *NEXT* 2015 identity expresses both the Corcoran's heritage and the journey that lies ahead. Individual paths unite in one community: the resemblance to a fingerprint heightens this notion. Digital components included comprehensive development and maintenance. Created with Grace Boyle, Francheska Guerrero, David Hodgson, Anders Larsson, and Nora Mosley. Individual responsibilities: wordmark, wayfinding signage, print invitation, microsite, directory & map kiosk.
 
 ### awards
 - Adobe Design Achievement Awards, Semifinalist <span class="secondary">*2015*</span>
@@ -26,7 +26,7 @@ Set against the backdrop of an institutional merger between the Corcoran and Geo
 
 (content-image: entryway.png description: recessed entryway graphics)
 
-In addition to providing an additional level of visual interest (one that also retains the viewer’s focus on form and legibility), cool tones compliment the branding program’s architectural context.
+In addition to providing an additional level of visual interest (one that also retains the viewer's focus on form and legibility), cool tones compliment the branding program's architectural context.
 
 (content-image: atrium.png description: branding at exhibition start)
 
@@ -34,7 +34,7 @@ In addition to providing an additional level of visual interest (one that also r
 
 (content-image: wayfinding.png description: wayfinding signage)
 
-Visual vocabulary included the integration of abstract forms and solid gradient fields that mimicked the wordmark’s movement. Both elements add depth and dimension, further highlighting an interdisciplinary nature.
+Visual vocabulary included the integration of abstract forms and solid gradient fields that mimicked the wordmark's movement. Both elements add depth and dimension, further highlighting an interdisciplinary nature.
 
 (content-image: print-invitation.png description: sculptural print invitation)
 

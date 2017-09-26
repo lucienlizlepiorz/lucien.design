@@ -6,7 +6,7 @@ Keywords: book design, typography, interaction design
 
 ----
 
-Text: 1x1 Masters–utilizing a visual language of bitmapping and anti-Modernist composition–compares Matthew Carter, Zuzana Licko, and Rudy VanderLans: three of the digital age’s most prominent type designers. Image treatments reflect not only the original medium, but notions of influence and inextricable connection. Initially a 6" x 9" book, this design was later translated into an interactive publication via InDesign’s DPS suite of tools.
+Text: 1x1 Masters–utilizing a visual language of bitmapping and anti-Modernist composition–compares Matthew Carter, Zuzana Licko, and Rudy VanderLans: three of the digital age's most prominent type designers. Image treatments reflect not only the original medium, but notions of influence and inextricable connection. Initially a 6" x 9" book, this design was later translated into an interactive publication via InDesign's DPS suite of tools.
 
 (content-image: cover.png description: rear & front covers)
 
@@ -42,4 +42,4 @@ Each highlighted statement utilizes a distinct typeface from the early digital e
 
 Existing content readily adapts to the digital medium, and an interactive dictionary of relevant typographic terms provides a touch of geeky depth.  
 
-(content-image: iPad-b1b.png description: Easter egg: heathen’s dictionary)
+(content-image: iPad-b1b.png description: Easter egg: heathen's dictionary)

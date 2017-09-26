@@ -10,9 +10,9 @@ Author: Lucien
 
 ----
 
-Text: Recently, I’ve gone on a bit of a Euro-binge, prompting the construction of this latest model. The Siemens ES64F4 is a multi-system electric locomotive designed to operate across continental Europe, commonly appearing in Germany, Austria, Switzerland, Belgium, and the Netherlands. Two sets of pantographs, in addition to various country-specific electrical and safety systems, allow such operations.
+Text: Recently, I've gone on a bit of a Euro-binge, prompting the construction of this latest model. The Siemens ES64F4 is a multi-system electric locomotive designed to operate across continental Europe, commonly appearing in Germany, Austria, Switzerland, Belgium, and the Netherlands. Two sets of pantographs, in addition to various country-specific electrical and safety systems, allow such operations.
 
-Like my previous builds, the ES64F4 was designed with Bricklink’s Stud.io CAD software. However, this is the first model that I am in the process of physically constructing. After finishing the design, Stud.io automatically created a wishlist with the required parts and then generated carts from three Bricklink sellers. All of my orders are currently en route, and I can’t wait to start building!
+Like my previous builds, the ES64F4 was designed with Bricklink's Stud.io CAD software. However, this is the first model that I am in the process of physically constructing. After finishing the design, Stud.io automatically created a wishlist with the required parts and then generated carts from three Bricklink sellers. All of my orders are currently en route, and I can't wait to start building!
 
 (content-image: prototype-intermodal.png description: prototype hauling intermodal cargo)
 

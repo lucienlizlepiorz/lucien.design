@@ -24,7 +24,7 @@ An emphasis on lowercase capitalization and friendly error notifications humaniz
 
 (content-image: rates.png description: rates sorted by carrier & cost)
 
-When requesting either rates or tracking information, users encounter color schemes derived from each carrier’s branding identity. Instead of presenting individual logos alongside a single color palette, this broad application unites elements across interactions and provides subtle reinforcement for the user.
+When requesting either rates or tracking information, users encounter color schemes derived from each carrier's branding identity. Instead of presenting individual logos alongside a single color palette, this broad application unites elements across interactions and provides subtle reinforcement for the user.
 
 (content-image: track.png description: tracking input with history)
 
@@ -32,7 +32,7 @@ When requesting either rates or tracking information, users encounter color sche
 
 (content-image: package-saved.png description: package information saved)
 
-Optional package names provide quick recognition and fully bridge the enterprise and consumer spaces: anonymous numbers gain personal meaning. Based on a package’s delivery status, two distinct categories aid in organization. Users may additionally clear their entire history or individually delete entries.
+Optional package names provide quick recognition and fully bridge the enterprise and consumer spaces: anonymous numbers gain personal meaning. Based on a package's delivery status, two distinct categories aid in organization. Users may additionally clear their entire history or individually delete entries.
 
 (content-image: action-bar-menu.png description: menu options)
 
@@ -40,4 +40,4 @@ Optional package names provide quick recognition and fully bridge the enterprise
 
 (content-image: Spanish-rate-review.png description: Spanish translation: rate & review)
 
-Multi-lingual support includes localized strings, as well as automatic conversion of dates and time stamps into the user’s natural format. Negotiating these translations ultimately resulted in concise text across languages.
+Multi-lingual support includes localized strings, as well as automatic conversion of dates and time stamps into the user's natural format. Negotiating these translations ultimately resulted in concise text across languages.

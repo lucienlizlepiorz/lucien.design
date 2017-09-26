@@ -1,4 +1,4 @@
-Title: IBM’s Selectric Revolution
+Title: IBM's Selectric Revolution
 
 ----
 
@@ -32,7 +32,7 @@ Dramatic image enlargements, created with fixed-position containers, reveal them
 
 (content-image: detail-animated.gif description: animated detail)
 
-Extracted from promotional footage, detail shots inform users of the Selectric’s innovative movement in a manner that engages, renders consistently across browsers, and requires minimal bandwidth.
+Extracted from promotional footage, detail shots inform users of the Selectric's innovative movement in a manner that engages, renders consistently across browsers, and requires minimal bandwidth.
 
 (content-image: composer.png description: text as image)
 

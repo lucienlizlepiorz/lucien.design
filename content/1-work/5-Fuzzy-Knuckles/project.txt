@@ -6,7 +6,7 @@ Keywords: typography, generative, programming
 
 ----
 
-Text: Envisioned as an homage to the designer, Fuzzy Knuckles takes Erik Spiekermann’s Fira Sans as a base upon which thousands of hairs generate and grow. Utilizing Processing, a field of vector origin points allows each strand to mutuate in direction, length, and opacity.
+Text: Envisioned as an homage to the designer, Fuzzy Knuckles takes Erik Spiekermann's Fira Sans as a base upon which thousands of hairs generate and grow. Utilizing Processing, a field of vector origin points allows each strand to mutuate in direction, length, and opacity.
 
 (content-image: Processing.png description: developing with Processing)
 
@@ -20,7 +20,7 @@ As much as any other artistic field, typographic form expresses personality: Fuz
 
 (content-image: k.png description: cowlick k)
 
-Careful tweaking of the generated hair’s density and length resulted in code that could consistently produce the perfect amount of playful tufts.
+Careful tweaking of the generated hair's density and length resulted in code that could consistently produce the perfect amount of playful tufts.
 
 (content-image: g.png description: two-story grizzly)
 

@@ -6,7 +6,7 @@ Keywords: motion design, title credits, surveillance
 
 ----
 
-Text: Touching on themes of institutionalized suppression, artistic subversion, personal doubt, and unknown intimacy, *The Lives of Others* follows a cog in the Stasi’s police machine. Looped footage of cold, metallic environments communicates an oppressive atmosphere; before transitioning, each named entity disintegrates into indecipherable code, and ultimately, oblivion.
+Text: Touching on themes of institutionalized suppression, artistic subversion, personal doubt, and unknown intimacy, *The Lives of Others* follows a cog in the Stasi's police machine. Looped footage of cold, metallic environments communicates an oppressive atmosphere; before transitioning, each named entity disintegrates into indecipherable code, and ultimately, oblivion.
 
 <div class="video-wrapper"><iframe src="https://player.vimeo.com/video/127494616" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
