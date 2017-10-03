@@ -42,4 +42,4 @@ Both ends utilize Power Functions LEDs to add lighted ambiance and a bit of prot
 
 All power for the motor and lighting comes from a Power Functions battery box. There's plenty of wiring, but also plenty of room for "Lokführer Hans" to man the controls and make sure the goods arrive on time!
 
-(content-image: fuehrerstand.png description: Hans at the "füehrerstand")
+(content-image: fuehrerstand.png description: Hans at the "führerstand")
