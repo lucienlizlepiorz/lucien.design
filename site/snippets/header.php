@@ -27,7 +27,15 @@
 
 	<meta charset="utf-8"/>
 	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;"/>	
-	<meta property="og:image" content="<?php echo url("content/1-work/3-1x1-Masters/b3.png") ?>"/>
+	<meta property="og:image" content="<?php
+		if ($thumbnail = $page->image("thumb.png")) {
+			echo $page->image("thumb.png")->url();
+		} elseif (!$page->thumbnail()->empty()) {
+			echo $page->image($page->thumbnail()->value())->url();
+		} else {
+		    echo url("content/1-work/3-1x1-Masters/b3.png");
+		}
+	?>"/>
 
 	<!-- icons for IE 9 and below -->
 	<!--[if IE]><link rel="shortcut icon" href="<?php echo url("assets/images/favicon.ico") ?>"><![endif]-->
@@ -38,7 +46,7 @@
 	<!-- icons for Firefox, Chrome, Safari, IE 11+ and Opera -->
 	<link rel="icon" href="<?php echo url("assets/images/favicon.png") ?>">
 
-	<title><?php echo $page->title() ?> :: <?php echo $site->title() ?></title>
+	<title><?php echo smartypants($page->title()) ?> :: <?php echo smartypants($site->title()) ?></title>
 
 	<meta name="description" content="<?php echo $site->description()->html() ?>">	
 	<meta name="keywords" content="<?php echo $site->keywords()->html() ?>">

@@ -10,6 +10,10 @@ Author: Lucien
 
 ----
 
+Thumbnail: papa-und-kind.png
+
+----
+
 Text: After much anticipation, my DB ES64F4 is complete! Bricks arrived from Germany, the Netherlands, and the USA: there were a handful of packaging errors, but none were insurmountable. As a product, Bricklink's Stud.io design, build, export, and buy flow is excellently executed. It is unbelievably easy to create the model of your dreams and physically realize it a week later.
 
 (content-image: packages.png description: the bricks are arriving)

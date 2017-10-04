@@ -10,6 +10,10 @@ Author: Lucien
 
 ----
 
+Thumbnail: exterior-1.png
+
+----
+
 Text: Connecting Chicago with Seattle and Portland, the Empire Builder operated with Budd-built dome coaches following a 1955 equipment renewal. These cars afforded panoramic views of the Pacific Northwest, Glacier National Park, and the high plains of Montana. In 1967, the Great Northern Railway unveiled their new "Big Sky Blue" livery: a simultaneous embrace of modernist design and the romance of western vistas. Recreated with a width of six studs, this model mirrors the dome's complex curvature and includes a detailed interior.
 
 (content-image: prototype-exterior-Chicago.png description: prototype arriving at Chicago)
