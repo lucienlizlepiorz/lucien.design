@@ -278,7 +278,7 @@ input:focus {
 	display: none;
 }
 
-#content-list a {
+#content-list a, .content-title {
 	border-bottom: none;
 }
 

@@ -2,7 +2,7 @@
 
 <?php snippet("top") ?>
 
-<p class="content-title mono-bold"><?php echo smartypants($page->title()) ?></p>
+<a class="content-title mono-bold" href="<?php echo $page->url() ?>"><?php echo smartypants($page->title()) ?></a>
 
 <h3 class="content-metadata secondary"><?php echo smartypants($page->date('F j, Y')) ?></h3>
 
