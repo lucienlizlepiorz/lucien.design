@@ -4,11 +4,11 @@
 
 <div id="login">
 	<?php if($authenticationError): ?>
-		<ul class="alert"><li><?php echo $page->authentication() ?></li></ul>
+		<ul class="alert"><li><?php echo smartypants($page->authentication()) ?></li></ul>
 	<?php endif ?>
 	
 	<?php if($accessError): ?>
-		<ul class="alert"><li><?php echo $page->access() ?></li></ul>
+		<ul class="alert"><li><?php echo smartypants($page->access()) ?></li></ul>
 	<?php endif ?>
 	
 	<p class="mono-bold"><?php echo smartypants($page->text()) ?></p>
