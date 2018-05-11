@@ -168,7 +168,7 @@ input:focus {
 	text-align: center;
 }
 
-#name, #login-state {
+#name {
 	height: 6em;
 }
 
@@ -197,10 +197,6 @@ input:focus {
 
 #navigation h3 {
 	margin-bottom: .75em;
-}
-
-#login-state {
-	text-align: center;
 }
 
 #pagination {
