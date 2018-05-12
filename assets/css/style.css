@@ -7,6 +7,7 @@
 * {
 	margin: 0;
  	padding: 0;
+ 	box-sizing: border-box;
  	border: none;
 }
 
@@ -171,10 +172,6 @@ input:focus {
 }
 
 #name {
-	height: 6em;
-}
-
-#name {
 	padding-bottom: 2em;
 }
 
@@ -297,12 +294,14 @@ input:focus {
 .restricted-content-thumb, .content-thumb, .content-thumb img {
 	display: block;
 	width: 100%;
+	overflow: hidden;
 }
 
 .content-image, .content-image img {
 	display: block;
 	position: relative;
 	width: 100%;
+	overflow: hidden;
 }
 
 .content-image-caption {
