@@ -76,7 +76,6 @@ img {
 	width: 36em;
 	padding-top: 10%;
 	padding-bottom: 10%;
-	text-align: center;
 }
 
 #bsod :last-child {
@@ -89,6 +88,10 @@ img {
 	padding-left: .5em;
 	color: #0000ff;
 	background-color: #aaa;
+}
+
+#bsod p {
+	color: #fff;
 }
 
 #bsod-cursor {
@@ -127,7 +130,7 @@ input {
 }
 
 input:focus { 
-    outline: 2px solid rgba(0, 0, 255, .4);
+    outline: 2px solid #ccccff;
     outline-offset: 0;
 }
 
@@ -168,12 +171,12 @@ input:focus {
 	width: 100%;
 	margin: 0;
 	background-color: transparent;
-	box-shadow: 2px 2px rgba(0, 0, 255, .4);
+	box-shadow: 2px 2px #ccccff;
   	cursor: pointer;
 }
 
 .submit:focus { 
-    outline: 2px solid rgba(0, 0, 255, .4);
+    outline: 2px solid #ccccff;
     outline-offset: -3px;
 }
 
