@@ -17,11 +17,11 @@ html {
  	background-color: #fff;
  	 	
  	/* background color animation */
-	-webkit-animation: background-color-change 1s ease-out 1;
-	-moz-animation: background-color-change 1s ease-out 1;
-	-ms-animation: background-color-change 1s ease-out 1;
-	-o-animation: background-color-change 1s ease-out 1;
-	animation: background-color-change 1s ease-out 1;
+	-webkit-animation: white-background-color-change 1s ease-out 1;
+	-moz-animation: white-background-color-change 1s ease-out 1;
+	-ms-animation: white-background-color-change 1s ease-out 1;
+	-o-animation: white-background-color-change 1s ease-out 1;
+	animation: white-background-color-change 1s ease-out 1;
 }
 
 body {
@@ -41,13 +41,28 @@ img {
 	clear: both;
 }
 
+#error {
+	background-color: #0000ff;
+
+	/* background color animation */
+	-webkit-animation: blue-background-color-change 1s ease-out 1;
+	-moz-animation: blue-background-color-change 1s ease-out 1;
+	-ms-animation: blue-background-color-change 1s ease-out 1;
+	-o-animation: blue-background-color-change 1s ease-out 1;
+	animation: blue-background-color-change 1s ease-out 1;
+}
+
+#error p {
+	text-align: left;
+}
+
 #bsod-link {
 	display: block;
 	position: absolute;
 	width: 100%;
 	height: 100%;
 	margin: 0;
-	border-bottom: none;
+	background: none;
 }
 
 
@@ -74,10 +89,6 @@ img {
 	padding-left: .5em;
 	color: #0000ff;
 	background-color: #aaa;
-}
-
-#bsod p {
-	text-align: left;
 }
 
 #bsod-cursor {
@@ -473,7 +484,7 @@ li:before {
 
 a {
 	text-decoration: none;
-	background: linear-gradient(to bottom, transparent 0, transparent 40%, rgba(0, 0, 255, .2) 40%, rgba(0, 0, 255, .2) 100%);
+	background: linear-gradient(to bottom, transparent 0, transparent 40%, #ccccff 40%, #ccccff 100%);
 }
 
 a.current-page {
@@ -482,8 +493,8 @@ a.current-page {
 	padding-bottom: .25em;
 	padding-left: .5em;
 	color: #fff;
+	background-image: none;
 	background-color: #0000ff;
-	border-bottom: none;
 }
 
 .no-underline {
@@ -588,49 +599,96 @@ a.current-page {
   	}
 }
 
-/* background color change */
+/* white background color change on load */
 
-@-webkit-keyframes background-color-change {
+@-webkit-keyframes white-background-color-change {
 	0% {
-    	background-color: rgba(0, 0, 0, .4);
+    	background-color: #ccc;
   	}
   	100% {
     	background-color: #fff;
   	}
 }
 
-@-moz-keyframes background-color-change {
+@-moz-keyframes white-background-color-change {
 	0% {
-    	background-color: rgba(0, 0, 0, .4);
+    	background-color: #ccc;
   	}
   	100% {
     	background-color: #fff;
   	}
 }
 
-@-ms-keyframes background-color-change {
+@-ms-keyframes white-background-color-change {
 	0% {
-    	background-color: rgba(0, 0, 0, .4);
+    	background-color: #ccc;
   	}
   	100% {
     	background-color: #fff;
   	}
 }
 
-@-o-keyframes background-color-change {
+@-o-keyframes white-background-color-change {
 	0% {
-    	background-color: rgba(0, 0, 0, .4);
+    	background-color: #ccc;
   	}
   	100% {
     	background-color: #fff;
   	}
 }
 
-@keyframes background-color-change {
+@keyframes white-background-color-change {
 	0% {
-    	background-color: rgba(0, 0, 0, .4);
+    	background-color: #ccc;
   	}
   	100% {
     	background-color: #fff;
+  	}
+}
+
+/* blue background color change on load */
+
+@-webkit-keyframes blue-background-color-change {
+	0% {
+    	background-color: #000099;
+  	}
+  	100% {
+    	background-color: #0000ff;
+  	}
+}
+
+@-moz-keyframes blue-background-color-change {
+	0% {
+    	background-color: #000099;
+  	}
+  	100% {
+    	background-color: #0000ff;
+  	}
+}
+
+@-ms-keyframes blue-background-color-change {
+	0% {
+    	background-color: #000099;
+  	}
+  	100% {
+    	background-color: #0000ff;
+  	}
+}
+
+@-o-keyframes blue-background-color-change {
+	0% {
+    	background-color: #000099;
+  	}
+  	100% {
+    	background-color: #0000ff;
+  	}
+}
+
+@keyframes blue-background-color-change {
+	0% {
+    	background-color: #000099;
+  	}
+  	100% {
+    	background-color: #0000ff;
   	}
 }
