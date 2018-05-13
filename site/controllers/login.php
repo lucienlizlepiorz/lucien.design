@@ -11,18 +11,6 @@ return function($site, $pages, $page) {
 			if ($user->hasRole("external")) {
 				// check source page
 				switch ($source) {
-					case "Google":
-						// check user
-						switch ($user->username()) {
-							case "okgoogle":
-								// approved access
-								go($source);
-								break;
-							default:
-								// prevent page access
-								$accessError = true;
-						}
-						break;
 					case "work/Catalytic":
 						// check user
 						switch ($user->username()) {
