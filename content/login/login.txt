@@ -10,7 +10,7 @@ Access: oops! looks like your account can't access this page.
 
 ----
 
-Text: login
+Text: restricted access
 
 ----
 
