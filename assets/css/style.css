@@ -29,10 +29,6 @@ body {
 	font-size: 16px;
 }
 
-span { 
-	display: inline-block;
-}
-
 img {
 	border: 1px solid #000;
 }
@@ -50,10 +46,6 @@ img {
 	-ms-animation: blue-background-color-change 1s ease-out 1;
 	-o-animation: blue-background-color-change 1s ease-out 1;
 	animation: blue-background-color-change 1s ease-out 1;
-}
-
-#error p {
-	text-align: left;
 }
 
 #bsod-link {
@@ -76,6 +68,7 @@ img {
 	width: 36em;
 	padding-top: 10%;
 	padding-bottom: 10%;
+	text-align: center;
 }
 
 #bsod :last-child {
@@ -86,12 +79,7 @@ img {
 	display: inline-block;
 	padding-right: .5em;
 	padding-left: .5em;
-	color: #0000ff;
 	background-color: #aaa;
-}
-
-#bsod p {
-	color: #fff;
 }
 
 #bsod-cursor {
@@ -456,13 +444,6 @@ li {
 	padding-left: .625em;
 }
 
-.alert li {
-	padding: 1em;
-	padding-left: 2.75em;
-	border: 1px solid #cc0000;
-	border-left-width: 4px;
-}
-
 li:before, .alert li:before {
     display: inline-block;
     position: relative;
@@ -475,14 +456,6 @@ li:before {
     left: -1em;
     font-size: .625em;
     content: "\f0da";
-}
-
-.alert li:before {
-	top: .125em;
-    left: -1.75em;
-    font-size: 1em;
-    content: "\f071";
-    color: #cc0000;
 }
 
 a {
@@ -523,6 +496,31 @@ a.current-page {
 
 .content-metadata {
 	margin-bottom: 1.5em;
+}
+
+.alert li {
+	padding: 1em;
+	padding-left: 2.75em;
+	border: 1px solid #cc0000;
+	border-left-width: 4px;
+}
+
+.alert li:before {
+	top: .125em;
+    left: -1.75em;
+    font-size: 1em;
+    content: "\f071";
+    color: #cc0000;
+}
+
+#bsod p {
+	color: #fff;
+	text-align: left;
+}
+
+p#Windows {
+	color: #0000cc;
+	text-align: center;
 }
 
 /* color */
