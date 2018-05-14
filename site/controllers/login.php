@@ -11,17 +11,9 @@ return function($site, $pages, $page) {
 			if ($user->hasRole("external")) {
 				// check source page
 				switch ($source) {
-					case "work/Catalytic":
-						// check user
-						switch ($user->username()) {
-							case "hal9000":
-								// approved access
-								go($source);
-								break;
-							default:
-								// prevent page access
-								$accessError = true;
-						}
+					case "work/Allstate":
+						// approved access
+						go($source);
 						break;
 					default:
 						// user accessed login directly, normal access

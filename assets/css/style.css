@@ -249,10 +249,9 @@ input:focus {
 
 #content-list li {
 	display: block;
-	width: 150%;
+	width: 100%;
 	margin-bottom: 2em;
 	padding-left: 0;
-	margin-left: -25%;
 }
 
 #content-list li:first-child {
@@ -263,22 +262,13 @@ input:focus {
 	display: none;
 }
 
-.left {
-	float: left;
-}
-
-.right {
-	float: right;
-}
-
 .content-title-wrapper {
-	width: 20em;
-	margin-top: 8em;
+	width: 100%;
 	margin-bottom: 1em;
 }
 
 .content-thumb, .content-thumb img {
-	width: 32em;
+	width: 100%;
 	overflow: hidden;
 }
 
@@ -679,26 +669,4 @@ p#Windows {
   	100% {
     	background-color: #0000ff;
   	}
-}
-
-/* responsive layout */
-
-@media only screen and (max-width: 60em)  {
-	#content-list li {
-		width: 100%;
-		margin-left: 0;
-	}
-
-	.left, .right {
-		float: none;
-	}
-
-	.content-title-wrapper {
-		width: 100%;
-		margin-top: 0;
-	}
-
-	.content-thumb, .content-thumb img {
-		width: 100%;
-	}
 }
