@@ -7,18 +7,25 @@
 <div id="section-summary-text"><?php echo $page->text()->kirbytext() ?></div>
 
 <ul id="content-list">
-  
-	<?php foreach(page('work')->children()->visible()->flip() as $project): ?>
+
+	<?php $i = 0 ?>
+
+	<?php foreach(page('work')->children()->visible()->flip() as $project): $i++ ?>
+
+	<?php if($i % 2 == 0) {
+		$side = "left";
+	} else {
+		$side = "right";
+	}
+	?>
+
 	<li>
-  		<a class="content-title mono-bold" href="<?php echo $project->url() ?>"><?php echo smartypants($project->title()) ?></a>
-		<h3 class="content-metadata secondary"><?php echo smartypants($project->keywords()) ?></h3>
-		<?php if($project->image("thumb.png")): ?>
-  			<a class="content-thumb" href="<?php echo $project->url() ?>"><img src="<?php echo $project->image("thumb.png")->url() ?>" alt="<?php echo smartypants($project->title()) ?>"></img></a>	
-		<?php else: ?>
-			<a href="<?php echo $project->url() ?>">
-				<div class="restricted-content-thumb"><p class="mono-bold">restricted access</p></div>	
-			</a>	
-		<?php endif ?>
+		<div class="content-title-wrapper <?php echo $side ?>">
+			<a class="content-title mono-bold" href="<?php echo $project->url() ?>"><?php echo smartypants($project->title()) ?></a>
+			<h3 class="content-metadata secondary"><?php echo smartypants($project->keywords()) ?></h3>
+		</div>
+		<a class="content-thumb" href="<?php echo $project->url() ?>"><img src="<?php echo $project->image("thumb.png")->url() ?>" alt="<?php echo smartypants($project->title()) ?>"></img></a>
+		<div class="clear"></div>
   	</li>
   	<?php endforeach ?>
   

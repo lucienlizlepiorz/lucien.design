@@ -177,10 +177,6 @@ input:focus {
 	padding-bottom: 2em;
 }
 
-#navigation {
-	padding-bottom: 1em;
-}
-
 #name h1 {
 	display: inline-block;
 	margin-bottom: 0;
@@ -196,21 +192,12 @@ input:focus {
 	animation: blinking-text-cursor 1s step-start 0s infinite;
 }
 
+#navigation {
+	padding-bottom: 1em;
+}
+
 #navigation h3 {
 	margin-bottom: .75em;
-}
-
-#pagination {
-	padding-top: 1em;
-	border-top: 1px solid;
-}
-
-.next {
-	float: left;
-}
-
-.previous {
-	float: right;
 }
 
 #push {
@@ -262,9 +249,10 @@ input:focus {
 
 #content-list li {
 	display: block;
-	width: 100%;
+	width: 150%;
 	margin-bottom: 2em;
 	padding-left: 0;
+	margin-left: -25%;
 }
 
 #content-list li:first-child {
@@ -275,28 +263,27 @@ input:focus {
 	display: none;
 }
 
-#content-list a, .content-title {
-	border-bottom: none;
+.left {
+	float: left;
 }
 
-.restricted-content-thumb {
-	height: 12em;
-	text-align: center;
-	background-color: #000;
-	background-color: rgba(0, 0, 0, .4);
-	border: 1px solid #000;
+.right {
+	float: right;
 }
 
-.restricted-content-thumb p {
-	padding-top: 5em;
-	padding-bottom: 5em;
-	color: #fff;
+.content-title-wrapper {
+	width: 20em;
+	margin-top: 8em;
+	margin-bottom: 1em;
 }
 
-.restricted-content-thumb, .content-thumb, .content-thumb img {
-	display: block;
-	width: 100%;
+.content-thumb, .content-thumb img {
+	width: 32em;
 	overflow: hidden;
+}
+
+a.content-thumb {
+	background: none;
 }
 
 .content-image, .content-image img {
@@ -692,4 +679,26 @@ p#Windows {
   	100% {
     	background-color: #0000ff;
   	}
+}
+
+/* responsive layout */
+
+@media only screen and (max-width: 60em)  {
+	#content-list li {
+		width: 100%;
+		margin-left: 0;
+	}
+
+	.left, .right {
+		float: none;
+	}
+
+	.content-title-wrapper {
+		width: 100%;
+		margin-top: 0;
+	}
+
+	.content-thumb, .content-thumb img {
+		width: 100%;
+	}
 }
