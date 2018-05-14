@@ -39,7 +39,7 @@
 		} elseif ($page->hasChildren() && !$firstPost->thumbnail()->empty()) {
 			echo $firstPost->image($firstPost->thumbnail()->value())->url();
 		} else {
-		    echo url("content/1-work/3-1x1-Masters/b3.png");
+		    echo url("assets/images/apple-touch-icon.png");
 		}
 	?>"/>
 

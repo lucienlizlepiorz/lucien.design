@@ -8,19 +8,9 @@
 
 <ul id="content-list">
 
-	<?php $i = 0 ?>
-
-	<?php foreach(page('work')->children()->visible()->flip() as $project): $i++ ?>
-
-	<?php if($i % 2 == 0) {
-		$side = "left";
-	} else {
-		$side = "right";
-	}
-	?>
-
+	<?php foreach(page('work')->children()->visible()->flip() as $project): ?>
 	<li>
-		<div class="content-title-wrapper <?php echo $side ?>">
+		<div class="content-title-wrapper">
 			<a class="content-title mono-bold" href="<?php echo $project->url() ?>"><?php echo smartypants($project->title()) ?></a>
 			<h3 class="content-metadata secondary"><?php echo smartypants($project->keywords()) ?></h3>
 		</div>
