@@ -28,18 +28,10 @@
 	<meta charset="utf-8"/>
 	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;"/>	
 	<meta property="og:image" content="<?php
-		if($page->hasChildren()) {
-			$firstPost = $page->children()->flip()->first();
-		}
-
 		if ($thumbnail = $page->image("thumb.png")) {
 			echo $page->image("thumb.png")->url();
-		} elseif (!$page->thumbnail()->empty()) {
-			echo $page->image($page->thumbnail()->value())->url();
-		} elseif ($page->hasChildren() && !$firstPost->thumbnail()->empty()) {
-			echo $firstPost->image($firstPost->thumbnail()->value())->url();
 		} else {
-		    echo url("assets/images/apple-touch-icon.png");
+		    echo url("assets/images/og-image.png");
 		}
 	?>"/>
 
