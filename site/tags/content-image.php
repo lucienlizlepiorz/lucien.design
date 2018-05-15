@@ -11,7 +11,7 @@ kirbytext::$tags["content-image"] = array(
   	$description   = smartypants($tag->attr("description"));
     
     if ($description != "") {
-    	$caption = "<div class='content-image-caption'><h3>".$description."</h3></div>";
+    	$caption = "<div class='content-image-caption'><h3 class='secondary'>".$description."</h3></div>";
     } else {
     	$caption = NULL;
     }
