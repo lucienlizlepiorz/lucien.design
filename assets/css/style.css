@@ -326,8 +326,21 @@ a.content-thumb {
 }
 
 .content-image-caption {
-	margin-top: .5em;
+	position: relative;
+	padding-top: .5em;
+	padding-bottom: .5em;
+	padding-left: .5em;
 	margin-bottom: 0;
+}
+
+.content-image-caption::after {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	width: 1px;
+	background: linear-gradient(to bottom, #4d4d4d, transparent);
+	content: '';
 }
 
 .content-image-caption h3 {
