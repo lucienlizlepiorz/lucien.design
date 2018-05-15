@@ -139,7 +139,7 @@ input:focus {
     width: 1em;
     
     /* gray */ 
-	color: rgba(0, 0, 0, .7);
+	color: #4d4d4d;
     
     /* icon */ 
     text-align: center;
@@ -219,7 +219,7 @@ input:focus {
 	padding-bottom: 10em;
 }
 
-#content :last-child {
+#content :nth-last-child(2) {
 	margin-bottom: 0;
 }
 
@@ -230,7 +230,6 @@ input:focus {
 #section-summary-text {
 	padding-top: 1em;
 	padding-bottom: 1em;
-	border-bottom: 1px solid #000;
 }
 
 #section-summary-text:first-child {
@@ -242,6 +241,8 @@ input:focus {
 }
 
 #content-list {
+	display: block;
+	position: relative;
 	list-style-type: none;
 	text-indent: 0;
 	margin: 0;
@@ -249,22 +250,56 @@ input:focus {
 
 #content-list li {
 	display: block;
+	position: relative;
 	width: 100%;
-	margin-bottom: 2em;
-	padding-left: 0;
+	padding-bottom: 2em;
+	padding-left: 2em;
 }
 
-#content-list li:first-child {
-	margin-top: 2em;
+#content-list li::after {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: .25em;
+	width: 1px;
+	background-color: #4d4d4d;
+	content: '';
 }
 
 #content-list li:before {
 	display: none;
 }
 
+#content-list li:first-child {
+	margin-top: 2em;
+}
+
+#content-list li:first-child::after {
+	top: .75em;
+}
+
+#content-list li:last-child {
+	padding-bottom: 0;
+}
+
+#content-list li:last-child::after {
+	background: linear-gradient(to bottom, #4d4d4d, transparent);
+}
+
 .content-title-wrapper {
 	width: 100%;
 	margin-bottom: 1em;
+}
+
+.content-title-wrapper::after {
+	position: absolute;
+	top: .5em;
+	left: 0;
+	width: .5em;
+	height: .5em;
+	background-color: #4d4d4d;
+	border-radius: 50%;
+	content: '';
 }
 
 .content-thumb, .content-thumb img {
@@ -273,7 +308,14 @@ input:focus {
 }
 
 a.content-thumb {
+	display: block;
+	line-height: 0;
+	margin-bottom: 0;
 	background: none;
+}
+
+.content-image {
+	margin-bottom: 1.5em;
 }
 
 .content-image, .content-image img {
@@ -292,7 +334,6 @@ a.content-thumb {
 	padding-bottom: .25em;
 	padding-left: .5em;
 	background-color: #000;
-	background-color: rgba(0, 0, 0, .7);
 }
 
 .content-image-caption h3 {
@@ -503,12 +544,7 @@ p#Windows {
 /* color */
 
 .secondary {
-	color: rgba(0, 0, 0, .7);
-}
-
-.secondary a {
-	color: rgba(0, 0, 0, .7);
-	border-bottom: 1px solid rgba(0, 0, 0, .7);
+	color: #4d4d4d;
 }
 
 /* animation keyframes */
