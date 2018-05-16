@@ -8,8 +8,13 @@ return function($site, $pages, $page) {
 	if(r::is("post") and get("authenticate")) {
 		// fetch the user, run authentication method
 		if($user = $site->user(get("username")) and $user->login(get("password"))) {
-			// approved access
-			go($source);
+			if ($source == "") {
+				// go to index
+				go("/");
+			} else {
+				// approved access
+				go($source);
+			}
 		} else {
 			// make sure the alert is displayed in the template
 			$authenticationError = true;
