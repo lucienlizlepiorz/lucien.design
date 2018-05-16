@@ -1,0 +1,13 @@
+Title: authenticate
+
+----
+
+Authentication: oops! looks like your password is incorrect.
+
+----
+
+Password: password
+
+----
+
+Button: go
