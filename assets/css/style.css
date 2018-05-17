@@ -111,10 +111,6 @@ img {
 	padding-bottom: 10em;
 }
 
-#content :nth-last-child(2) {
-	margin-bottom: 0;
-}
-
 #content-list {
 	display: block;
 	position: relative;
@@ -141,10 +137,6 @@ img {
 
 #content-list li:first-child::after {
 	top: .75em;
-}
-
-#content-list li:last-child {
-	padding-bottom: 0;
 }
 
 #content-list li:last-child::after {
