@@ -2,7 +2,7 @@
 
 <?php snippet("top") ?>
 
-<h1 id="section-title-text" class="mono-bold">hello.</h1>
+<h1 id="section-title-text" class="mono-bold"><?php echo smartypants($page->headline()) ?></h1>
 
 <div id="section-summary-text"><?php echo $page->text()->kirbytext() ?></div>
 
@@ -21,7 +21,7 @@
 		<?php endif ?>
 
 		<?php if ($timelinePost->intendedTemplate() == "timeline-text"): ?>
-		<div class="<?php if($timelinePost->event() == "true") {echo 'event';} ?>"><?php echo smartypants($timelinePost->text()->kirbytext()) ?></div>
+		<div class="<?php if($timelinePost->event() == "true") {echo 'event';} ?>"><?php echo $timelinePost->text()->kirbytext() ?></div>
 		<?php endif ?>
 		
   	</li>
