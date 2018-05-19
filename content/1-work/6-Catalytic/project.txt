@@ -2,143 +2,103 @@ Title: Pushbot by Catalytic
 
 ----
 
-Keywords: interaction design, workflow management, component libraries 
+Keywords: web, enterprise, product delivery 
 
 ----
 
-Text: As a task and process management platform for enterprise users, Pushbot necessitated a redesign that visualized the hierarchical relationships between key system objects. In addition, atomic design principles were leveraged to help facilitate the design's implementation as a React-based Storybook. 
+Text: *Key accountabilities: component library architecture, component UX/UI, implementation documentation, developer support*
 
-A consumer-grade experience elevated the enterprise product: planting the foundation for user-based growth, and disrupting the RPM and BPM industries. Created alongside Michelle Kwolek, Kat Park, and Jason Kunesh.
+As a task and process management platform for enterprise users, Pushbot necessitated a consumer-grade redesign that would disrupt the BPM and RPA industries. Atomic design principles were leveraged to help facilitate the design's implementation as a React-based Storybook. 
 
 (content-image: sketch-v1.png description: AppStructure ideation)
 
 Early designs attempted to streamline the experience by overtly joining various concepts, such as tasks that were always shown as the children of processes.
 
-(content-image: v1-task-list.png description: version 1: task list)
+(content-image: v1-task-list.png description: early task list)
 
-(content-image: v1-task-detail.png description: version 1: task detail)
+An experimental, search-based interface was briefly explored and tested. Users would navigate through the app via raw text entry or the mixing-and-matching of tags: a hybrid command-line GUI.
 
-(content-image: sketch-v2-task-list.png description: task ListItem states)
+(content-image: v3-search.png description: search homepage)
 
-In this later design system, a DataGrid ListItem formed the foundation, with filtering and sorting broken up into distinct interactions. While elegant on desktop devices and when used with a constrained set of options, the solution had trouble scaling down to mobile and scaling up in complexity.
+(content-image: v3-search-detail.png description: search builder & recommended tags)
 
-(content-image: v2-task-list.png description: version 2: task list)
+Following this exploratory phase, the design team aligned all concepts with the product roadmap and business goals. From this, a final design system emerged.
 
-Several pro-level users expressed interest in completing tasks directly within the context of a process, but the concept did not resonate with general users.
+Beginning with login, a card-based structure was adopted.
 
-(content-image: v2-process-detail.png description: version 2: combined task/process detail)
+(content-image: login.png description: login)
 
-(content-image: sketch-v2-process-detail.png description: timeline structure)
+After logging in, Pushbot immediately presented users with urgent tasks, as well as processes that they were involved in. Urgency was determined by priority level, time overdue, and the number of users affected by a delay. 
 
-Alongside these more conventional iterations, an experimental, search-based interface was briefly explored and tested. Users would navigate through the app via raw text entry (to be intelligently interpreted) or the mixing-and-matching of suggested tags: a hybrid command-line GUI.
+(content-image: today.png description: urgent tasks & processes)
 
-(content-image: v3-search.png description: version 3: search homepage)
-
-(content-image: v3-search-detail.png description: detail: search builder & recommendations)
-
-(content-image: v3-task-list.png description: version 3: task list)
-
-(content-image: v3-task-detail.png description: version 3: task detail)
-
-Comparing each previous version with both the platform's current state and product roadmap, the design team defined a select set of system requirements, ushering in the synthesis and refinement of a final design.
-
-(content-image: login.png description: final: login, default state)
-
-After logging in, Pushbot presented users with urgent tasks for them to accomplish, as well as a handy overview of business processes that they were involved in. Urgency was determined by priority level, time overdue, and the number of other users affected by a delay. 
-
-(content-image: today.png description: final: "Today" homepage)
-
-(content-image: today-mobile.png description: final: responsive layout, "Today")
-
-(content-image: sidenav-personal.png description: final: SideNav, default state)
+(content-image: today-mobile.png description: mobile layout)
 
 Due to the hybrid userbase of taskers and managers, the navigation menu required a split hierarchy. Common, everyday sections were shown by default, whereas advanced platform features required a second interaction.
 
-(content-image: sidenav-organization.png description: final: SideNav, organization expanded)
+(content-image: sidenav-personal.png description: default view)
 
-(content-image: sidenav-detail.png description: detail: SideNav icons)
+(content-image: sidenav-organization.png description: platform options)
+
+(content-image: sidenav-detail.png description: icon system)
 
 Notifications emulated the SideNav's behavior, allowing a user to glance at newly assigned work while maintaining their current context.
 
-(content-image: notifications.png description: final: Notifications overlay)
+(content-image: notifications.png description: notifications)
 
-Pushbot consisted of three orders of system-level objects: tasks, processes, and templates. On each respective list page, users could filter and sort using a "Mad Libs"-style toolbar, in addition to switching between default and condensed display modes.
+Pushbot consisted of three orders of system-level objects: tasks, processes, and templates. On each list page, users could filter and sort using a "Mad Libs" toolbar, in addition to choosing between default and condensed modes.
 
-(content-image: task-list.png description: final: task list w/filtering options)
+(content-image: task-list.png description: task list, default)
 
-All ListItems, regardless of state or object type, shared the same basic structure: their individual usage dictated the correct combination of mini-components.
-
-(content-image: task-list-detail.png description: detail: task ListItem variation)
-
-On each list page, users could add another object. In this case, they could create a task that exists outside of any other process.
-
-(content-image: new-quick-task.png description: final: adding a quick-task)
+(content-image: task-list-detail.png description: task ListItem, default)
 
 The condensed ("expert") display mode removed any task instructions, avatars, and iconography. Additionally, if a task had no required fields, a button for immediate completion surfaced.
 
-(content-image: task-list-expert.png description: final: expert mode for tasks)
+(content-image: task-list-expert.png description: task list, expert)
 
-(content-image: task-list-expert-detail.png description: detail: expert mode ListItem)
+(content-image: task-list-expert-detail.png description: task ListItem, expert)
 
 Process ListItems built upon the backbone of tasks: they featured a visualization of current progress, highlighted the estimated completion date, exposed categorization, and linked to the parent template.
 
-(content-image: process-list.png description: final: process list)
-
 As the ETA slipped farther into the future, the due date moved to the left. Time was expressed as a proportional relationship between each side of the marker.
 
-(content-image: process-list-detail.png description: detail: process forecast visualization)
+(content-image: process-list.png description: process list)
 
-(content-image: sketch-forecast-visualization.png description: process forecast as a race)
+(content-image: process-list-detail.png description: process ListItem)
 
 Templates utilized a slightly-modified ListItem grid. This layout evoked ecommerce and could be readily extended to a future public marketplace.
 
-(content-image: template-list.png description: final: template grid)
+(content-image: template-list.png description: template grid)
 
 Digging into an actual task, ListItem components were reused to frame and affirm the user's mental journey. Comments flowed above a task detail's InputFields, updating users on important notes before they got to work.
 
-(content-image: sketch-task-detail-1.png description: basic structural outline)
+(content-image: sketch-task-detail-2.png description: structural outline)
 
-(content-image: sketch-task-detail-2.png description: refined components)
+(content-image: task-detail.png description: task detail)
 
-(content-image: task-detail.png description: final: task detail w/comments expanded)
+(content-image: task-detail-comments-detail.png description: comment ListItem)
 
-(content-image: task-detail-comments-detail.png description: detail: comment ListItem)
+When a task was completed, users would be prompted with a dialog that surfaced the next tasks in their queue. As the primary KPI, task completion needed to be constantly encouraged. 
 
-Beyond the overarching page structures and user flows, a comprehensive library of input types and states was developed.
+(content-image: task-detail-dialog.png description: task completion dialog)
 
-(content-image: task-detail-fields.png description: final: InputField variations)
-
-(content-image: task-detail-empty.png description: final: empty task state)
-
-Multiple users expressed interest in a dialog that appeared after the completion of a task and indicated potential next steps. As the primary KPI, task completion needed to be constantly encouraged. 
-
-(content-image: task-detail-dialog.png description: final: task completion dialog)
-
-(content-image: task-detail-dialog-detail.png description: detail: dialog actions)
-
-(content-image: task-detail-complete.png description: final: completed task state)
-
-(content-image: sketch-completed-fields.png description: early version of completed state)
-
-(content-image: task-detail-complete-fields-detail.png description: detail: completed fields)
-
-An additional task detail variant was floated around in which the page structure mimicked that of the process detail: heightening the sense of an audit trail.
-
-(content-image: task-detail-alternate-1.png description: alternate: task audit trail, top)
-
-(content-image: task-detail-alternate-2.png description: alternate: task audit trail, bottom)
+(content-image: task-detail-dialog-detail.png description: dialog actions)
 
 Within a process detail, users could filter objects shown on the timeline and reverse the chronological sort.
 
-(content-image: process-detail-1.png description: final: process detail, top)
+(content-image: process-detail-1.png description: process detail, top)
 
 As users scrolled deeper into the timeline, the top card condensed and opened up more visual real estate.
 
-(content-image: process-detail-2.png description: final: process detail, scrolled)
+(content-image: process-detail-2.png description: process detail, scrolled)
 
-(content-image: process-detail-timeline-detail.png description: detail: timeline structure)
+(content-image: process-detail-timeline-detail.png description: timeline structure)
 
 (content-image: sketch-process-detail.png description: initial sketches behind the timeline)
+
+On each list page, users could add another object. In this case, they could create a task that exists outside of any other process.
+
+(content-image: new-quick-task.png description: adding a quick-task)
 
 Similar to the quick-task option available on the task list page, users could add an impromptu task to an in-flight process. If desired, this change could flow upwards to the template-level and affect all subsequent, related processes. 
 

@@ -2,7 +2,7 @@ Title: ship.it
 
 ----
 
-Keywords: interaction design, programming, Android
+Keywords: Android, consumer, product delivery
 
 ----
 
