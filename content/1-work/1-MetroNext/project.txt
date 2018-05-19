@@ -22,6 +22,6 @@ Colors directly correspond to each rail line: all other elements recede to a sec
 
 (content-image: bus.png description: en-route Metrobus lines)
 
-In the physical world, bus stops prominently displayed their identification numbers. MetroNext naturally leverages this ingrained data point, and also reaffirms the user's selection by displaying the location's name.
+In the physical world, bus stops prominently display their identification numbers. MetroNext naturally leverages this ingrained data point, and also reaffirms the user's selection by displaying the location's name.
 
 (content-image: interaction-bus.png description: bus stop entry & predictions)
