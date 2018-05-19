@@ -6,7 +6,7 @@ Keywords: interaction design, programming, iOS
 
 ----
 
-Text: Showcasing undergraduate 2D design work from the Corcoran School of the Arts & Design, corcoran:Design provides users with a canvas of thumbnails to explore. The highlighted work spans two majors and four years of instruction. Each individual project contains CDN-hosted images, a brief description, and the student's portfolio link. 
+Text: Showcasing undergraduate 2D design work from the Corcoran School of the Arts & Design, corcoran:Design provided users with a canvas of thumbnails to explore. The highlighted work spanned two majors and four years of instruction. Each individual project contained CDN-hosted images, a brief description, and the student's portfolio link. 
 
 After iOS App Store certification, corcoran:Design was employed by academic recruiters for a one-year period.
 
@@ -16,17 +16,17 @@ After iOS App Store certification, corcoran:Design was employed by academic recr
 
 (content-image: graphic.png description: modular thumbnail grid)
 
-Thumbnails of varying scale and placement establish multiple levels of hierarchy, while an interwoven grid simultaneously emphasizes the codependent nature of undergraduate design work.
+Thumbnails of varying scale and placement established multiple levels of hierarchy, while an interwoven grid simultaneously emphasized the cross-functional nature of undergraduate design work.
 
 (content-image: project-shown.png description: extended description revealed)
 
-Besides detailing a project's scope and concept, descriptions contextualize each piece within the broader curriculum. An info page summarizes the department's culture and relationship with the global design community.
+Besides detailing a project's scope and concept, descriptions contextualized each piece within the broader curriculum. An info page summarized the department's culture and relationship with the global design community.
 
 (content-image: secondary.png description: info & project interfaces)
 
 (content-image: iPad-motion.png description: responsive structure)
 
-Layouts seamlessly scale across iPhone and iPad form factors. A collection of continuous gradients unifies the interface, representing the diverse array of student backgrounds and areas of specialization. 
+Layouts seamlessly scaled across iPhone and iPad form factors. A collection of continuous gradients unified the interface, representing the diverse array of student backgrounds and areas of specialization. 
 
 (content-image: iPad-info.png description: altered navigation for tablet)
 

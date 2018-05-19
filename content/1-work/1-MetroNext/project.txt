@@ -6,22 +6,22 @@ Keywords: interaction design, programming, Windows
 
 ----
 
-Text: As a Washington, DC commuter, WMATA's arrival predictions for both rail and bus were an essential asset. Before I began this project, the Windows Phone 8 ecosystem had been severely lacking any glanceable or intelligently-designed transit apps. Through the use of platform-specific interaction patterns, MetroNext allows users to rapidly swipe between arrivals for both rail and bus stops, active service advisories, and favorited stations.
+Text: As a Washington, DC commuter, WMATA's arrival predictions for both rail and bus were an essential asset. Before I began this project, the Windows Phone 8 ecosystem had been severely lacking any glanceable or intelligently-designed transit apps. Through the use of platform-specific interaction patterns, MetroNext allowed users to rapidly swipe between arrivals for both rail and bus stops, active service advisories, and favorited stations.
 
 (content-image: panorama.png description: seamless panorama)
 
-Windows Phone 8's panorama control allows each section to sit at the top level of hierarchy, in addition to providing situational context. By placing rail and bus arrivals next to each other, users may compare upcoming trips via either mode.
+Windows Phone 8's panorama control let each section sit at the top level of hierarchy, in addition to enhancing user context. By placing rail and bus arrivals next to each other, users could compare upcoming trips via either mode.
 
 (content-image: start.png description: Start screen with app tile)
 
 (content-image: rail.png description: Foggy Bottom arrivals)
 
-Colors directly correspond to each rail line: all other elements recede to a secondary level through the use of gray text.
+Colors directly corresponded to each rail line: all other elements receded to a secondary level through the use of gray text.
 
 (content-image: interaction-rail.png description: rail station selection)
 
 (content-image: bus.png description: en-route Metrobus lines)
 
-In the physical world, bus stops prominently display their identification numbers. MetroNext naturally leverages this ingrained data point, and also reaffirms the user's selection by displaying the location's name.
+In the physical world, bus stops prominently displayed their identification numbers. MetroNext naturally leveraged this ingrained data point, and also reaffirmed the user's selection by displaying the location's name.
 
 (content-image: interaction-bus.png description: bus stop entry & predictions)
