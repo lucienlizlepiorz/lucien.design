@@ -6,17 +6,17 @@ Keywords: interaction design, programming, Android
 
 ----
 
-Text: Addressing a gap in the marketplace, ship.it joins two of the most requested shipping queries–rates and tracking information–with a series of approachable, concise interfaces. Through the EasyPost API, users can immediately compare service levels, costs, and tracking details between FedEx, UPS, and the United States Postal Service. Additional features include support for both Spanish speakers and foreign unit systems. Pending release on Google Play.
+Text: Addressing a gap in the marketplace, ship.it joined two of the most popular shipping queries–rates and tracking information–with a series of approachable, concise interfaces. Through the EasyPost API, users could immediately compare service levels, costs, and tracking details between FedEx, UPS, and the United States Postal Service. Additional features included support for both Spanish speakers and foreign unit systems.
 
 (content-image: user-flow.png description: initial flowmap)
 
-During planning, the proposed feature set included optional user account creation via Facebook authentication. As this would primarily benefit the fringe case of users with multiple installations, accounts were sacrificed for an increased focus on core functionality. 
+During planning, the proposed feature set included optional user account creation via Facebook. As this would have primarily benefited the fringe case of users with multiple devices, accounts were sacrificed for an increased focus on core functionality. 
 
 (content-image: launch.png description: launching & location request)
 
 (content-image: ship.png description: shipment data entry)
 
-An emphasis on lowercase capitalization and friendly error notifications humanizes the entire experience, further helping to render obtuse data as approachable by anyone.
+An emphasis on lowercase capitalization and friendly error notifications humanized the entire experience: obtuse data became approachable.
 
 (content-image: error-toast.png description: error toast)
 
@@ -24,7 +24,7 @@ An emphasis on lowercase capitalization and friendly error notifications humaniz
 
 (content-image: rates.png description: rates sorted by carrier & cost)
 
-When requesting either rates or tracking information, users encounter color schemes derived from each carrier's branding identity. Instead of presenting individual logos alongside a single color palette, this broad application unites elements across interactions and provides subtle reinforcement for the user.
+When requesting either rates or tracking information, users encountered color schemes derived from each carrier's branding identity. This broad application united elements across interactions and reinforced context.
 
 (content-image: track.png description: tracking input with history)
 
@@ -32,7 +32,9 @@ When requesting either rates or tracking information, users encounter color sche
 
 (content-image: package-saved.png description: package information saved)
 
-Optional package names provide quick recognition and fully bridge the enterprise and consumer spaces: anonymous numbers gain personal meaning. Based on a package's delivery status, two distinct categories aid in organization. Users may additionally clear their entire history or individually delete entries.
+Optional package names allowed for quick recognition: anonymous numbers gained personal meaning.
+
+Based on a package's delivery status, an "on the way" category helped users prioritize. Users could also delete individual packages or clear their history.
 
 (content-image: action-bar-menu.png description: menu options)
 
@@ -40,4 +42,4 @@ Optional package names provide quick recognition and fully bridge the enterprise
 
 (content-image: Spanish-rate-review.png description: Spanish translation: rate & review)
 
-Multi-lingual support includes localized strings, as well as automatic conversion of dates and time stamps into the user's natural format. Negotiating these translations ultimately resulted in concise text across languages.
+Multi-lingual support included localized strings, as well as automatic conversion of dates and time stamps into the user's natural format. Negotiating these translations ultimately resulted in concise text across languages.
