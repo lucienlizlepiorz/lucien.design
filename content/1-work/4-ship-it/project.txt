@@ -8,7 +8,7 @@ Keywords: interaction design, programming, Android
 
 Text: Addressing a gap in the marketplace, ship.it joined two of the most popular shipping queries–rates and tracking information–with a series of approachable, concise interfaces. Through the EasyPost API, users could immediately compare service levels, costs, and tracking details between FedEx, UPS, and the United States Postal Service. Additional features included support for both Spanish speakers and foreign unit systems.
 
-(content-image: user-flow.png description: initial flow)
+(content-image: user-flow.png description: flow during ideation)
 
 During planning, the proposed feature set included optional user account creation via Facebook. As this would have primarily benefited the fringe case of users with multiple devices, accounts were sacrificed for an increased focus on core functionality. 
 
