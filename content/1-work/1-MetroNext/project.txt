@@ -8,7 +8,7 @@ Keywords: Windows Phone 8, consumer, product delivery
 
 Text: *Key accountabilities: user experience direction, technical architecture, Windows Phone 8 development, API integration, user acceptance testing*
 
-As a Washington, DC commuter, WMATA's arrival predictions for both rail and bus were an essential asset. Before I began this project, the Windows Phone 8 ecosystem had been severely lacking any glanceable or intelligently-designed transit apps. Through the use of platform-specific interaction patterns, MetroNext allowed users to rapidly swipe between arrivals for both rail and bus stops, active service advisories, and favorited stations.
+As a Washington, DC commuter, WMATA's arrival predictions for rail and bus were an essential asset. Before I began this project, the Windows Phone 8 ecosystem had been severely lacking any glanceable or intelligently-designed transit apps. Through the use of platform-specific interaction patterns, MetroNext allowed users to rapidly swipe between rail and bus stop arrivals, active service advisories, and favorited stations.
 
 (content-image: panorama.png description: seamless panorama)
 
@@ -26,4 +26,4 @@ Colors directly corresponded to each rail line: all other elements receded to a 
 
 In the physical world, bus stops prominently displayed their identification numbers. MetroNext naturally leveraged this ingrained data point, and also reaffirmed the user's selection by displaying the location's name.
 
-(content-image: interaction-bus.png description: bus stop entry & predictions)
+(content-image: interaction-bus.png description: bus stop entry & arrivals)

@@ -2,11 +2,11 @@ Title: Learnmetrics
 
 ----
 
-Keywords: branding, education, program delivery 
+Keywords: branding, education, concept delivery 
 
 ----
 
-Text: *Key accountabilities: visual concepting, creative direction, brand development, stakeholder alignment, asset implementation*
+Text: *Key accountabilities: competitive research, visual concepting, brand development, stakeholder alignment*
 
 Connecting educators and administrators with the data that surrounds their students, Learnmetrics required an identity that communicated both this mission and a sense of humanity. 
 
@@ -28,33 +28,33 @@ Visual research and inspiration drew upon a multitude of sources, spanning archi
 
 (content-image: Pinterest-education-analytics-3.png description: assorted data visualizations)
 
-In addition to flowing, organic forms, a focus on simple, constructed components arose. When used in aggregate, these building blocks lent each visual application a sense of energy, synthesis, and precision. 
+In addition to organic forms, a focus on modular construction arose. These building blocks lent each visual a sense of energy, synthesis, and precision. 
 
-(content-image: Pinterest-education-analytics-4.png description: modular logo elements)
+(content-image: Pinterest-education-analytics-4.png description: modular elements)
 
-(content-image: Pinterest-detail-2.png description: multiple data levels)
+(content-image: Pinterest-detail-2.png description: nested data)
 
-To gauge existing messaging and avoid any potential branding clashes, the research stage included an assessment of marketplace competitors.
+To gauge existing messaging and develop a competitive edge, the research stage included marketplace assessment.
 
-(content-image: Pinterest-education-analytics-5.png description: landscape research)
+(content-image: Pinterest-education-analytics-5.png description: marketplace research)
 
 (content-image: concepts-sketch-1.png description: initial ideation)
 
-Sketching concepts touched numerous depictions: network nodes, roots, stylized graphs, and physical books all made appearances. By exploring both literal and conceptual directions, the process could focus on an approach that equally resonated with stakeholders, users, and the public.
+Sketches touched several depictions: network nodes, roots, stylized graphs, physical books. By exploring literal and conceptual directions, the process could focus on an approach that resonated with stakeholders, users, and the public.
 
 (content-image: concepts-sketch-2.png description: humanized networks)
 
-Two narratives began to dominate, one in which the logo communicated data management, and another that expressed the marriage of data with education. The former directly appealed to existing users and professionals, while the latter resonated with future clients and unaffiliated viewers.
+Two narratives began to dominate, one in which the logo communicated data management, and another that expressed the marriage of data with education. The former directly appealed to existing users and professionals, while the latter resonated with potential clients.
 
 (content-image: concepts-sketch-3.png description: moving information)
 
-When attempting to soften the frigidity of complex information, I wondered: should the icon include a literal human, or instead, humanlike attributes?
+When attempting to soften the frigidity of complex information, I wondered: should the icon include a literal human, or instead, human-like attributes?
 
 (content-image: concepts-sketch-4.png description: human elements)
 
 (content-image: concepts-sketch-5.png description: pencils & graphs)
 
-Work then transitioned to the computer: multiple monochrome versions arose alongside a typographic lockup set in Circular. The typeface's precise curvature seamlessly corresponded to the dual identity of data and education. A punchy period heightened impact and embodied the role of a technological challenger.
+Work then transitioned to the computer: multiple monochrome versions arose alongside a typographic lockup set in Circular. The typeface's precise curvature seamlessly corresponded to the dual identity of data and education. A punchy period heightened impact and embodied the role of a challenger.
 
 (content-image: monochrome-cloud-mind.png description: monochrome: Cloud Mind)
 
@@ -64,7 +64,7 @@ Work then transitioned to the computer: multiple monochrome versions arose along
 
 (content-image: monochrome-paper-and-pies.png description: monochrome: Paper & Pies)
 
-Color applications followed, with palettes that employed slightly-saturated tints of somber hues. Decisive Data began to lean towards illustration, whereas Root Nexus reduced each emotion to the minimal number of components.
+Color applications followed, with palettes that employed slightly-saturated tints of somber hues. Decisive Data began to lean towards illustration, whereas Root Nexus was reduced to the minimum number of components.
 
 (content-image: v2-direction-1.png description: Cloud Mind)
 
@@ -88,7 +88,7 @@ In order to clearly communicate the creative process to remote team members, a p
 
 (content-image: progress-update.png description: progress update)
 
-An additional revision leveled the playing field of abstraction versus illustration: white space replaced interior graphs, padding around the pencil increased, and softened edges propagated throughout the form. These edits reduced the rigidity of a stylized tool and lent a heightened level of movement.
+Another revision increased the level of abstraction: white space replaced interior detail, padding surrounded the pencil, and softened edges propagated throughout. These edits reduced rigidity and added movement.
 
 (content-image: abstracted-wordmark.png description: abstracted wordmark)
 
@@ -100,9 +100,9 @@ Responding to stakeholder concerns, two tangential directions were presented. Bo
 
 (content-image: out-of-the-pencil.png description: Out of the Pencil)
 
-Consensus grew around the honeycomb shape, yet it lacked the educational identity of Decisive Data. Reintroducing the illustrative pencil solved the problem and gave humanity to the background stream of fractured data.
+Consensus grew around the honeycomb shape, yet it lacked the educational identity of Decisive Data. Restoring the illustrative pencil solved the issue and added a human touch.
 
-Executives immediately identified with both the new iconography and refreshing palette of medium-saturation blues and greens. Graphik, by Christian Schwartz of Commercial Type, replaced Circular as the wordmark's typeface due to an increased selection of weights, optimized rendering, and heightened linearity. 
+Executives immediately identified with the new iconography and refreshing palette. Graphik, by Christian Schwartz of Commercial Type, replaced Circular as the wordmark's typeface due to an increased selection of weights, optimized rendering, and heightened linearity. 
 
 (content-image: final-horizontal-standard.png description: final horizontal wordmark, standard background)
 

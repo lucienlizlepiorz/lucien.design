@@ -2,13 +2,13 @@ Title: NEXT 2015
 
 ----
 
-Keywords: branding, education, program delivery
+Keywords: branding, education, concept delivery
 
 ----
 
 Text: *Key accountabilities: visual concepting, brand development, invitation design, wayfinding system, web development, iOS development*
 
-Drawing inspiration from topography, the *NEXT* 2015 identity expressed both the Corcoran's heritage and the journey to come. Individual paths united in one community: the resemblance to a fingerprint heightened this concept. Created with Grace Boyle, Francheska Guerrero, David Hodgson, Anders Larsson, and Nora Mosley.
+Drawing inspiration from topography, the *NEXT* 2015 identity expressed both the Corcoran's heritage and journey to come. Individual paths united in one community: the resemblance to a fingerprint heightened this concept. Created with Grace Boyle, Francheska Guerrero, David Hodgson, Anders Larsson, and Nora Mosley.
 
 ### awards
 - Adobe Design Achievement Awards, Semifinalist <span class="secondary">*2015*</span>
@@ -16,13 +16,13 @@ Drawing inspiration from topography, the *NEXT* 2015 identity expressed both the
 - HOW International Design Awards, Merit Award <span class="secondary">*2016*</span>
 - University & College Designers Association, Award of Excellence <span class="secondary">*2015*</span>
 
-(content-image: keywords.png description: developing a conceptual focus)
+(content-image: keywords.png description: affinity diagramming)
 
 (content-image: wordmap.png description: finalized wordmap)
 
 Set against the backdrop of a merger between the Corcoran and George Washington University, wordmap ideation allowed each junior designer to craft an identity defined by these focal points. 
 
-From a group of three options, the final direction (my individual design) combined organic movement with technical structure: a synthesis of identities. 
+From three competing options, stakeholders selected my direction. It combined organic movement with technical structure: a synthesis of identities. 
 
 (content-image: tombstone.png description: organic forms in classical motifs)
 
@@ -30,9 +30,9 @@ From a group of three options, the final direction (my individual design) combin
 
 (content-image: entryway.png description: recessed entryway graphics)
 
-In addition to providing an additional level of visual interest (one that also retained the viewer's focus on form and legibility), cool tones complimented the branding program's architectural context.
+Cool tones provided additional visual interest, maintained the viewer's focus on legibility, and complimented the branding program's architectural context.
 
-(content-image: atrium.png description: branding at exhibition start)
+(content-image: atrium.png description: branding in gallery atrium)
 
 (content-image: hallway.png description: hallway directional aid)
 
@@ -46,8 +46,8 @@ Visual vocabulary included topographic forms and solid gradient fields that mimi
 
 (content-image: merchandise.png description: merchandise highlights)
 
-The microsite and iPad app introduced black transparencies and blurred, gradient-like imagery. In addition to refining each deliverable's hierarchy, these techniques emulated the qualities of physical texture, form, and distance.
+The microsite and iPad map/directory app introduced black transparencies and blurred, gradient-like imagery. These techniques allowed the digital deliverables to emulate physical texture, form, and distance.
 
-(content-image: microsite.png description: microsite, initial view)
+(content-image: microsite.png description: microsite)
 
-(content-image: app.png description: directory & map kiosk)
+(content-image: app.png description: iPad app)

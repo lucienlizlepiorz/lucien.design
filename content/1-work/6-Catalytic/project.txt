@@ -16,7 +16,7 @@ Early designs attempted to streamline the experience by conjoining related objec
 
 (content-image: early-task-list.png description: early task list)
 
-An experimental, search-based interface was briefly explored and tested. Users would navigate through the app via text entry or the mixing-and-matching of tags: a hybrid command-line GUI.
+An experimental, search-based interface was briefly explored and tested. Users would navigate via text entry or the mixing-and-matching of tags.
 
 (content-image: search.png description: search homepage)
 
@@ -28,7 +28,7 @@ Beginning with login, a card-based structure was adopted.
 
 (content-image: login.png description: login)
 
-After logging in, Pushbot immediately presented users with urgent tasks, as well as processes that they were involved in. Urgency was determined by priority level, time remaining, and the number of associated users. 
+After logging in, Pushbot immediately presented users with urgent tasks, as well as processes they were involved in. Urgency was determined by priority level, time remaining, and the number of associated users. 
 
 (content-image: today.png description: urgent tasks & processes)
 
@@ -52,9 +52,9 @@ The condensed ("expert") display mode removed task instructions, avatars, and ic
 
 (content-image: task-list-expert-detail.png description: task ListItem, expert)
 
-Process ListItems built upon the backbone of tasks: they featured a visualization of current progress, highlighted the estimated completion date, exposed categorization, and linked to the parent template.
+Process ListItems featured several unique components: a progress visualization, estimated completion date, process category, and parent template link.
 
-As the ETA slipped farther into the future, the due date moved to the left. Time was expressed as a proportional relationship between each side of the marker.
+As an ETA slipped farther into the future, the due date moved to the left. Time was expressed as a proportional relationship between each side of the marker.
 
 (content-image: process-list.png description: process list)
 
@@ -78,13 +78,13 @@ When a task was completed, users would be prompted with a dialog that surfaced t
 
 (content-image: task-detail-dialog-detail.png description: dialog actions)
 
-Within a process detail, users could filter timeline objects and reverse the chronological sort.
+Within a process detail, users could filter timeline elements and reverse the chronological sort.
 
 (content-image: process-detail-1.png description: process detail, top)
 
-(content-image: sketch-process-detail.png description: initial sketches behind the timeline)
+(content-image: sketch-process-detail.png description: initial timeline sketches)
 
-As users scrolled deeper into the timeline, the top card condensed and opened up more visual real estate.
+As users scrolled, the top card condensed and opened up more real estate.
 
 (content-image: process-detail-2.png description: process detail, scrolled)
 
