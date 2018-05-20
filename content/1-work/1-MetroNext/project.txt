@@ -16,14 +16,14 @@ Windows Phone 8's panorama control let each section sit at the top level of hier
 
 (content-image: start.png description: Start screen with app tile)
 
-(content-image: rail.png description: Foggy Bottom arrivals)
+(content-image: rail.png description: rail arrivals)
 
 Colors directly corresponded to each rail line: all other elements receded to a secondary level through the use of gray text.
 
 (content-image: interaction-rail.png description: rail station selection)
 
-(content-image: bus.png description: en-route Metrobus lines)
+(content-image: bus.png description: bus arrivals)
 
 In the physical world, bus stops prominently displayed their identification numbers. MetroNext naturally leveraged this ingrained data point, and also reaffirmed the user's selection by displaying the location's name.
 
-(content-image: interaction-bus.png description: bus stop entry & arrivals)
+(content-image: interaction-bus.png description: bus stop entry)
