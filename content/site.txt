@@ -6,12 +6,12 @@ Author: Lucien Liz-Lepiorz
 
 ----
 
-Description: design & development by Lucien Liz-Lepiorz. projects span mobile devices, the web, print, and our physical environment.
+Description: design & development by Lucien Liz-Lepiorz. work spans product strategy, visual concepting, design delivery, and technical implementation.
 
 ----
 
-Keywords: graphic, web, interaction, interface, design
+Keywords: product, interaction, interface, design
 
 ----
 
-Copyright: © 2017 Lucien Liz-Lepiorz
+Copyright: © 2018 Lucien Liz-Lepiorz
