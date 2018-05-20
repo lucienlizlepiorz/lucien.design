@@ -6,7 +6,9 @@ Keywords: iOS, education, product delivery
 
 ----
 
-Text: Showcasing undergraduate 2D design work from the Corcoran School of the Arts & Design, corcoran:Design provided users with a canvas of thumbnails to explore. The highlighted work spanned two majors and four years of instruction. Each individual project contained CDN-hosted images, a brief description, and the student's portfolio link. 
+Text: *Key accountabilities: visual concepting, user experience direction, technical architecture, iOS development, user acceptance testing*
+
+Showcasing undergraduate 2D design work from the Corcoran School of the Arts & Design, corcoran:Design provided users with a canvas of thumbnails to explore. The highlighted work spanned two majors and four years of instruction. Each individual project contained CDN-hosted images, a brief description, and the student's portfolio link. 
 
 After iOS App Store certification, corcoran:Design was employed by academic recruiters for a one-year period.
 
