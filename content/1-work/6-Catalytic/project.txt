@@ -38,13 +38,7 @@ Due to the hybrid userbase of taskers and managers, the navigation menu required
 
 (content-image: sidenav-personal.png description: default view)
 
-(content-image: sidenav-organization.png description: platform options)
-
 (content-image: sidenav-detail.png description: icon system)
-
-Notifications emulated the SideNav's behavior, allowing a user to glance at newly assigned work while maintaining their current context.
-
-(content-image: notifications.png description: notifications)
 
 Pushbot consisted of three orders of system-level objects: tasks, processes, and templates. On each list page, users could filter and sort using a "Mad Libs" toolbar, in addition to choosing between default and condensed modes.
 

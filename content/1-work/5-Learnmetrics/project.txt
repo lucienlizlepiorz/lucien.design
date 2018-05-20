@@ -34,8 +34,6 @@ In addition to flowing, organic forms, a focus on simple, constructed components
 
 (content-image: Pinterest-education-analytics-4.png description: modular logo elements)
 
-(content-image: Pinterest-education-analytics-5.png description: educational identities & iconography)
-
 (content-image: Pinterest-detail-2.png description: multiple data levels)
 
 To gauge existing messaging and avoid any potential branding clashes, the research stage included an assessment of marketplace competitors.
@@ -48,29 +46,15 @@ Sketching concepts touched upon diverse depictions: network nodes, roots, styliz
 
 (content-image: concepts-sketch-2.png description: humanized networks)
 
-(content-image: concepts-sketch-3.png description: nodes & roots)
-
-(content-image: concepts-sketch-4.png description: organic forms, prism concept)
-
 Two narratives began to dominate, one in which the logo communicated the act of data management, and another that expressed the marriage of data with education. The former directly appealed to existing users and professionals, with the latter offering increased accessibility and legibility towards future clients and unaffiliated viewers.
 
 (content-image: concepts-sketch-5.png description: moving information)
-
-(content-image: concepts-sketch-6.png description: refinement of directions)
 
 (content-image: concepts-sketch-7.png description: human elements)
 
 When attempting to soften the frigidity of complex information, I wondered: should the icon include a literal human, or instead, humanlike attributes?
 
-(content-image: concepts-sketch-8.png description: typographic arrangements)
-
 (content-image: concepts-sketch-9.png description: pencils & graphs)
-
-Condensing each theme into a single version increased clarity, and the addition of three-word descriptions set goals to measure against.
-
-(content-image: concepts-sketch-10.png description: visual descriptions)
-
-(content-image: concepts-sketch-11.png description: final stylistic exploration)
 
 Having achieved a substantial amount of concepts, work transitioned to the computer: multiple monochrome versions arose alongside a typographic lockup set in Circular. The typeface's precise curvature seamlessly corresponded to the dual identity of data and education. Furthermore, a punchy period heightened impact and embodied the role of a technological challenger.
 
@@ -98,27 +82,7 @@ Color applications followed, with palettes that employed slightly-saturated tint
 
 Following a formal presentation, Decisive Data universally resonated with stakeholders. As an intermediary step, revisions concentrated on refined curvatures and experimentation with a color system that responded to individual applications for districts, schools, and vendors.
 
-(content-image: v3-direction-2a.png description: Decisive Data: version 3a, generic)
-
-(content-image: v3-direction-2b.png description: Decisive Data: version 3b, districts)
-
-(content-image: v3-direction-2c.png description: Decisive Data: version 3c, schools)
-
-(content-image: v3-direction-2d.png description: Decisive Data: version 3d, vendors)
-
 Due to the extreme approach angle of previous line versions, a simplified graph and revised pencil relationship rectified the existing awkward junctions. 
-
-(content-image: v4-direction-2a.png description: Decisive Data: version 4a, pencil)
-
-(content-image: v4-direction-2b.png description: Decisive Data: version 4b, tilt)
-
-(content-image: v4-direction-2c.png description: Decisive Data: version 4c, stroke)
-
-(content-image: v4-direction-2d.png description: Decisive Data: version 4d, instrument)
-
-(content-image: v4-direction-2e.png description: Decisive Data: version 4e, width)
-
-(content-image: v4-direction-2f.png description: Decisive Data: version 4f, pencil)
 
 (content-image: v4-direction-2g.png description: Decisive Data: version 4g, tilt)
 
@@ -126,59 +90,17 @@ As a representative of the playful, illustration-friendly camp, version 4g divid
 
 (content-image: detail-v4-direction-2g.png description: detail: version 4g, #2 pencil)
 
-(content-image: v4-direction-2h.png description: Decisive Data: version 4h, pencil )
-
-(content-image: v4-direction-2i.png description: Decisive Data: version 4i, instrument)
-
-(content-image: v4-direction-2j.png description: Decisive Data: version 4j, color)
-
-(content-image: v4-direction-2k.png description: Decisive Data: version 4k, color)
-
-Later versions removed detail from the pencil. Such reductivism increased maturity, yet decreased the chances of immediate recognition.
+In order to clearly communicate the creative process to remote team members, a progress update document summarized each direction's development, inspiration, and public interpretation.
 
 (content-image: progress-update-1.png description: progress update: Cloud Mind, Decisive Data)
 
-In order to clearly communicate the creative process to remote team members, a progress update document summarized each direction's development, inspiration, and public interpretation.
-
-(content-image: progress-update-2.png description: progress update: Root Nexus, Paper & Pies)
-
-(content-image: v4-direction-2l.png description: Decisive Data: version 4l, white space)
+An additional revision leveled the playing field of abstraction versus illustration: white space replaced interior graphs, padding around the pencil increased, and softened edges propagated throughout the form. These edits reduced the rigidity of a stylized tool and lent a heightened level of movement.
 
 (content-image: v4-direction-2m.png description: Decisive Data: version 4m, width)
 
 (content-image: detail-v4-direction-2m.png description: detail: version 4m, writing instrument)
 
-An additional revision leveled the playing field of abstraction versus illustration: white space replaced interior graphs, padding around the pencil increased, and softened edges propagated throughout the form. These edits reduced the rigidity of a stylized tool and lent a heightened level of movement.
-
-However, upon review, executive stakeholders longed for the composure and completion of earlier iterations. A number of later refinements then integrated themselves into the infinity loop, while further interior accents were explored. 
-
-(content-image: v5-direction-2a.png description: Decisive Data: version 5a, enclosing form)
-
-(content-image: v5-direction-2b.png description: Decisive Data: version 5b, interior echo)
-
-(content-image: v5-direction-2c.png description: Decisive Data: version 5c, radiance)
-
-(content-image: v5-direction-2d.png description: Decisive Data: version 5d, subdued radiance)
-
-(content-image: v5-direction-2e.png description: Decisive Data: version 5e, nexus)
-
-As the ultimate revision of Decisive Data, version 5f utilized a burst of color to delineate the Learnmetrics mission of transformative educational experiences that exist at the center of learning workflows.
-
-(content-image: v5-direction-2f-1.png description: Decisive Data: version 5f, revised nexus)
-
-(content-image: v5-direction-2f-2.png description: Decisive Data: version 5f, secondary configurations)
-
 In order to solidify design choices, a final round of directions was presented. Each built upon earlier themes of humanity, structure, and enlightenment, but with the added constraints of an enclosing polygon.
-
-(content-image: v6-direction-5.png description: monochrome: Honeycomb Portal, version 6)
-
-(content-image: v6-direction-6.png description: monochrome: Line of Insight, version 6)
-
-(content-image: v6-direction-7.png description: monochrome: Human Questions, version 6)
-
-(content-image: v6-direction-8.png description: monochrome: Cube of Revelations, version 6)
-
-Honeycomb Portal surfaced as an intriguing option, and a distant relative of Decisive Data made a brief appearance.
 
 (content-image: v7-direction-5.png description: Honeycomb Portal: version 7)
 
@@ -187,26 +109,6 @@ Honeycomb Portal surfaced as an intriguing option, and a distant relative of Dec
 At this point, the team regrouped to discuss the wordmark's progress and initial impressions. Consensus grew around the general honeycomb shape, yet it lacked the educational identity of Decisive Data. 
 
 Reintroducing an illustrative pencil rectified these concerns, giving humanity to the background stream of fractured data.
-
-(content-image: v8-direction-10a.png description: Honeycomb Clarity: version 8a)
-
-(content-image: v8-direction-10b.png description: Honeycomb Clarity: version 8b)
-
-(content-image: v8-direction-10c.png description: Honeycomb Clarity: version 8c)
-
-(content-image: v8-direction-10d.png description: Honeycomb Clarity: version 8d)
-
-(content-image: v8-direction-10e.png description: Honeycomb Clarity: version 8e)
-
-(content-image: v8-direction-10f.png description: Honeycomb Clarity: version 8f)
-
-(content-image: v8-direction-10g.png description: Honeycomb Clarity: version 8g)
-
-(content-image: v8-direction-10h.png description: Honeycomb Clarity: version 8h)
-
-(content-image: v8-direction-10i.png description: Honeycomb Clarity: version 8i)
-
-(content-image: v8-direction-10j.png description: Honeycomb Clarity: version 8j)
 
 Executives immediately identified with both the new iconography and refreshing palette of medium-saturation blues and greens. Graphik, by Christian Schwartz of Commercial Type, replaced Circular as the wordmark's typeface due to an increased selection of weights, optimized rendering, and heightened linearity. 
 
