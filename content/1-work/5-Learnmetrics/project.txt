@@ -10,21 +10,19 @@ Text: *Key accountabilities: visual concepting, creative direction, brand develo
 
 Connecting educators and administrators with the data that surrounds their students, Learnmetrics required an identity that communicated both this mission and a sense of humanity. 
 
-In the final iteration, a structured graph transformed into physical action. Soft, playful forms invited the viewer to immerse themselves, while dramatic forward motion underscored vision, passion, and progress.
-
 (content-image: exercise-sticky-notes.png description: sticky identities)
 
 Preliminary team exercises included arranging sticky notes with values that corresponded to what individuals perceived Learnmetrics to be, in addition to what the company could and should represent. 
 
 (content-image: exercise-values.png description: personal & organizational values)
 
+Visual research and inspiration drew upon a multitude of sources, spanning architecture, data visualization, and educational iconography. 
+
 ### [view the Pinterest board >][1]
 
 (content-image: Pinterest-education-analytics-1.png description: physical environments)
 
 (content-image: Pinterest-detail-1.png description: architectural influence)
-
-Visual research and inspiration drew upon a multitude of sources, spanning architecture, data visualization, and educational iconography. 
 
 (content-image: Pinterest-education-analytics-2.png description: branding & systems)
 
@@ -50,9 +48,9 @@ Two narratives began to dominate, one in which the logo communicated the act of 
 
 (content-image: concepts-sketch-5.png description: moving information)
 
-(content-image: concepts-sketch-7.png description: human elements)
-
 When attempting to soften the frigidity of complex information, I wondered: should the icon include a literal human, or instead, humanlike attributes?
+
+(content-image: concepts-sketch-7.png description: human elements)
 
 (content-image: concepts-sketch-9.png description: pencils & graphs)
 
@@ -80,13 +78,9 @@ Color applications followed, with palettes that employed slightly-saturated tint
 
 (content-image: v2-direction-4.png description: Paper & Pies: version 2)
 
-Following a formal presentation, Decisive Data universally resonated with stakeholders. As an intermediary step, revisions concentrated on refined curvatures and experimentation with a color system that responded to individual applications for districts, schools, and vendors.
-
-Due to the extreme approach angle of previous line versions, a simplified graph and revised pencil relationship rectified the existing awkward junctions. 
+Following a formal presentation, Decisive Data universally resonated with stakeholders. A simplified graph was divided into two segments, highlighting the software's transformative power. 
 
 (content-image: v4-direction-2g.png description: Decisive Data: version 4g, tilt)
-
-As a representative of the playful, illustration-friendly camp, version 4g divided the flowing graph into two segments, thereby highlighting the transformative power of Learnmetrics.
 
 (content-image: detail-v4-direction-2g.png description: detail: version 4g, #2 pencil)
 
@@ -110,17 +104,17 @@ At this point, the team regrouped to discuss the wordmark's progress and initial
 
 Reintroducing an illustrative pencil rectified these concerns, giving humanity to the background stream of fractured data.
 
-Executives immediately identified with both the new iconography and refreshing palette of medium-saturation blues and greens. Graphik, by Christian Schwartz of Commercial Type, replaced Circular as the wordmark's typeface due to an increased selection of weights, optimized rendering, and heightened linearity. 
-
 (content-image: final-wordmark-standard.png description: final wordmark: Honeycomb Clarity, standard background)
 
 (content-image: final-wordmark-alternate-standard.png description: final wordmark: vertical configuration, standard background)
 
-By selectively reversing the application of white, tweaked variants allowed for seamless usage on backgrounds of various excitement levels.
+Executives immediately identified with both the new iconography and refreshing palette of medium-saturation blues and greens. Graphik, by Christian Schwartz of Commercial Type, replaced Circular as the wordmark's typeface due to an increased selection of weights, optimized rendering, and heightened linearity. 
 
 (content-image: final-wordmark-medium.png description: final wordmark: Honeycomb Clarity, medium background)
 
 (content-image: final-wordmark-alternate-medium.png description: final wordmark: vertical configuration, medium background)
+
+By selectively reversing the application of white, tweaked variants allowed for seamless usage on backgrounds of various excitement levels.
 
 (content-image: final-wordmark-dark.png description: final wordmark: Honeycomb Clarity, dark background)
 
