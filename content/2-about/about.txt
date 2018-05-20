@@ -2,11 +2,11 @@ Title: about
 
 ----
 
-Text: Beyond formal training in graphic design, a continually curious spirit has driven me to gain expertise in interaction design, mobile development, and typography. While this journey truly began with iWeb experiments, it matured following the debut of Windows Phone 8. 
+Text: Having attended university for graphic design, I was always fascinated by the intersection of design and technology. This led to some self-instructed, object-oriented programming, and four shipped apps across three platforms.
 
-Instead of surrendering to sub-standard transit apps, I decided to teach myself C# and the principles of both object-oriented programming and Windows development. A few weeks later, MetroNext was in the store and the gates of nerddom had opened. 
+Day after day, my dual love has ushered in new understandings, fresh perspectives, and maximized opportunities. I am invigorated by cross-functional collaboration: magic happens when the knowledge of an individual becomes the knowledge of a group. 
 
-During my spare time, I heartily enjoy LEGOs, locomotives, and cowboys.
+In my spare time, I heartily enjoy playing with LEGOs, expanding my Märklin model train collection, and exploring the world with my canine companion, Hank the cowdog! 
 
 ### [view curriculum vitae >][1]
 

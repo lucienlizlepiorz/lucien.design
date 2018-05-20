@@ -2,11 +2,13 @@ Title: NEXT 2015
 
 ----
 
-Keywords: exhibition design, branding, interaction design
+Keywords: branding, education, concept delivery
 
 ----
 
-Text: Drawing inspiration from topography, the *NEXT* 2015 identity expresses both the Corcoran's heritage and the journey that lies ahead. Individual paths unite in one community: the resemblance to a fingerprint heightens this notion. Digital components included comprehensive development and maintenance. Created with Grace Boyle, Francheska Guerrero, David Hodgson, Anders Larsson, and Nora Mosley. Individual responsibilities: wordmark, wayfinding signage, print invitation, microsite, directory & map kiosk.
+Text: *Key accountabilities: visual concepting, brand development, invitation design, wayfinding system, web development, iOS development*
+
+Drawing inspiration from topography, the *NEXT* 2015 identity expressed both the Corcoran's heritage and journey to come. Individual paths united in one community: the resemblance to a fingerprint heightened this concept. Created with Grace Boyle, Francheska Guerrero, David Hodgson, Anders Larsson, and Nora Mosley.
 
 ### awards
 - Adobe Design Achievement Awards, Semifinalist <span class="secondary">*2015*</span>
@@ -14,11 +16,13 @@ Text: Drawing inspiration from topography, the *NEXT* 2015 identity expresses bo
 - HOW International Design Awards, Merit Award <span class="secondary">*2016*</span>
 - University & College Designers Association, Award of Excellence <span class="secondary">*2015*</span>
 
-(content-image: keywords.png description: developing a conceptual focus)
+(content-image: keywords.png description: affinity diagramming)
 
 (content-image: wordmap.png description: finalized wordmap)
 
-Set against the backdrop of an institutional merger between the Corcoran and George Washington University, wordmap ideation allowed each junior designer to craft an identity rooted in these key concepts. From a group of three options, the final direction (my individual design) combines organic movement with technical structure: a synthesis of identities. 
+Set against the backdrop of a merger between the Corcoran and George Washington University, wordmap ideation allowed each junior designer to craft an identity defined by these focal points. 
+
+From three competing options, stakeholders selected my direction. It combined organic movement with technical structure: a synthesis of identities. 
 
 (content-image: tombstone.png description: organic forms in classical motifs)
 
@@ -26,24 +30,24 @@ Set against the backdrop of an institutional merger between the Corcoran and Geo
 
 (content-image: entryway.png description: recessed entryway graphics)
 
-In addition to providing an additional level of visual interest (one that also retains the viewer's focus on form and legibility), cool tones compliment the branding program's architectural context.
+Cool tones provided additional visual interest, maintained the viewer's focus on legibility, and complimented the branding program's architectural context.
 
-(content-image: atrium.png description: branding at exhibition start)
+(content-image: atrium.png description: branding in gallery atrium)
 
 (content-image: hallway.png description: hallway directional aid)
 
 (content-image: wayfinding.png description: wayfinding signage)
 
-Visual vocabulary included the integration of abstract forms and solid gradient fields that mimicked the wordmark's movement. Both elements add depth and dimension, further highlighting an interdisciplinary nature.
+Visual vocabulary included topographic forms and solid gradient fields that mimicked the wordmark's movement. Both elements added depth and dimension, further highlighting an interdisciplinary identity.
 
 (content-image: print-invitation.png description: sculptural print invitation)
 
 (content-image: gallery-guide.png description: gallery guide & program)
 
-(content-image: merchandise.png description: selected merchandise)
+(content-image: merchandise.png description: merchandise highlights)
 
-Digital components introduced black transparencies and blurred, gradient-like imagery. Intended as a means to refine hierarchical relationships, these techniques emulate the capabilities of physical texture, form, and distance.
+The microsite and iPad map/directory app introduced black transparencies and blurred, gradient-like imagery. These techniques allowed the digital deliverables to emulate physical texture, form, and distance.
 
-(content-image: microsite.png description: microsite, initial view)
+(content-image: microsite.png description: microsite)
 
-(content-image: app.png description: directory & map kiosk)
+(content-image: app.png description: iPad app)

@@ -262,8 +262,6 @@ a.content-thumb {
 }
 
 input, .submit {
-	-webkit-box-sizing: border-box;
-  	-moz-box-sizing: border-box;
   	box-sizing: border-box;
   	padding-top: 1em;
   	padding-bottom: 1em;
@@ -330,11 +328,8 @@ input:focus {
 	background-color: #0000ff;
 
 	/* background color animation */
-	-webkit-animation: blue-background-color-change 1s ease-out 1;
-	-moz-animation: blue-background-color-change 1s ease-out 1;
-	-ms-animation: blue-background-color-change 1s ease-out 1;
-	-o-animation: blue-background-color-change 1s ease-out 1;
 	animation: blue-background-color-change 1s ease-out 1;
+	-webkit-animation: blue-background-color-change 1s ease-out 1;
 }
 
 #bsod-link {
@@ -386,11 +381,8 @@ p#Windows {
 	visibility: hidden;
 	
 	/* blinking underscore animation */
-	-webkit-animation: blinking-underscore 1s step-start 0s infinite;
-	-moz-animation: blinking-underscore 1s step-start 0s infinite;
-	-ms-animation: blinking-underscore 1s step-start 0s infinite;
-	-o-animation: blinking-underscore 1s step-start 0s infinite;
 	animation: blinking-underscore 1s step-start 0s infinite;
+	-webkit-animation: blinking-underscore 1s step-start 0s infinite;
 }
 
 /* fonts */
@@ -554,31 +546,13 @@ a.current-page {
 
 /* blinking underscore */
 
-@-webkit-keyframes blinking-underscore {
-	50% {
-    	visibility: visible;
-  	}
-}
-
-@-moz-keyframes blinking-underscore {
-	50% {
-    	visibility: visible;
-  	}
-}
-
-@-ms-keyframes blinking-underscore {
-	50% {
-    	visibility: visible;
-  	}
-}
-
-@-o-keyframes blinking-underscore {
-	50% {
-    	visibility: visible;
-  	}
-}
-
 @keyframes blinking-underscore {
+	50% {
+    	visibility: visible;
+  	}
+}
+
+@-webkit-keyframes blinking-underscore {
 	50% {
     	visibility: visible;
   	}
@@ -586,73 +560,19 @@ a.current-page {
 
 /* blinking text cursor */
 
-@-webkit-keyframes blinking-text-cursor {
-	50% {
-    	border-right: 2px solid #000;
-  	}
-}
-
-@-moz-keyframes blinking-text-cursor {
-	50% {
-    	border-right: 2px solid #000;
-  	}
-}
-
-@-ms-keyframes blinking-text-cursor {
-	50% {
-    	border-right: 2px solid #000;
-  	}
-}
-
-@-o-keyframes blinking-text-cursor {
-	50% {
-    	border-right: 2px solid #000;
-  	}
-}
-
 @keyframes blinking-text-cursor {
 	50% {
     	border-right: 2px solid #000;
   	}
 }
 
+@-webkit-keyframes blinking-text-cursor {
+	50% {
+    	border-right: 2px solid #000;
+  	}
+}
+
 /* white background color change on load */
-
-@-webkit-keyframes white-background-color-change {
-	0% {
-    	background-color: #ccc;
-  	}
-  	100% {
-    	background-color: #fff;
-  	}
-}
-
-@-moz-keyframes white-background-color-change {
-	0% {
-    	background-color: #ccc;
-  	}
-  	100% {
-    	background-color: #fff;
-  	}
-}
-
-@-ms-keyframes white-background-color-change {
-	0% {
-    	background-color: #ccc;
-  	}
-  	100% {
-    	background-color: #fff;
-  	}
-}
-
-@-o-keyframes white-background-color-change {
-	0% {
-    	background-color: #ccc;
-  	}
-  	100% {
-    	background-color: #fff;
-  	}
-}
 
 @keyframes white-background-color-change {
 	0% {
@@ -663,45 +583,27 @@ a.current-page {
   	}
 }
 
+@-webkit-keyframes white-background-color-change {
+	0% {
+    	background-color: #ccc;
+  	}
+  	100% {
+    	background-color: #fff;
+  	}
+}
+
 /* blue background color change on load */
 
-@-webkit-keyframes blue-background-color-change {
-	0% {
-    	background-color: #000099;
-  	}
-  	100% {
-    	background-color: #0000ff;
-  	}
-}
-
-@-moz-keyframes blue-background-color-change {
-	0% {
-    	background-color: #000099;
-  	}
-  	100% {
-    	background-color: #0000ff;
-  	}
-}
-
-@-ms-keyframes blue-background-color-change {
-	0% {
-    	background-color: #000099;
-  	}
-  	100% {
-    	background-color: #0000ff;
-  	}
-}
-
-@-o-keyframes blue-background-color-change {
-	0% {
-    	background-color: #000099;
-  	}
-  	100% {
-    	background-color: #0000ff;
-  	}
-}
-
 @keyframes blue-background-color-change {
+	0% {
+    	background-color: #000099;
+  	}
+  	100% {
+    	background-color: #0000ff;
+  	}
+}
+
+@-webkit-keyframes blue-background-color-change {
 	0% {
     	background-color: #000099;
   	}

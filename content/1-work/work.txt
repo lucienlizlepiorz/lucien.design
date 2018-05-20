@@ -2,8 +2,8 @@ Title: work
 
 ----
 
-Headline: hello.
+Headline: hello!
 
 ----
 
-Text: Welcome to a corner of the world wide web that's home to design for mobile devices, the web, print, and our physical environment. Take a gander.
+Text: Welcome to my corner of the web. I'm a product designer who loves to code, obsessively collect model trains, and ship some serious *qualität*. 
