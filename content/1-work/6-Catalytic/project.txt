@@ -16,7 +16,7 @@ Early designs attempted to streamline the experience by conjoining related objec
 
 (content-image: early-task-list.png description: early task list)
 
-An experimental, search-based interface was briefly explored and tested. Users would navigate through the app via raw text entry or the mixing-and-matching of tags: a hybrid command-line GUI.
+An experimental, search-based interface was briefly explored and tested. Users would navigate through the app via text entry or the mixing-and-matching of tags: a hybrid command-line GUI.
 
 (content-image: search.png description: search homepage)
 
@@ -46,7 +46,7 @@ Pushbot consisted of three orders of system-level objects: tasks, processes, and
 
 (content-image: task-list-detail.png description: task ListItem, default)
 
-The condensed ("expert") display mode removed any task instructions, avatars, and iconography. Additionally, if a task had no required fields, a button for immediate completion surfaced.
+The condensed ("expert") display mode removed task instructions, avatars, and iconography. Additionally, if a task had no required fields, a button for immediate completion surfaced.
 
 (content-image: task-list-expert.png description: task list, expert)
 
@@ -60,15 +60,15 @@ As the ETA slipped farther into the future, the due date moved to the left. Time
 
 (content-image: process-list-detail.png description: process ListItem)
 
-Templates utilized a slightly-modified ListItem grid. This layout evoked ecommerce and could be readily extended to a future public marketplace.
+Templates utilized a square ListItem grid. This layout evoked ecommerce and could be readily extended to a future marketplace.
 
 (content-image: template-list.png description: template grid)
 
-Digging into a task detail, ListItem components were reused to frame and affirm the user's mental journey. Comments flowed above the page's input fields, updating users on important notes before they got to work.
+Digging into a task detail, ListItem components were reused to frame and affirm the user's journey. Comments flowed above input fields, updating users on important notes before they got to work.
 
 (content-image: task-detail.png description: task detail)
 
-(content-image: task-detail-comments.png description: comment ListItem)
+(content-image: task-detail-comments.png description: comments)
 
 (content-image: sketch-task-detail.png description: structural outline)
 
@@ -78,7 +78,7 @@ When a task was completed, users would be prompted with a dialog that surfaced t
 
 (content-image: task-detail-dialog-detail.png description: dialog actions)
 
-Within a process detail, users could filter objects shown on the timeline and reverse the chronological sort.
+Within a process detail, users could filter timeline objects and reverse the chronological sort.
 
 (content-image: process-detail-1.png description: process detail, top)
 

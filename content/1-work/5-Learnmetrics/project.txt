@@ -36,88 +36,86 @@ In addition to flowing, organic forms, a focus on simple, constructed components
 
 To gauge existing messaging and avoid any potential branding clashes, the research stage included an assessment of marketplace competitors.
 
-(content-image: Pinterest-education-analytics-6.png description: landscape research)
+(content-image: Pinterest-education-analytics-5.png description: landscape research)
 
 (content-image: concepts-sketch-1.png description: initial ideation)
 
-Sketching concepts touched upon diverse depictions: network nodes, roots, stylized graphs, and physical books all made appearances. By exploring both literal and conceptual directions, the process could more readily focus on an approach that equally resonated with stakeholders, users, and the public.
+Sketching concepts touched numerous depictions: network nodes, roots, stylized graphs, and physical books all made appearances. By exploring both literal and conceptual directions, the process could focus on an approach that equally resonated with stakeholders, users, and the public.
 
 (content-image: concepts-sketch-2.png description: humanized networks)
 
-Two narratives began to dominate, one in which the logo communicated the act of data management, and another that expressed the marriage of data with education. The former directly appealed to existing users and professionals, with the latter offering increased accessibility and legibility towards future clients and unaffiliated viewers.
+Two narratives began to dominate, one in which the logo communicated data management, and another that expressed the marriage of data with education. The former directly appealed to existing users and professionals, while the latter resonated with future clients and unaffiliated viewers.
 
-(content-image: concepts-sketch-5.png description: moving information)
+(content-image: concepts-sketch-3.png description: moving information)
 
 When attempting to soften the frigidity of complex information, I wondered: should the icon include a literal human, or instead, humanlike attributes?
 
-(content-image: concepts-sketch-7.png description: human elements)
+(content-image: concepts-sketch-4.png description: human elements)
 
-(content-image: concepts-sketch-9.png description: pencils & graphs)
+(content-image: concepts-sketch-5.png description: pencils & graphs)
 
-Having achieved a substantial amount of concepts, work transitioned to the computer: multiple monochrome versions arose alongside a typographic lockup set in Circular. The typeface's precise curvature seamlessly corresponded to the dual identity of data and education. Furthermore, a punchy period heightened impact and embodied the role of a technological challenger.
+Work then transitioned to the computer: multiple monochrome versions arose alongside a typographic lockup set in Circular. The typeface's precise curvature seamlessly corresponded to the dual identity of data and education. A punchy period heightened impact and embodied the role of a technological challenger.
 
-(content-image: v1-direction-1.png description: monochrome: Cloud Mind, version 1)
+(content-image: monochrome-cloud-mind.png description: monochrome: Cloud Mind)
 
-(content-image: v1-direction-2.png description: monochrome: Decisive Data, version 1)
+(content-image: monochrome-decisive-data.png description: monochrome: Decisive Data)
 
-(content-image: v1-direction-3.png description: monochrome: Root Nexus, version 1)
+(content-image: monochrome-root-nexus.png description: monochrome: Root Nexus)
 
-(content-image: v1-direction-4.png description: monochrome: Paper & Pies, version 1)
+(content-image: monochrome-paper-and-pies.png description: monochrome: Paper & Pies)
 
 Color applications followed, with palettes that employed slightly-saturated tints of somber hues. Decisive Data began to lean towards illustration, whereas Root Nexus reduced each emotion to the minimal number of components.
 
-(content-image: v2-direction-1.png description: Cloud Mind: version 2)
+(content-image: v2-direction-1.png description: Cloud Mind)
 
-(content-image: v2-direction-2a.png description: Decisive Data: version 2a, closed)
+(content-image: v2-direction-2a.png description: Decisive Data, closed)
 
-(content-image: v2-direction-2b.png description: Decisive Data: version 2b, open)
+(content-image: v2-direction-2b.png description: Decisive Data, open)
 
-(content-image: v2-direction-3a.png description: Root Nexus: version 2a, nodes)
+(content-image: v2-direction-3a.png description: Root Nexus, nodes)
 
-(content-image: v2-direction-3b.png description: Root Nexus: version 2b, prism)
+(content-image: v2-direction-3b.png description: Root Nexus, prism)
 
-(content-image: v2-direction-4.png description: Paper & Pies: version 2)
+(content-image: v2-direction-4.png description: Paper & Pies)
 
 Following a formal presentation, Decisive Data universally resonated with stakeholders. A simplified graph was divided into two segments, highlighting the software's transformative power. 
 
-(content-image: v4-direction-2g.png description: Decisive Data: version 4g, tilt)
+(content-image: split-graph-wordmark.png description: split graph wordmark)
 
-(content-image: detail-v4-direction-2g.png description: detail: version 4g, #2 pencil)
+(content-image: split-graph-logo.png description: split graph logo)
 
 In order to clearly communicate the creative process to remote team members, a progress update document summarized each direction's development, inspiration, and public interpretation.
 
-(content-image: progress-update-1.png description: progress update: Cloud Mind, Decisive Data)
+(content-image: progress-update.png description: progress update)
 
 An additional revision leveled the playing field of abstraction versus illustration: white space replaced interior graphs, padding around the pencil increased, and softened edges propagated throughout the form. These edits reduced the rigidity of a stylized tool and lent a heightened level of movement.
 
-(content-image: v4-direction-2m.png description: Decisive Data: version 4m, width)
+(content-image: abstracted-wordmark.png description: abstracted wordmark)
 
-(content-image: detail-v4-direction-2m.png description: detail: version 4m, writing instrument)
+(content-image: abstracted-logo.png description: abstracted logo)
 
-In order to solidify design choices, a final round of directions was presented. Each built upon earlier themes of humanity, structure, and enlightenment, but with the added constraints of an enclosing polygon.
+Responding to stakeholder concerns, two tangential directions were presented. Both built upon earlier themes of humanity and enlightenment, but with the added constraints of an enclosing polygon.
 
-(content-image: v7-direction-5.png description: Honeycomb Portal: version 7)
+(content-image: honeycomb-portal.png description: Honeycomb Portal)
 
-(content-image: v7-direction-9.png description: Out of the Pencil: version 7)
+(content-image: out-of-the-pencil.png description: Out of the Pencil)
 
-At this point, the team regrouped to discuss the wordmark's progress and initial impressions. Consensus grew around the general honeycomb shape, yet it lacked the educational identity of Decisive Data. 
-
-Reintroducing an illustrative pencil rectified these concerns, giving humanity to the background stream of fractured data.
-
-(content-image: final-wordmark-standard.png description: final wordmark: Honeycomb Clarity, standard background)
-
-(content-image: final-wordmark-alternate-standard.png description: final wordmark: vertical configuration, standard background)
+Consensus grew around the honeycomb shape, yet it lacked the educational identity of Decisive Data. Reintroducing the illustrative pencil solved the problem and gave humanity to the background stream of fractured data.
 
 Executives immediately identified with both the new iconography and refreshing palette of medium-saturation blues and greens. Graphik, by Christian Schwartz of Commercial Type, replaced Circular as the wordmark's typeface due to an increased selection of weights, optimized rendering, and heightened linearity. 
 
-(content-image: final-wordmark-medium.png description: final wordmark: Honeycomb Clarity, medium background)
+(content-image: final-horizontal-standard.png description: final horizontal wordmark, standard background)
 
-(content-image: final-wordmark-alternate-medium.png description: final wordmark: vertical configuration, medium background)
+(content-image: final-vertical-standard.png description: final vertical wordmark, standard background)
 
-By selectively reversing the application of white, tweaked variants allowed for seamless usage on backgrounds of various excitement levels.
+(content-image: final-horizontal-medium.png description: final horizontal wordmark, medium background)
 
-(content-image: final-wordmark-dark.png description: final wordmark: Honeycomb Clarity, dark background)
+(content-image: final-vertical-medium.png description: final vertical wordmark, medium background)
 
-(content-image: final-wordmark-alternate-dark.png description: final wordmark: vertical configuration, dark background)
+By selectively reversing the application of white, the logo could be used on backgrounds of various excitement levels.
+
+(content-image: final-horizontal-dark.png description: final horizontal wordmark, dark background)
+
+(content-image: final-vertical-dark.png description: final vertical wordmark, dark background)
 
 [1]: https://www.pinterest.com/llizlepiorz/education-analytics
