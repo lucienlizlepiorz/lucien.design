@@ -80,12 +80,12 @@ When a task was completed, users would be prompted with a dialog that surfaced t
 
 Within a process detail, users could filter timeline elements and reverse the chronological sort.
 
-(content-image: process-detail-1.png description: process detail, top)
+(content-image: process-detail.png description: process detail)
 
 (content-image: sketch-process-detail.png description: initial timeline sketches)
 
 As users scrolled, the top card condensed and opened up more real estate.
 
-(content-image: process-detail-2.png description: process detail, scrolled)
+(content-image: process-detail-scrolled.png description: process detail, scrolled)
 
 (content-image: process-detail-timeline.png description: timeline elements)

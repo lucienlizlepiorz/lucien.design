@@ -20,23 +20,23 @@ Visual research and inspiration drew upon a multitude of sources, spanning archi
 
 ### [view the Pinterest board >][1]
 
-(content-image: Pinterest-education-analytics-1.png description: physical environments)
+(content-image: Pinterest-1.png description: physical environments)
 
 (content-image: Pinterest-detail-1.png description: architectural influence)
 
-(content-image: Pinterest-education-analytics-2.png description: branding & systems)
+(content-image: Pinterest-2.png description: branding & systems)
 
-(content-image: Pinterest-education-analytics-3.png description: assorted data visualizations)
+(content-image: Pinterest-3.png description: assorted data visualizations)
 
 In addition to organic forms, a focus on modular construction arose. These building blocks lent each visual a sense of energy, synthesis, and precision. 
 
-(content-image: Pinterest-education-analytics-4.png description: modular elements)
+(content-image: Pinterest-4.png description: modular elements)
 
 (content-image: Pinterest-detail-2.png description: nested data)
 
 To gauge existing messaging and develop a competitive edge, the research stage included marketplace assessment.
 
-(content-image: Pinterest-education-analytics-5.png description: marketplace research)
+(content-image: Pinterest-5.png description: marketplace research)
 
 (content-image: concepts-sketch-1.png description: initial ideation)
 
@@ -66,17 +66,17 @@ Work then transitioned to the computer: multiple monochrome versions arose along
 
 Color applications followed, with palettes that employed slightly-saturated tints of somber hues. Decisive Data began to lean towards illustration, whereas Root Nexus was reduced to the minimum number of components.
 
-(content-image: v2-direction-1.png description: Cloud Mind)
+(content-image: cloud-mind.png description: Cloud Mind)
 
-(content-image: v2-direction-2a.png description: Decisive Data, closed)
+(content-image: decisive-data-closed.png description: Decisive Data, closed)
 
-(content-image: v2-direction-2b.png description: Decisive Data, open)
+(content-image: decisive-data-open.png description: Decisive Data, open)
 
-(content-image: v2-direction-3a.png description: Root Nexus, nodes)
+(content-image: root-nexus-nodes.png description: Root Nexus, nodes)
 
-(content-image: v2-direction-3b.png description: Root Nexus, prism)
+(content-image: root-nexus-prism.png description: Root Nexus, prism)
 
-(content-image: v2-direction-4.png description: Paper & Pies)
+(content-image: paper-and-pies.png description: Paper & Pies)
 
 Following a formal presentation, Decisive Data universally resonated with stakeholders. A simplified graph was divided into two segments, highlighting the software's transformative power. 
 

@@ -10,7 +10,7 @@ Text: *Key accountabilities: roadmap planning, user experience direction, techni
 
 Addressing a gap in the marketplace, ship.it joined two of the most popular shipping queries–rates and tracking information–with an approachable, concise interface. Users could immediately compare service levels, costs, and tracking details between FedEx, UPS, and the United States Postal Service. Additional features included international localization and currency conversion.
 
-(content-image: user-flow.png description: initial flow)
+(content-image: user-flow.png description: initial user flow)
 
 During planning, the proposed feature set included user account creation via Facebook. As this would have primarily benefited the fringe case of users with multiple devices, the integration was deprioritized. 
 
@@ -30,7 +30,7 @@ Rates and tracking information used color schemes derived from each carrier. Thi
 
 (content-image: track.png description: tracking history)
 
-(content-image: requesting-details.png description: retrieving details)
+(content-image: requesting-details.png description: requesting details)
 
 (content-image: package-saved.png description: package named & saved)
 
