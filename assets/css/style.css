@@ -132,7 +132,7 @@ img {
 }
 
 #content-list li:first-child {
-	margin-top: 2em;
+	margin-top: 1.5em;
 }
 
 #content-list li:first-child::after {
@@ -151,6 +151,10 @@ img {
 	width: 2px;
 	background-color: #4d4d4d;
 	content: '';
+}
+
+.event p {
+	margin-bottom: 0;
 }
 
 .event::after {
