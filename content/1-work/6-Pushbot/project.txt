@@ -6,9 +6,7 @@ Keywords: web, enterprise, product delivery
 
 ----
 
-Text: *Key accountabilities: component library architecture, component UX/UI, implementation documentation, developer support*
-
-As a task and process management platform for enterprise users, Pushbot necessitated a consumer-grade redesign that would disrupt the BPM and RPA industries. Atomic design principles were leveraged to help facilitate the design's implementation as a React-based Storybook.
+Text: As a task and process management platform for enterprise users, Pushbot necessitated a consumer-grade redesign that would disrupt the BPM and RPA industries. Atomic design principles were leveraged to help facilitate the design's implementation as a React-based Storybook.
 
 (content-image: appstructure-ideation.png description: AppStructure ideation)
 
@@ -89,3 +87,7 @@ As users scrolled, the top card condensed and opened up more real estate.
 (content-image: process-detail-scrolled.png description: process detail, scrolled)
 
 (content-image: process-detail-timeline.png description: timeline elements)
+
+Working on Pushbot dramatically matured my product development skills. Design systems are the future, and working with a large engineering team provided insight into their needs, processes, and methodologies.
+
+Final accountabilities included component library architecture, component UX/UI, implementation documentation, and developer support.

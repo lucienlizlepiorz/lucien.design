@@ -6,9 +6,7 @@ Keywords: branding, education, concept delivery
 
 ----
 
-Text: *Key accountabilities: competitive research, visual concepting, brand development, stakeholder alignment*
-
-Connecting educators and administrators with the data that surrounds their students, Learnmetrics required an identity that communicated both this mission and a sense of humanity. 
+Text: Connecting educators and administrators with the data that surrounds their students, Learnmetrics required an identity that communicated both this mission and a sense of humanity. 
 
 (content-image: exercise-sticky-notes.png description: sticky identities)
 
@@ -117,5 +115,9 @@ By selectively reversing the application of white, the logo could be used on bac
 (content-image: final-horizontal-dark.png description: final horizontal wordmark, dark background)
 
 (content-image: final-vertical-dark.png description: final vertical wordmark, dark background)
+
+Through the Learnmetrics rebrand, I acquired the tools to elegantly manage stakeholder expections, requests, and satisfaction. This ability has proven essential in my everyday work on innovative design solutions.
+
+Final accountabilities included competitive research, visual concepting, brand development, and stakeholder alignment.
 
 [1]: https://www.pinterest.com/llizlepiorz/education-analytics

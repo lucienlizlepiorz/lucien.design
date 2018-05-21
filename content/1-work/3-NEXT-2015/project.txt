@@ -6,9 +6,7 @@ Keywords: branding, education, concept delivery
 
 ----
 
-Text: *Key accountabilities: visual concepting, brand development, invitation design, wayfinding system, web development, iOS development*
-
-Drawing inspiration from topography, the *NEXT* 2015 identity expressed both the Corcoran's heritage and journey to come. Individual paths united in one community: the resemblance to a fingerprint heightened this concept. Created with Grace Boyle, Francheska Guerrero, David Hodgson, Anders Larsson, and Nora Mosley.
+Text: Inspired by topography, the *NEXT* 2015 identity expressed both the Corcoran's heritage and journey to come. Individual paths, drawn from the Sierra Nevada landscape of Mount Corcoran, united in one community. The appearance of a fingerprint spoke to the relationship between identity and creation.
 
 ### awards
 - Adobe Design Achievement Awards, Semifinalist <span class="secondary">*2015*</span>
@@ -51,3 +49,7 @@ The microsite and iPad map/directory app introduced black transparencies and blu
 (content-image: microsite.png description: microsite)
 
 (content-image: app.png description: iPad app)
+
+It was an honor to have my work displayed across hundreds of square feet—and across from the White House. Tight deadlines taught me how to excel under pressure, and a broad set of deliverables cultivated my affinity for systems.
+
+Final accountabilities included visual concepting, brand development, invitation design, wayfinding system, web development, and iOS development. Created with Grace Boyle, Francheska Guerrero, David Hodgson, Anders Larsson, and Nora Mosley.

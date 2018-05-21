@@ -6,9 +6,7 @@ Keywords: Android, consumer, product delivery
 
 ----
 
-Text: *Key accountabilities: roadmap planning, user experience direction, technical architecture, Android development, API integration, user acceptance testing*
-
-Addressing a gap in the marketplace, ship.it joined two of the most popular shipping queries–rates and tracking information–with an approachable, concise interface. Users could immediately compare service levels, costs, and tracking details between FedEx, UPS, and the United States Postal Service. Additional features included international localization and currency conversion.
+Text: Addressing a gap in the marketplace, ship.it joined two of the most popular shipping queries–rates and tracking information–with an approachable, concise interface. Users could immediately compare service levels, costs, and tracking details between FedEx, UPS, and the United States Postal Service. Additional features included international localization and currency conversion.
 
 (content-image: user-flow.png description: initial user flow)
 
@@ -42,6 +40,10 @@ Based on a package's delivery status, an "on the way" category helped users prio
 
 (content-image: settings.png description: settings)
 
+International localization included dynamic strings, as well as automatic date and timestamp conversion. Negotiating these translations resulted in concise text across languages.
+
 (content-image: Spanish-localization.png description: Spanish localization)
 
-International localization included dynamic strings, as well as automatic date and timestamp conversion. Negotiating these translations resulted in concise text across languages.
+As a designer, ship.it exposed me to native Android patterns and the constraints of a fractured ecosystem. As a developer, I learned how to extensively reuse logic, maintain proper version control, and professionally ship product.     
+
+Final accountabilities included roadmap planning, user experience direction, technical architecture, Android development, API integration, and user acceptance testing.
