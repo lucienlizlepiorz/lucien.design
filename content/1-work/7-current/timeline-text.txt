@@ -1,0 +1,7 @@
+Event: true
+
+----
+
+Text: Currently, I'm working on new business innovation at [<span class="mono-bold">Allstate</span> (font-icon: f023)][1], the largest publicly-held insurer in the United States.
+
+[1]: work/Allstate

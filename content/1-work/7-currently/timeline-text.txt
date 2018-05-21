@@ -1,7 +1,0 @@
-Event: true
-
-----
-
-Text: Currently, I'm a product designer at [<span class="mono-bold">Allstate</span> (font-icon: f023)][1] working on new business innovation. From feature concepting to technical story writing, it's cross-functional and fast-paced.
-
-[1]: work/Allstate
