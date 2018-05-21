@@ -44,6 +44,6 @@ International localization included dynamic strings, as well as automatic date a
 
 (content-image: Spanish-localization.png description: Spanish localization)
 
-As a designer, ship.it exposed me to native Android patterns and the constraints of a fractured ecosystem. As a developer, I learned how to extensively reuse logic, maintain proper version control, and professionally ship product.     
+ship.it took my foundational knowledge of software development and advanced it to a professional level. It has allowed me to communicate with engineers on a peer-to-peer basis and untangle technical blockers for the benefit of design.  
 
 Final accountabilities included roadmap planning, user experience direction, technical architecture, Android development, API integration, and user acceptance testing.

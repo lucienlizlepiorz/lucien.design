@@ -26,6 +26,6 @@ In the physical world, bus stops prominently displayed their identification numb
 
 (content-image: interaction-bus.png description: bus stop entry)
 
-When MetroNext was accepted into the Windows app store, I couldn't believe it. After three months, I had gone from having zero knowledge of how software works to integrating with a moderately complex API. It's a constant reminder of what dedication can do. 
+When MetroNext was accepted into the app store, I couldn't believe it. In three months, I had gone from having zero software development knowledge to integrating with an API. It's a constant reminder of what dedication can do. 
 
 Final accountabilities included user experience direction, technical architecture, Windows Phone 8 development, API integration, and user acceptance testing.
