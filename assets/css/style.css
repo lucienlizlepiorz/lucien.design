@@ -293,9 +293,8 @@ input:focus {
 
 .input-icon {
 	position: absolute;
-    top: .25em;
+    top: .625em;
     right: .75em;
-    bottom: .25em;
     width: 1em;
     
     /* gray */ 
@@ -304,7 +303,6 @@ input:focus {
     /* icon */ 
     text-align: center;
     font-family: "FontAwesome";
-    line-height: 1.625em;
 }
 
 #authenticate #password, #authenticate #submit-error {
@@ -312,7 +310,7 @@ input:focus {
 }
 
 #password-icon:before {
-    content: "\f084";
+    content: "\f023";
 }
 
 .submit {
