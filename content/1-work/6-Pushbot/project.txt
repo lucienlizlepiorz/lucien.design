@@ -42,13 +42,13 @@ Pushbot consisted of three orders of system-level objects: tasks, processes, and
 
 (content-image: task-list.png description: task list, default)
 
-(content-image: task-list-detail.png description: task ListItem, default)
+(content-image: task-list-detail.png description: task ListItems, default)
 
 The condensed ("expert") display mode removed task instructions, avatars, and iconography. Additionally, if a task had no required fields, a button for immediate completion surfaced.
 
 (content-image: task-list-expert.png description: task list, expert)
 
-(content-image: task-list-expert-detail.png description: task ListItem, expert)
+(content-image: task-list-expert-detail.png description: task ListItems, expert)
 
 Process ListItems featured several unique components: a progress visualization, estimated completion date, process category, and parent template link.
 
@@ -56,7 +56,7 @@ As an ETA slipped farther into the future, the due date moved to the left. Time 
 
 (content-image: process-list.png description: process list)
 
-(content-image: process-list-detail.png description: process ListItem)
+(content-image: process-list-detail.png description: process ListItems)
 
 Templates utilized a square ListItem grid. This layout evoked ecommerce and could be readily extended to a future marketplace.
 
