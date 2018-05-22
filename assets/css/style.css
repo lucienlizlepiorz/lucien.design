@@ -501,6 +501,8 @@ a.current-page {
 
 .font-icon {
 	font-family: "FontAwesome";
+	padding-right: .25em;
+	padding-left: .25em;
 }
 
 /* color */
