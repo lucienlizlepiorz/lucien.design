@@ -14,14 +14,11 @@
 html {
 	width: 100%;
  	height: 100%;
- 	background-color: #fff;
+ 	background-color: #0000ff;
  	 	
  	/* background color animation */
-	-webkit-animation: white-background-color-change 1s ease-out 1;
-	-moz-animation: white-background-color-change 1s ease-out 1;
-	-ms-animation: white-background-color-change 1s ease-out 1;
-	-o-animation: white-background-color-change 1s ease-out 1;
-	animation: white-background-color-change 1s ease-out 1;
+ 	animation: background-color-change .5s ease 1;
+	-webkit-animation: background-color-change .5s ease 1;
 }
 
 body {
@@ -30,7 +27,7 @@ body {
 }
 
 img {
-	border: 1px solid #000;
+	border: 1px solid #0000b3;
 }
 
 .clear {
@@ -56,11 +53,8 @@ img {
 	text-align: center;
 	
 	/* blinking text cursor animation */
-	-webkit-animation: blinking-text-cursor 1s step-start 0s infinite;
-	-moz-animation: blinking-text-cursor 1s step-start 0s infinite;
-	-ms-animation: blinking-text-cursor 1s step-start 0s infinite;
-	-o-animation: blinking-text-cursor 1s step-start 0s infinite;
 	animation: blinking-text-cursor 1s step-start 0s infinite;
+	-webkit-animation: blinking-text-cursor 1s step-start 0s infinite;
 }
 
 #navigation {
@@ -140,7 +134,7 @@ img {
 }
 
 #content-list li:last-child::after {
-	background: linear-gradient(to bottom, #4d4d4d, transparent);
+	background: linear-gradient(to bottom, #0000b3, transparent);
 }
 
 .timeline::after {
@@ -149,7 +143,7 @@ img {
 	bottom: 0;
 	left: 3px;
 	width: 2px;
-	background-color: #4d4d4d;
+	background-color: #0000b3;
 	content: '';
 }
 
@@ -163,7 +157,7 @@ img {
 	left: 0;
 	width: 8px;
 	height: 8px;
-	background-color: #4d4d4d;
+	background-color: #0000b3;
 	border-radius: 50%;
 	content: '';
 }
@@ -185,7 +179,6 @@ img {
 
 .content-thumb, .content-thumb img {
 	width: 100%;
-	overflow: hidden;
 }
 
 a.content-thumb {
@@ -203,7 +196,6 @@ a.content-thumb {
 	display: block;
 	position: relative;
 	width: 100%;
-	overflow: hidden;
 }
 
 .content-image-caption {
@@ -214,34 +206,18 @@ a.content-thumb {
 	margin-bottom: 0;
 }
 
+.content-image-caption h3 {
+	margin-bottom: 0;
+}
+
 .content-image-caption::after {
 	position: absolute;
 	top: 0;
 	bottom: 0;
 	left: 0;
 	width: 1px;
-	background: linear-gradient(to bottom, #000, transparent);
+	background: linear-gradient(to bottom, #0000b3, transparent);
 	content: '';
-}
-
-.content-image-caption h3 {
-	margin-bottom: 0;
-}
-
-.video-wrapper {
-	display: block;
-	position: relative;
-	padding-bottom: 56.25%; /* 16:9 */
-	width: 100%;
-	overflow: hidden;
-}
-
-.video-wrapper iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
 }
 
 /* authentication page */
@@ -253,6 +229,8 @@ a.content-thumb {
 #submit-error li {
 	padding: 1em;
 	padding-left: 2.75em;
+	color: #000;
+	background-color: #fff;
 	border: 1px solid #cc0000;
 	border-left-width: 4px;
 }
@@ -277,12 +255,12 @@ input {
     margin-bottom: 1em;
 	padding: .5em;
 	background-color: #fff;
-	border: 1px solid #000;
+	border: 1px solid #0000b3;
 	border-radius: 0;
 }
 
 input:focus { 
-    outline: 2px solid #ccccff;
+    outline: 2px solid #b3b3ff;
     outline-offset: 0;
 }
 
@@ -320,19 +298,13 @@ input:focus {
 .submit {
 	width: 100%;
 	margin: 0;
-	background: linear-gradient(to bottom, transparent 0, transparent 80%, #ccccff 80%, #ccccff 100%);
+	color: #fff;
+	background: linear-gradient(to bottom, transparent 0, transparent 80%, #0000b3 80%, #0000b3 100%);
+  	border: 1px solid #0000b3;
   	cursor: pointer;
 }
 
 /* error page */
-
-#error {
-	background-color: #0000ff;
-
-	/* background color animation */
-	animation: blue-background-color-change 1s ease-out 1;
-	-webkit-animation: blue-background-color-change 1s ease-out 1;
-}
 
 #bsod-link {
 	display: block;
@@ -357,12 +329,7 @@ input:focus {
 	text-align: center;
 }
 
-#bsod :last-child {
-	margin-bottom: 0;
-}
-
 #bsod p {
-	color: #fff;
 	text-align: left;
 }
 
@@ -374,7 +341,7 @@ input:focus {
 }
 
 p#Windows {
-	color: #0000cc;
+	color: #0000ff;
 	text-align: center;
 }
 
@@ -453,15 +420,17 @@ p#Windows {
 /* styles */
 
 ::selection {
+	color: #000;
     background-color: #ffff00;
 }
 
 ::-moz-selection {
+	color: #000;
     background-color: #ffff00;
 }
 
 p, h1, h3, ul, a {
-	color: #000;
+	color: #fff;
 	font-weight: normal;
 	line-height: 1.5em;
 	margin-bottom: 1.5em;
@@ -508,7 +477,7 @@ li:before {
 
 a {
 	text-decoration: none;
-	background: linear-gradient(to bottom, transparent 0, transparent 40%, #ccccff 40%, #ccccff 100%);
+	background: linear-gradient(to bottom, transparent 0, transparent 40%, #0000b3 40%, #0000b3 100%);
 }
 
 a.current-page {
@@ -516,13 +485,9 @@ a.current-page {
 	padding-right: .5em;
 	padding-bottom: .25em;
 	padding-left: .5em;
-	color: #fff;
+	color: #0000ff;
 	background-image: none;
-	background-color: #0000ff;
-}
-
-.no-underline {
-	border-bottom: none;
+	background-color: #fff;
 }
 
 .mono-regular {
@@ -541,7 +506,7 @@ a.current-page {
 /* color */
 
 .secondary {
-	color: #4d4d4d;
+	color: #b3b3ff;
 }
 
 /* animation keyframes */
@@ -564,50 +529,30 @@ a.current-page {
 
 @keyframes blinking-text-cursor {
 	50% {
-    	border-right: 2px solid #000;
+    	border-right: 2px solid #fff;
   	}
 }
 
 @-webkit-keyframes blinking-text-cursor {
 	50% {
-    	border-right: 2px solid #000;
+    	border-right: 2px solid #fff;
   	}
 }
 
-/* white background color change on load */
+/* background color change on load */
 
-@keyframes white-background-color-change {
+@keyframes background-color-change {
 	0% {
-    	background-color: #ccc;
-  	}
-  	100% {
-    	background-color: #fff;
-  	}
-}
-
-@-webkit-keyframes white-background-color-change {
-	0% {
-    	background-color: #ccc;
-  	}
-  	100% {
-    	background-color: #fff;
-  	}
-}
-
-/* blue background color change on load */
-
-@keyframes blue-background-color-change {
-	0% {
-    	background-color: #000099;
+    	background-color: #0000b3;
   	}
   	100% {
     	background-color: #0000ff;
   	}
 }
 
-@-webkit-keyframes blue-background-color-change {
+@-webkit-keyframes background-color-change {
 	0% {
-    	background-color: #000099;
+    	background-color: #0000b3;
   	}
   	100% {
     	background-color: #0000ff;
