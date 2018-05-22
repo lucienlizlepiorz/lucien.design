@@ -40,15 +40,15 @@ Due to the hybrid userbase of taskers and managers, the navigation menu required
 
 Pushbot consisted of three orders of system-level objects: tasks, processes, and templates. On each list page, users could filter and sort using a "Mad Libs" toolbar, in addition to choosing between default and condensed modes.
 
-(content-image: task-list.png description: task list, default)
+(content-image: task-list.png description: default task list)
 
-(content-image: task-list-detail.png description: task ListItems, default)
+(content-image: task-list-detail.png description: default task ListItems)
 
 The condensed ("expert") display mode removed task instructions, avatars, and iconography. Additionally, if a task had no required fields, a button for immediate completion surfaced.
 
-(content-image: task-list-expert.png description: task list, expert)
+(content-image: task-list-expert.png description: expert task list)
 
-(content-image: task-list-expert-detail.png description: task ListItems, expert)
+(content-image: task-list-expert-detail.png description: expert task ListItems)
 
 Process ListItems featured several unique components: a progress visualization, estimated completion date, process category, and parent template link.
 
