@@ -6,11 +6,11 @@ Author: Lucien Liz-Lepiorz
 
 ----
 
-Description: design & development by Lucien Liz-Lepiorz. work spans product strategy, visual concepting, design delivery, and technical implementation.
+Description: design & development by Lucien Liz-Lepiorz. work spans product strategy, brand concepting, and technical implementation.
 
 ----
 
-Keywords: product, interaction, interface, design
+Keywords: product, interface, branding, design
 
 ----
 
