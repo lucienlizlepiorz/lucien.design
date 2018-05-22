@@ -299,8 +299,7 @@ input:focus {
 	width: 100%;
 	margin: 0;
 	color: #fff;
-	background: linear-gradient(to bottom, transparent 0, transparent 80%, #0000b3 80%, #0000b3 100%);
-  	border: 1px solid #0000b3;
+	background-color: #0000b3;
   	cursor: pointer;
 }
 
