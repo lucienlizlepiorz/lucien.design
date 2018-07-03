@@ -2,6 +2,6 @@ Event: true
 
 ----
 
-Text: Currently, I'm working on new business innovation at [<span class="mono-bold">Allstate</span> (font-icon: f023)][1], the largest publicly-held insurer in the United States.
+Text: Currently, I'm a product designer at Allstate's [<span class="mono-bold">CompoZed Labs</span>][1]: a paired, XP environment that is transforming the largest publicly-held insurer in the United States.
 
-[1]: work/Allstate
+[1]: https://twitter.com/compozedlabs

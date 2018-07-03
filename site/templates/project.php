@@ -1,6 +1,6 @@
-<?php 
+<!-- redirect to authenticate <?php 
 
-if($page->uid() == "Allstate") {
+if($page->uid() == "") {
 	
 	if (!$site->user()) {
 		// pass source page, redirect to authentication page
@@ -8,7 +8,7 @@ if($page->uid() == "Allstate") {
 	} 
 } 
 
-?>
+?> -->
 
 <?php snippet("header") ?>
 
