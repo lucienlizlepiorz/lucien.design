@@ -2,6 +2,6 @@ Event: true
 
 ----
 
-Text: Currently, I'm a product designer at Allstate's [<span class="mono-bold">CompoZed Labs</span>][1]: a paired, XP environment that is transforming the largest publicly-held insurer in the United States.
+Text: Currently, I'm pushing pixels at Allstate's [<span class="mono-bold">CompoZed Labs</span>][1]: a paired, XP environment that is transforming the largest publicly-held insurer in the United States.
 
 [1]: https://twitter.com/compozedlabs
