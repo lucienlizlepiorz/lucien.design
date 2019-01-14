@@ -26,7 +26,7 @@
 	            LLLL         LLLLLLLLLL    LLLLLLLL        LLLLLLLL         LLLLL     LLLLLLLL   I am Macintosh. -->                                                                                                                        
 
 	<meta charset="utf-8"/>
-	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;"/>	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>	
 	<meta property="og:image" content="<?php
 		if ($thumbnail = $page->image("thumb.png")) {
 			echo $page->image("thumb.png")->url();
