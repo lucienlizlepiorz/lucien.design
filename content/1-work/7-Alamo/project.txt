@@ -6,7 +6,7 @@ Keywords: web, operations, product iteration
 
 ----
 
-Text: Every year, Allstate dispatches over 1 million roadside rescues across the United States and Canada. 4 million phone calls are handled by hundreds of Rescue Associates, who each use two dispatching applications. Alamo’s onboarding to the newer of these two, Omni, shaved over 40% of call time and dramatically improved reliablity across the roadside ecosystem.
+Text: Every year, Allstate dispatches over 1 million branded and white-label rescues across the United States and Canada. 4 million phone calls are handled by hundreds of Rescue Associates, who each use two dispatching applications. Alamo’s onboarding to the newer of these two, Omni, shaved over 40% of call time and dramatically improved reliablity across the roadside ecosystem.
 
 After two years of product design and development, Omni had yet to onboard Alamo Rent a Car, one of the last flagship partners still using MMA. Once their spot on the roadmap came up, the team met with internal relationship managers to scope out the development effort.
 
