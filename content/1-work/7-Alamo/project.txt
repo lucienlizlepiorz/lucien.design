@@ -8,20 +8,18 @@ Keywords: web, operations, product iteration
 
 Text: Every year, Allstate dispatches over 1 million branded and white-label rescues across the United States and Canada. 4 million phone calls are handled by hundreds of Rescue Associates, who each use two dispatching applications. Alamo’s onboarding to the newer of these two, Omni, shaved over 40% of call time and dramatically improved reliablity across the roadside ecosystem.
 
+(content-image: MMA-service.png description: MMA takes two weeks to learn)
+
+(content-image: Omni-initial.png description: Omni can be mastered in three hours)
+
 After two years of product design and development, Omni had yet to onboard Alamo Rent a Car, one of the last flagship partners still using MMA. Once their spot on the roadmap came up, the team met with internal relationship managers to scope out the development effort.
 
 This discovery session resulted in a series of index cards that recorded potential changes to Omni. Soft services such as tire changes and jumpstarts wouldn’t be an issue, but all signs indicated that tows were a black box of complexity.
 
 To get to the bottom of this, four developers, two designers, and a technical product manager flew to Largo, Florida. A dozen highly-trained RAs handle Alamo calls out of Largo, and observing them would unlock the mysteries of rental car tows. 
 
-//TO DO sidejacking 
+(content-image: SME-review.png description: preparing concepts for the trip) 
 
-//TO DO interviews
+(content-image: Tampa-Bay.png description: driving across Tampa Bay) 
 
-//TO DO synthesis
-
-//TO DO iteration
-
-//TO DO final versions
-
-//TO DO regrets     
+(content-image: palm-trees.png description: first night in Florida)  
