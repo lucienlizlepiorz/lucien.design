@@ -34,8 +34,6 @@ If a user chose to update their password, direct links to the appropriate webpag
 
 (content-image: instagram-login.png description: direct link to login)
 
-(content-image: change-password.png description: safety in two taps)
-
 After the concepting period, multiple consumers were extensively interviewed. Not only did the usability succeed, but each user expressed an immediate connection to the safety of Allstate’s brand.
 
 (content-image: hypothesis.png description: a traditional research approach)
