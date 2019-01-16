@@ -6,7 +6,7 @@ Keywords: web, operations, product iteration
 
 ----
 
-Text: Every year, Allstate dispatches over 1 million branded and white-label rescues across the United States and Canada. 4 million phone calls are handled by hundreds of Rescue Associates, who each use two dispatching applications. Alamo’s onboarding to the newer of these two, Omni, shaved over 40% of call time and dramatically reduced complexity across the roadside ecosystem.
+Text: Every year, Allstate dispatches over 2 million branded and white-label rescues across the United States and Canada. 7 million phone calls are handled by hundreds of Rescue Associates, who each use two dispatching applications. Alamo’s onboarding to the newer of these two, Omni, shaved over 40% of call time and dramatically reduced complexity across the roadside ecosystem.
 
 (content-image: MMA-service.png description: MMA takes two weeks to learn)
 
@@ -52,7 +52,7 @@ In the final, dropdown-based design, each tow type contained specific probing qu
 
 (content-image: one-way-tow-questions.png description: one-way tow probing questions)
 
-(content-image: one-way-ride-along-locations.png description: locations for a customer ride-along)
+(content-image: one-way-ride-along-locations.png description: customer ride-along locations)
 
 (content-image: reverse-tow-notification.png description: requesting a replacement vehicle)
 
