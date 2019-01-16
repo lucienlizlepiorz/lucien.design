@@ -1,4 +1,4 @@
-Title: Allstate Digital Ventures
+Title: Auto, Home, Life, Digital
 
 ----
 
@@ -6,7 +6,7 @@ Keywords: iOS, innovation, feature delivery
 
 ----
 
-Text: For over 80 years, Allstate has embodied safety and trust in the eyes of American consumers. In order to diversify the company’s product portfolio, an internal innovation group explored the realm of data privacy and protection. Consumers ultimately craved a feature that I co-developed with Sabrina Gagliano: real-time monitoring of breaches that affect your data.  
+Text: For over 80 years, Allstate has embodied safety and trust in the eyes of American consumers. In order to diversify the company’s product portfolio, an internal innovation group explored the realm of digital privacy and protection. Consumers ultimately craved a feature that I co-developed with Sabrina Gagliano: real-time monitoring of breaches that affect your data.  
 
 (content-image: initial-notification.png description: breaking news)
 
