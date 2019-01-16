@@ -1,0 +1,49 @@
+Title: Allstate Digital Ventures: Breach Monitoring
+
+----
+
+Keywords: iOS, innovation, feature delivery
+
+----
+
+Text: For over 80 years, Allstate has embodied safety and trust in the eyes of American consumers. In order to diversify the company’s product portfolio, an internal innovation group explored the realm of data privacy and protection. Consumers ultimately craved a feature that I co-developed with Sabrina Gagliano: real-time monitoring of breaches that affect your data.  
+
+(content-image: initial-notification.png description: breaking news)
+
+At the first sign of a credible data breach, Allstate would notify customers and establish a voice of expertise. The timeline and language indicated behind-the-scenes work, while a simple watchlist action put the user in control.
+
+(content-image: detected-breach.png description: first stage activated)
+
+Breaches typically unfold within a few hours. After gathering enough information on the event’s scope and validity, the breach would enter stage two.
+
+(content-image: update-notification.png description: more information uncovered)
+
+(content-image: timeline-updated.png description: enhanced content)
+
+The user now had access to a handful of effective damage-control techniques. During sensitive events, users would receive access to identity protection. 
+
+(content-image: actions.png description: specific actions available)
+
+(content-image: exposed-notification.png description: user is personally affected)
+
+Finally, after a period of days-to-weeks, Allstate would notify customers whose data was directly identified within the breach. This level of severity served as a capstone of trust, and could be readily implemented.
+
+(content-image: matched-breach.png description: theme changed to red)
+
+If a user chose to update their password, direct links to the appropriate webpages provided a seamless experience.
+
+(content-image: instagram-login.png description: direct link to login)
+
+(content-image: change-password.png description: safety in two taps)
+
+After the concepting period, multiple consumers were extensively interviewed. Not only did the usability succeed, but each user expressed an immediate connection to the safety of Allstate’s brand.
+
+(content-image: hypothesis.png description: a traditional research approach)
+
+(content-image: notes.png description: gathering feedback)
+
+(content-image: watching-out.png description: the experience resonated with users)
+
+In August of 2018, Allstate purchased InfoArmor for $525 million: a deal that absorbed this innovation project, and one that further pushes them down the path of digital protection.
+
+Final accountabilities included competitive research, visual concepting, user experience direction, user research, and stakeholder alignment.
