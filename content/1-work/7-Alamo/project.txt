@@ -40,9 +40,9 @@ This feedback would inform our two major towing explorations: a flow that determ
 
 After returning to Chicago, the designers scheduled eight more in-depth interviews and usability tests with RAs. While the questions-based model maintained design purity, the user-selectable dropdown fit with Alamo’s vernacular and resulted in faster completion times.
 
-(content-image: ideation-probing-questions.png description: probing questions)
+(content-image: ideation-probing-questions.mp4 description: probing questions)
 
-(content-image: ideation-dropdown.png description: dropdown selection)
+(content-image: ideation-dropdown.mp4 description: dropdown selection)
 
 RAs showed particular enthusiasm for the automated drive-in vehicle exchange: a process that they had relied on Excel for, and one that consumed upwards of two minutes.
 
@@ -50,13 +50,13 @@ RAs showed particular enthusiasm for the automated drive-in vehicle exchange: a 
 
 In the final, dropdown-based design, each tow type contained specific probing questions, and the rescue map adjusted to fit the situation. Two-way tows, an operation unique to Alamo, consisted of one tow for the disabled vehicle, and another for the replacement.
 
-(content-image: final-one-way-tow.png description: one-way tow)
+(content-image: one-way-tow-questions.png description: one-way tow probing questions)
 
-(content-image: final-reverse-tow.png description: towing only a replacement vehicle)
+(content-image: one-way-ride-along-locations.png description: locations for a customer ride-along)
 
-(content-image: final-one-way-ride-along.png description: a customer rides along)
+(content-image: reverse-tow-notification.png description: requesting a replacement vehicle)
 
-(content-image: final-two-way-tow.png description: two-way tow)
+(content-image: final-two-way-tow.png description: completed two-way tow)
 
 Onboarding an entire roadside partner allowed me to witness the complexities of legacy software firsthand. Weekly stakeholder check-ins finessed my interpersonal skills, and our constant user interviews brought countless moments of empathy and joy.
 
