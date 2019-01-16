@@ -26,7 +26,7 @@ body {
 	font-size: 16px;
 }
 
-img {
+img, video {
 	border: 1px solid #0000b3;
 }
 
@@ -192,7 +192,7 @@ a.content-thumb {
 	margin-bottom: 1.5em;
 }
 
-.content-image, .content-image img {
+.content-image, .content-image * {
 	display: block;
 	position: relative;
 	width: 100%;
