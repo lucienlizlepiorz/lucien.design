@@ -19,7 +19,7 @@ kirbytext::$tags["content-image"] = array(
     if ($file->type() == "image") {
 		$container = "<div class='content-image'><img src='".$url."' alt='".$description."'>".$caption."</div>";
     } else if ($file->type() == "video") {
-	    $container = "<div class='content-image'><video preload='auto' autoplay loop muted controls><source src='".$url."' type='video/mp4'></video>".$caption."</div>";
+	    $container = "<div class='content-image'><video preload='auto' playsinline autoplay loop muted controls><source src='".$url."' type='video/mp4'></video>".$caption."</div>";
     }
 
     return $container;
