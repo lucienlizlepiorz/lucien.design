@@ -60,7 +60,7 @@ In the final, dropdown-based design, each tow type contained specific probing qu
 
 Onboarding an entire roadside partner allowed me to witness the complexities of legacy software firsthand. Weekly stakeholder check-ins finessed my interpersonal skills, and our constant user interviews brought countless moments of empathy and joy.
 
-One major regret is our continuation of the two-way tow model: third-party software used by tow shops does not handle these elegantly. Did we over-optimize the call center experience at the expense of provider reliability? Would the simplicity of two separate tows have made up for the costs of re-training and re-organization?
+One major regret is our continuation of the two-way tow model: third-party software used by tow shops does not handle these elegantly. Did we over-optimize the call center experience at the expense of provider reliability? Would the simplicity of two separate tows have made up for the cost of retraining RAs and reorganizing the business?
 
 (content-image: ARS.png description: you’re in good hands)
 
