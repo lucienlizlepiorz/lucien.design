@@ -8,6 +8,20 @@ Keywords: iOS, innovation, feature delivery
 
 Text: For over 80 years, Allstate has embodied safety and trust in the eyes of American consumers. In order to diversify the company’s product portfolio, an internal innovation group explored the realm of digital privacy and protection. Consumers ultimately craved a feature that I co-developed with Sabrina Gagliano: real-time monitoring of breaches that affect your data.  
 
+(content-image: ideation-goals.png description: experience goals)
+
+Before diving into ideation, we identified Allstate’s emotional values and potential avenues for differentiation. Comparing these two lists allowed us to set our guiding goals: a key component of successful product development. 
+
+(content-image: ideation-themes.png description: adding fidelity & structure)
+
+(content-image: ideation-journey.png description: high-level journey map)
+
+As the user experience matured, a number of operational needs arose. These were integrated into the notification process and optimized for low complexity.
+
+(content-image: ideation-blueprint.png description: creating an operational plan)
+
+The final prototype mirrored our lean planning: it provided users with transparent updates, clear content, and distinct action items.
+
 (content-image: initial-notification.png description: breaking news)
 
 At the first sign of a credible data breach, Allstate would notify customers and establish a voice of expertise. The timeline and language indicated behind-the-scenes work, while a simple watchlist action put the user in control.
