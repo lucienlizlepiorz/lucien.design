@@ -44,6 +44,14 @@
 	<!-- icons for Firefox, Chrome, Safari, IE 11+ and Opera -->
 	<link rel="icon" href="<?php echo url("assets/images/favicon.png") ?>">
 
+	<!-- preload important WOFF fonts -->
+	<link rel="preload" href="assets/fonts/FiraSans-Light.woff" as="font">
+	<link rel="preload" href="assets/fonts/FiraSans-LightItalic.woff" as="font">
+	<link rel="preload" href="assets/fonts/FiraSans-Bold.woff" as="font">
+	<link rel="preload" href="assets/fonts/FiraSans-BoldItalic.woff" as="font">
+	<link rel="preload" href="assets/fonts/FiraMono-Regular.woff" as="font">
+	<link rel="preload" href="assets/fonts/FiraMono-Bold.woff" as="font">
+
 	<title><?php echo smartypants($page->title()) ?> :: <?php echo smartypants($site->title()) ?></title>
 
 	<meta name="description" content="<?php echo $site->description()->html() ?>">	
