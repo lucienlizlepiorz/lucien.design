@@ -30,7 +30,7 @@ img, video {
 	border: 1px solid #0000b3;
 }
 
-a img:hover, input:hover, input:focus { 
+a>img:hover, a.current-page:hover, input:hover, input:focus { 
     outline: 2px solid #b3b3ff;
     outline-offset: 0;
 }
@@ -470,6 +470,11 @@ li:before {
 a {
 	text-decoration: none;
 	background: linear-gradient(to bottom, transparent 0, transparent 40%, #0000b3 40%, #0000b3 100%);
+}
+
+a:hover {
+	color: #0000ff;
+	background: #fff;
 }
 
 a.current-page {
