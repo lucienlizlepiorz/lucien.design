@@ -30,7 +30,7 @@ img, video {
 	border: 1px solid #0000b3;
 }
 
-a img:hover { 
+a img:hover, input:hover, input:focus { 
     outline: 2px solid #b3b3ff;
     outline-offset: 0;
 }
@@ -262,11 +262,6 @@ input {
 	background-color: #fff;
 	border: 1px solid #0000b3;
 	border-radius: 0;
-}
-
-input:hover, input:focus { 
-    outline: 2px solid #b3b3ff;
-    outline-offset: 0;
 }
 
 .input-content {
