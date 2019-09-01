@@ -30,6 +30,11 @@ img, video {
 	border: 1px solid #0000b3;
 }
 
+a img:hover { 
+    outline: 2px solid #b3b3ff;
+    outline-offset: 0;
+}
+
 .clear {
 	clear: both;
 }
@@ -259,7 +264,7 @@ input {
 	border-radius: 0;
 }
 
-input:focus { 
+input:hover, input:focus { 
     outline: 2px solid #b3b3ff;
     outline-offset: 0;
 }
