@@ -6,4 +6,4 @@ Headline: hello!
 
 ----
 
-Text: Welcome to my corner of the web. I'm a product designer who loves to code, obsessively collect model trains, and ship some serious *qualität*. 
+Text: Welcome to my corner of the web. I'm a product owner (ex-designer) who loves to code, obsessively collect model trains, and ship some serious *qualität*. 

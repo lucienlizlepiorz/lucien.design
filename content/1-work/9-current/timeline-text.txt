@@ -2,6 +2,6 @@ Event: true
 
 ----
 
-Text: Currently, I'm pushing pixels at Allstate's [<span class="mono-bold">CompoZed Labs</span>][1]: a paired, XP environment that is transforming the largest publicly-held insurer in the United States.
+Text: Currently, I'm collaborating across time zones to deliver a chat experience that brings [<span class="mono-bold">Allstate</span>][1] into the next generation of contact center operations and customer interaction. 
 
-[1]: https://twitter.com/compozedlabs
+[1]: https://www.allstate.com/
