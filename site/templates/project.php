@@ -1,15 +1,3 @@
-<!-- redirect to authenticate <?php 
-
-if($page->uid() == "") {
-	
-	if (!$site->user()) {
-		// pass source page, redirect to authentication page
-		go("authenticate?source={$page->uri([$lang = null])}");
-	} 
-} 
-
-?> -->
-
 <?php snippet("header") ?>
 
 <?php snippet("top") ?>
