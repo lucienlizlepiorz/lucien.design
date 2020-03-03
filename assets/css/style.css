@@ -193,17 +193,17 @@ a.content-thumb {
 	background: none;
 }
 
-.content-image {
+.image {
 	margin-bottom: 1.5em;
 }
 
-.content-image, .content-image * {
+.image, .image * {
 	display: block;
 	position: relative;
 	width: 100%;
 }
 
-.content-image-caption {
+.image-caption {
 	position: relative;
 	padding-top: .5em;
 	padding-bottom: .5em;
@@ -211,11 +211,11 @@ a.content-thumb {
 	margin-bottom: 0;
 }
 
-.content-image-caption h3 {
+.image-caption h3 {
 	margin-bottom: 0;
 }
 
-.content-image-caption::after {
+.image-caption::after {
 	position: absolute;
 	top: 0;
 	bottom: 0;

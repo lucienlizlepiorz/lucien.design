@@ -14,41 +14,41 @@ Text: Inspired by topography, the *NEXT* 2015 identity expressed both the Corcor
 - HOW International Design Awards, Merit Award <span class="secondary">*2016*</span>
 - University & College Designers Association, Award of Excellence <span class="secondary">*2015*</span>
 
-(content-image: keywords.png description: affinity diagramming)
+(image: keywords.png description: affinity diagramming)
 
-(content-image: wordmap.png description: finalized wordmap)
+(image: wordmap.png description: finalized wordmap)
 
 Set against the backdrop of a merger between the Corcoran and George Washington University, wordmap ideation allowed each junior designer to craft an identity defined by these focal points. 
 
 From three competing options, stakeholders selected my direction. It combined organic movement with technical structure: a synthesis of identities. 
 
-(content-image: tombstone.png description: organic forms in classical motifs)
+(image: tombstone.png description: organic forms in classical motifs)
 
-(content-image: New-York-Ave.png description: banners at New York Avenue)
+(image: New-York-Ave.png description: banners at New York Avenue)
 
-(content-image: entryway.png description: recessed entryway graphics)
+(image: entryway.png description: recessed entryway graphics)
 
 Cool tones provided additional visual interest, maintained the viewer's focus on legibility, and complimented the branding program's architectural context.
 
-(content-image: atrium.png description: branding in gallery atrium)
+(image: atrium.png description: branding in gallery atrium)
 
-(content-image: hallway.png description: hallway directional aid)
+(image: hallway.png description: hallway directional aid)
 
-(content-image: wayfinding.png description: wayfinding signage)
+(image: wayfinding.png description: wayfinding signage)
 
 Visual vocabulary included topographic forms and solid gradient fields that mimicked the wordmark's movement. Both elements added depth and dimension, further highlighting an interdisciplinary identity.
 
-(content-image: print-invitation.png description: sculptural print invitation)
+(image: print-invitation.png description: sculptural print invitation)
 
-(content-image: gallery-guide.png description: gallery guide & program)
+(image: gallery-guide.png description: gallery guide & program)
 
-(content-image: merchandise.png description: merchandise highlights)
+(image: merchandise.png description: merchandise highlights)
 
 The microsite and iPad map/directory app introduced black transparencies and blurred, gradient-like imagery. These techniques allowed the digital deliverables to emulate physical texture, form, and distance.
 
-(content-image: microsite.png description: microsite)
+(image: microsite.png description: microsite)
 
-(content-image: app.png description: iPad app)
+(image: app.png description: iPad app)
 
 It was an honor to have my work displayed across hundreds of square feet—and across from the White House. Tight deadlines taught me how to excel under pressure, and a broad set of deliverables cultivated my affinity for systems.
 
