@@ -169,24 +169,24 @@ a>img:hover, a.current-page:hover, input:hover, input:focus {
 
 /* content components */
 
-.content-title-wrapper {
+.title-wrapper {
 	width: 100%;
 	margin-bottom: 1em;
 }
 
-.content-title {
+.title {
 	margin-bottom: 0;
 }
 
-.content-metadata {
+.metadata {
 	margin-bottom: 1.5em;
 }
 
-.content-thumb, .content-thumb img {
+.thumb, .thumb img {
 	width: 100%;
 }
 
-a.content-thumb {
+a.thumb {
 	display: block;
 	line-height: 0;
 	margin-bottom: 0;

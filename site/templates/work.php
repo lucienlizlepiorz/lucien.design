@@ -12,13 +12,13 @@
 		<li class="timeline">
 
 			<?php if ($timelinePost->intendedTemplate() == "project"): ?>
-				<div class="content-title-wrapper event">
-					<a class="content-title mono-bold" href="<?php echo $timelinePost->url() ?>"><?php echo smartypants($timelinePost->title()) ?></a>
-					<h3 class="content-metadata secondary"><?php echo smartypants($timelinePost->keywords()) ?></h3>
+				<div class="title-wrapper event">
+					<a class="title mono-bold" href="<?php echo $timelinePost->url() ?>"><?php echo smartypants($timelinePost->title()) ?></a>
+					<h3 class="metadata secondary"><?php echo smartypants($timelinePost->keywords()) ?></h3>
 				</div>
 
 				<?php if($timelinePost->image("thumb.png")): ?>
-					<a class="content-thumb" href="<?php echo $timelinePost->url() ?>"><img src="<?php echo $timelinePost->image("thumb.png")->url() ?>" alt="<?php echo smartypants($timelinePost->title()) ?>"></img></a>
+					<a class="thumb" href="<?php echo $timelinePost->url() ?>"><img src="<?php echo $timelinePost->image("thumb.png")->url() ?>" alt="<?php echo smartypants($timelinePost->title()) ?>"></img></a>
 					<div class="clear"></div>
 				<?php endif ?>  
 			<?php endif ?>
