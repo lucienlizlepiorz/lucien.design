@@ -7,3 +7,7 @@ Headline: hello!
 ----
 
 Text: Welcome to my corner of the web. I'm a product manager who loves to code, obsessively collect model trains, and ship some serious *qualität*. 
+
+- (project: Digital-Safety)
+- (project: NEXT-2015)
+- (project: MetroNext)

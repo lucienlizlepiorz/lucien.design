@@ -1,7 +1,0 @@
-Event: true
-
-----
-
-Text: Currently, I'm collaborating across time zones to deliver a chat experience that brings [<span class="mono-bold">Allstate</span>][1] into the next generation of contact center operations and customer interaction. 
-
-[1]: https://www.allstate.com/
