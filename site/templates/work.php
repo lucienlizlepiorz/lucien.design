@@ -2,11 +2,11 @@
 
 <?php snippet("top") ?>
 
-<h1 id="section-title-text" class="mono-bold"><?php echo smartypants($page->headline()) ?></h1>
+<h1 id="hello" class="mono-bold"><?php echo smartypants($page->headline()) ?></h1>
 
-<div id="section-summary-text"><?php echo $page->text()->kirbytext() ?></div>
+<div id="summary"><?php echo $page->text()->kirbytext() ?>
 
-<ul id="content-list">
+<ul>
 
 	<?php foreach(page('work')->children()->visible()->flip() as $timelinePost): ?>
 		<li class="timeline">
@@ -29,6 +29,8 @@
 			
 	  	</li>
   	<?php endforeach ?>
+
+</div>
   
 </ul>
 

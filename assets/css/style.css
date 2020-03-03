@@ -86,20 +86,20 @@ a>img:hover, a.current-page:hover, input:hover, input:focus {
 	margin-left: auto;
 }
 
-#section-title-text {
+#hello {
 	margin-bottom: 0;
 }
 
-#section-summary-text {
+#summary {
 	padding-top: 1em;
 	padding-bottom: 1em;
 }
 
-#section-summary-text:first-child {
+#summary:first-child {
 	padding-top: 0;
 }
 
-#section-summary-text p {
+#summary p {
 	margin-bottom: 0;
 }
 
@@ -110,7 +110,7 @@ a>img:hover, a.current-page:hover, input:hover, input:focus {
 	padding-bottom: 10em;
 }
 
-#content-list {
+#summary ul {
 	display: block;
 	position: relative;
 	list-style-type: none;
@@ -118,7 +118,7 @@ a>img:hover, a.current-page:hover, input:hover, input:focus {
 	margin: 0;
 }
 
-#content-list li {
+#summary ul li {
 	display: block;
 	position: relative;
 	width: 100%;
@@ -126,19 +126,19 @@ a>img:hover, a.current-page:hover, input:hover, input:focus {
 	padding-left: 2em;
 }
 
-#content-list li:before {
+#summary ul li:before {
 	display: none;
 }
 
-#content-list li:first-child {
+#summary ul li:first-child {
 	margin-top: 1.5em;
 }
 
-#content-list li:first-child::after {
+#summary ul li:first-child::after {
 	top: .75em;
 }
 
-#content-list li:last-child::after {
+#summary ul li:last-child::after {
 	background: linear-gradient(to bottom, #0000b3, transparent);
 }
 
@@ -360,14 +360,14 @@ h1 {
 	font-size: 1.5em; /* 16 x 1.5 = 24 */
 }
 
-h3, .submit {
+h3 {
 	font-family: "Fira Mono";
 	font-size: .75em; /* 16 x .75 = 12 */
 	letter-spacing: 1px;
 	text-transform: uppercase;
 }
 
-ul, #submit-error {
+ul {
     list-style-type: none;
 }
 
@@ -375,16 +375,13 @@ li {
 	padding-left: .625em;
 }
 
-li:before, #submit-error li:before {
+li:before {
     display: inline-block;
     position: relative;
+    top: -.0625em;
+    left: -1em;
     width: 0;
     font-family: "FontAwesome";
-}
-
-li:before {
-	top: -.0625em;
-    left: -1em;
     font-size: .625em;
     content: "\f0da";
 }
