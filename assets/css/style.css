@@ -30,7 +30,7 @@ img, video {
 	border: 1px solid #0000b3;
 }
 
-a>img:hover, a.current-page:hover, input:hover, input:focus { 
+a>img:hover { 
     outline: 2px solid #b3b3ff;
     outline-offset: 0;
 }
@@ -74,7 +74,7 @@ a>img:hover, a.current-page:hover, input:hover, input:focus {
 	height: 2em;
 }
 
-/* containing elements */
+/* page containers */
 
 #wrapper {
 	width: 36em;
@@ -99,15 +99,15 @@ a>img:hover, a.current-page:hover, input:hover, input:focus {
 	padding-top: 0;
 }
 
-#summary p {
-	margin-bottom: 0;
-}
-
-/* content list */
-
 #content {
 	padding-top: 10em;
 	padding-bottom: 10em;
+}
+
+/* timeline elements */
+
+#summary p {
+	margin-bottom: 0;
 }
 
 #summary ul {
@@ -126,10 +126,6 @@ a>img:hover, a.current-page:hover, input:hover, input:focus {
 	padding-left: 2em;
 }
 
-#summary ul li:before {
-	display: none;
-}
-
 #summary ul li:first-child {
 	margin-top: 1.5em;
 }
@@ -138,25 +134,7 @@ a>img:hover, a.current-page:hover, input:hover, input:focus {
 	top: .75em;
 }
 
-#summary ul li:last-child::after {
-	background: linear-gradient(to bottom, #0000b3, transparent);
-}
-
-.timeline::after {
-	position: absolute;
-	top: 0;
-	bottom: 0;
-	left: 3px;
-	width: 2px;
-	background-color: #0000b3;
-	content: '';
-}
-
-.event p {
-	margin-bottom: 0;
-}
-
-.event::after {
+#summary ul li::before {
 	position: absolute;
 	top: 8px;
 	left: 0;
@@ -167,7 +145,25 @@ a>img:hover, a.current-page:hover, input:hover, input:focus {
 	content: '';
 }
 
-/* content components */
+#summary ul li::after {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 3px;
+	width: 2px;
+	background-color: #0000b3;
+	content: '';
+}
+
+#summary ul li:last-child::after {
+	background: linear-gradient(to bottom, #0000b3, transparent);
+}
+
+#summary ul li>p {
+	margin-bottom: 0;
+}
+
+/* smaller components */
 
 .title-wrapper {
 	width: 100%;
@@ -350,7 +346,7 @@ p, h1, h3, ul, a {
 	margin-bottom: 1.5em;
 }
 
-p, ul, input {
+p, ul {
 	font-family: "Fira Sans";
 	font-size: 1em; /* 16 x 1 = 16 */
 }
@@ -394,16 +390,6 @@ a {
 a:hover {
 	color: #0000ff;
 	background: #fff;
-}
-
-a.current-page {
-	padding-top: .25em;
-	padding-right: .5em;
-	padding-bottom: .25em;
-	padding-left: .5em;
-	color: #0000ff;
-	background-image: none;
-	background-color: #fff;
 }
 
 .mono-regular {

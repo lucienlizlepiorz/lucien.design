@@ -1,4 +1,4 @@
 <div id="navigation">
-	<h3><a href="/" class="<?php if($page == "work" || $page->parent == "work") {echo "current-page";} else {echo "";} ?>">work</a> :: <a href="/about" class="<?php if($page == "about") {echo "current-page";} else {echo "";} ?>">about</a></h3>
+	<p><a href="/"><span class="mono-bold">Lucien</span> Liz-Lepiorz<a></p>
 	<h3>say <a href="mailto:howdy@lucien.design">howdy@lucien.design</a> :: <a href="https://www.github.com/lucienlizlepiorz">GitHub</a></h3>
 </div>
