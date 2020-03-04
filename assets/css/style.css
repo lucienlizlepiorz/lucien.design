@@ -397,11 +397,6 @@ a:hover {
 	background: #fff;
 }
 
-a.cv:hover {
-	outline: 2px solid #b3b3ff;
-    outline-offset: 0;
-}
-
 a.cv {
 	padding-top: .25em;
 	padding-right: .5em;
@@ -410,6 +405,11 @@ a.cv {
 	color: #0000ff;
 	background-image: none;
 	background-color: #fff;
+}
+
+a.cv:hover {
+	outline: 2px solid #b3b3ff;
+    outline-offset: 0;
 }
 
 .mono-regular {
