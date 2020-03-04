@@ -8,23 +8,23 @@ Keywords: Windows Phone 8, consumer, product delivery
 
 Text: As a Washington, DC commuter, WMATA's arrival predictions for rail and bus were an essential asset. Before I began this project, the Windows Phone 8 ecosystem had been severely lacking any glanceable or intelligently-designed transit apps. Through the use of platform-specific interaction patterns, MetroNext allowed users to rapidly swipe between rail and bus stop arrivals, active service advisories, and favorited stations.
 
-(image: panorama.png description: seamless panorama)
+(image: panorama.png caption: seamless panorama)
 
 Windows Phone 8's panorama control let each section sit at the top level of hierarchy, in addition to enhancing user context. By placing rail and bus arrivals next to each other, users could compare upcoming trips via either mode.
 
-(image: start.png description: Start screen with app tile)
+(image: start.png caption: Start screen with app tile)
 
-(image: rail.png description: rail arrivals)
+(image: rail.png caption: rail arrivals)
 
 Colors directly corresponded to each rail line: all other elements receded to a secondary level through the use of gray text.
 
-(image: interaction-rail.png description: rail station selection)
+(image: interaction-rail.png caption: rail station selection)
 
-(image: bus.png description: bus arrivals)
+(image: bus.png caption: bus arrivals)
 
 In the physical world, bus stops prominently displayed their identification numbers. MetroNext naturally leveraged this ingrained data point, and also reaffirmed the user's selection by displaying the location's name.
 
-(image: interaction-bus.png description: bus stop entry)
+(image: interaction-bus.png caption: bus stop entry)
 
 When MetroNext was accepted into the app store, I couldn't believe it. In three months, I had gone from having zero understanding of software development to integrating with an API. It's a constant reminder of what dedication can do. 
 

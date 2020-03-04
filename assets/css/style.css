@@ -162,6 +162,10 @@ a>img:hover {
 
 /* smaller components */
 
+.preface {
+	margin-bottom: 1em;
+}
+
 .title-wrapper {
 	width: 100%;
 	margin-bottom: 1em;

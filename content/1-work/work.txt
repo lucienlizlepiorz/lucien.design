@@ -8,10 +8,7 @@ Headline: hello!
 
 Text: Welcome to my corner of the web. I'm a product manager who loves to code, obsessively collect model trains, and ship some serious *qualität*. 
 
-- Currently, I'm collaborating across time zones to deliver a chat experience that brings [<span class="mono-bold">Allstate</span>][1] into the next generation of contact center operations and customer interaction.
-- I've also created new business lines for a Fortune 500 company.
-(project: Digital-Safety)
+- Currently, I'm collaborating across time zones to deliver a chat experience that brings (link: https://www.allstate.com/ text: Allstate class: mono-bold) into the next generation of contact center operations and customer interaction.
+- (project: Digital-Safety preface: I've also created new business lines at a Fortune 500 company.)
 - (project: NEXT-2015)
 - (project: MetroNext)
-
-[1]: https://www.allstate.com/

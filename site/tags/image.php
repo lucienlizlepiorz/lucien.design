@@ -2,24 +2,24 @@
 
 kirbytext::$tags["image"] = array(
   "attr" => array(
-    "description"
+    "caption"
   ),
   "html" => function($tag) {
   
   	$file          = $tag->file($tag->attr("image"));
   	$url           = $file->url();
-  	$description   = smartypants($tag->attr("description"));
+  	$caption   = smartypants($tag->attr("caption"));
     
-    if ($description != "") {
-      $caption = "<div class='image-caption'><h3 class='secondary'>".$description."</h3></div>";
+    if ($caption != "") {
+        $captionContainer = "<div class='image-caption'><h3 class='secondary'>".$caption."</h3></div>";
     } else {
-    	$caption = NULL;
+    	$captionContainer = NULL;
     }
          
     if ($file->type() == "image") {
-		$container = "<div class='image'><img src='".$url."' alt='".$description."'>".$caption."</div>";
+		$container = "<div class='image'><img src='".$url."' alt='".$description."'>".$captionContainer."</div>";
     } else if ($file->type() == "video") {
-	    $container = "<div class='image'><video preload='auto' playsinline autoplay loop muted controls><source src='".$url."' type='video/mp4'></video>".$caption."</div>";
+	    $container = "<div class='image'><video preload='auto' playsinline autoplay loop muted controls><source src='".$url."' type='video/mp4'></video>".$captionContainer."</div>";
     }
 
     return $container;
