@@ -6,7 +6,7 @@ Keywords: Windows Phone 8, consumer, product delivery
 
 ----
 
-Text: As a Washington, DC commuter, WMATA's arrival predictions for rail and bus were an essential asset. Before I began this project, the Windows Phone 8 ecosystem had been severely lacking any glanceable or intelligently-designed transit apps. Through the use of platform-specific interaction patterns, MetroNext allowed users to rapidly swipe between rail and bus stop arrivals, active service advisories, and favorited stations.
+Text: As a Washington, DC commuter, WMATA's arrival predictions for rail and bus were an essential asset. Before I began this project, the Windows Phone 8 ecosystem lacked any digestable, local transit apps. Through the use of platform-specific interaction patterns, MetroNext allowed users to rapidly swipe between rail and bus stop arrivals, active service advisories, and favorited stations.
 
 (image: panorama.png caption: seamless panorama)
 
