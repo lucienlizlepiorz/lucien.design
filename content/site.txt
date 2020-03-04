@@ -10,8 +10,8 @@ Description: design & development by Lucien Liz-Lepiorz. work spans product stra
 
 ----
 
-Keywords: product, interface, branding, design
+Keywords: product management, user experience, software development
 
 ----
 
-Copyright: © 2018 Lucien Liz-Lepiorz
+Copyright: © 2020 Lucien Liz-Lepiorz
