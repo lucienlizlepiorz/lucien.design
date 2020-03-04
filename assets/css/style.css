@@ -42,12 +42,13 @@ a>img:hover {
 /* header and footer */
 
 #name, #navigation {
-	padding-top: 2em;
 	text-align: center;
 }
 
 #name {
+	padding-top: 2em;
 	padding-bottom: 2em;
+	text-align: center;
 }
 
 #name h1 {
@@ -62,12 +63,8 @@ a>img:hover {
 	-webkit-animation: blinking-text-cursor 1s step-start 0s infinite;
 }
 
-#navigation {
-	padding-bottom: 1em;
-}
-
 #navigation h3 {
-	margin-bottom: .75em;
+	margin-bottom: 1.5em;
 }
 
 #push {
@@ -390,6 +387,21 @@ a {
 a:hover {
 	color: #0000ff;
 	background: #fff;
+}
+
+a.cv:hover {
+	outline: 2px solid #b3b3ff;
+    outline-offset: 0;
+}
+
+a.cv {
+	padding-top: .25em;
+	padding-right: .5em;
+	padding-bottom: .25em;
+	padding-left: .5em;
+	color: #0000ff;
+	background-image: none;
+	background-color: #fff;
 }
 
 .mono-regular {
