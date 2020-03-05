@@ -2,11 +2,11 @@ Title: NEXT 2015
 
 ----
 
-Keywords: branding, education, concept delivery
+Keywords: environmental graphics, branding, education
 
 ----
 
-Text: Inspired by topography, the *NEXT* 2015 identity expressed both the Corcoran's heritage and journey to come. Individual paths, drawn from the Sierra Nevada landscape of Mount Corcoran, united in one community. The resemblance to a fingerprint evoked the relationship between identity and creation.
+Text: Inspired by topography, the *NEXT* 2015 identity expressed both the Corcoran's heritage and optimistic future. Individual paths, drawn from the Sierra Nevada landscape of Mount Corcoran, united in one community. The resemblance to a fingerprint evoked the relationship between identity and creation.
 
 ### awards
 - Adobe Design Achievement Awards, Semifinalist
@@ -16,11 +16,11 @@ Text: Inspired by topography, the *NEXT* 2015 identity expressed both the Corcor
 
 (image: keywords.png caption: affinity diagramming)
 
+Set against the backdrop of a merger between the Corcoran and George Washington University, a group of junior designers framed their conceptual brands with a collective wordmap. 
+
 (image: wordmap.png caption: finalized wordmap)
 
-Set against the backdrop of a merger between the Corcoran and George Washington University, wordmap ideation allowed each junior designer to craft an identity defined by these focal points. 
-
-From three competing options, stakeholders selected my direction. It combined organic movement with technical structure: a synthesis of identities. 
+From three competing options, university stakeholders chose my direction. Lines flowed organically across each structured letter: a synthesis of identities. 
 
 (image: tombstone.png caption: organic forms in classical motifs)
 
@@ -36,7 +36,7 @@ Cool tones provided additional visual interest, maintained the viewer's focus on
 
 (image: wayfinding.png caption: wayfinding signage)
 
-Visual vocabulary included topographic forms and solid gradient fields that mimicked the wordmark's movement. Both elements added depth and dimension, further highlighting an interdisciplinary identity.
+Visual vocabulary included topographic forms and solid gradient fields that mimicked the wordmark's movement. These elements added depth and enhanced the interdisciplinary metaphor.
 
 (image: print-invitation.png caption: sculptural print invitation)
 
@@ -44,12 +44,12 @@ Visual vocabulary included topographic forms and solid gradient fields that mimi
 
 (image: merchandise.png caption: merchandise highlights)
 
-The microsite and iPad map/directory app introduced black transparencies and blurred, gradient-like imagery. These techniques allowed the digital deliverables to emulate physical texture, form, and distance.
+To emulate physical texture and distance, the microsite and iPad directory app introduced black transparencies and blurred, gradient-like imagery.
 
 (image: microsite.png caption: microsite)
 
 (image: app.png caption: iPad app)
 
-It was an honor to have my work displayed across hundreds of square feet—and across from the White House. Tight deadlines taught me how to excel under pressure, and a broad set of deliverables cultivated my affinity for systems.
+It was an honor to have my work displayed across hundreds of square feet—and across from the White House. Tight deadlines proved my ability to excel under pressure, and a broad set of deliverables cultivated my affinity for systems.
 
-Final accountabilities included visual concepting, brand development, invitation design, wayfinding system, web development, and iOS development.
+Final accountabilities included visual concepting, brand development, invitation design, wayfinding, web development, and iOS development.
