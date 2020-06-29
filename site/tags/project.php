@@ -9,7 +9,7 @@ kirbytext::$tags["project"] = array(
 		$project	= $tag->attr("project");
 		$preface	= smartypants($tag->attr("preface"));
 		$URL		= page($project)->url();
-		$title  	= smartypants(page($project)->title());
+		$title		= smartypants(page($project)->title());
 		$keywords	= smartypants(page($project)->keywords());
 		$thumbnail	= page($project)->image("thumb.png")->url();
 
