@@ -1,37 +1,37 @@
 <!DOCTYPE html>
 <html id="<?php echo $page->uid() ?>" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" lang="en">
 <head>  
-	                                                                                                                                                                                                                        
+																																																							
 	<!--               LLLLLL                            LLLL           LLLLL                                        
-	                  LLLLLLLL                          LLLLLL         LLLLLLLL                                      
-	                 LLL   LLLL                        LLLLLLLL       LLLLLLLLL                                      
-	                 LLL   LLL                        LLL   LLL      LLL    LLLL                                     
-	                LLL    LLL                       LLLL    LLL    LLLL    LLLL                                     
-	                LL    LLL                       LLL      LLL    LLL     LLLL                                     
-	               LLL   LLL                        LLL     LLLL   LLLL     LLLL                                     
-	               LLL  LLL                        LLLL     LLL    LLLL     LLL                                      
-	               LLLLLLL                         LLLL     LLL    LLLL     LLL                                      
-	               LLLLL                           LLL     LLLL    LLL     LLLL                                      
-	              LLLLLLLLLL              LL       LLL     LLL     LLL     LLL            LLL                        
-	             LLLLLLLLLLLLL          LLLLLL     LLL     LLL     LLL     LLL         LLLLLLLL     LLLL             
-	            LLLLLLLLLLLLLLLL       LLLLLLLLL    LLL    LLL      LLL    LLL        LLLLLLLLLLL  LLLLLL             
-	          LLLLLLLLLL     LLLL     LLLL   LLL    LLLL  LLLL      LLL   LLL       LLLL      LLLLLLLLLL              
-	       LLLLLL LLLLL       LLL     LLL     LL    LLLL LLLL       LLLL LLLL      LLLL        LLLLL                  
-	    LLLLLL   LLLLL       LLLL    LLL     LLL     LLLLLLL        LLLLLLLL       LLL         LLL                    
+					  LLLLLLLL                          LLLLLL         LLLLLLLL                                      
+					 LLL   LLLL                        LLLLLLLL       LLLLLLLLL                                      
+					 LLL   LLL                        LLL   LLL      LLL    LLLL                                     
+					LLL    LLL                       LLLL    LLL    LLLL    LLLL                                     
+					LL    LLL                       LLL      LLL    LLL     LLLL                                     
+				   LLL   LLL                        LLL     LLLL   LLLL     LLLL                                     
+				   LLL  LLL                        LLLL     LLL    LLLL     LLL                                      
+				   LLLLLLL                         LLLL     LLL    LLLL     LLL                                      
+				   LLLLL                           LLL     LLLL    LLL     LLLL                                      
+				  LLLLLLLLLL              LL       LLL     LLL     LLL     LLL            LLL                        
+				 LLLLLLLLLLLLL          LLLLLL     LLL     LLL     LLL     LLL         LLLLLLLL     LLLL             
+				LLLLLLLLLLLLLLLL       LLLLLLLLL    LLL    LLL      LLL    LLL        LLLLLLLLLLL  LLLLLL             
+			  LLLLLLLLLL     LLLL     LLLL   LLL    LLLL  LLLL      LLL   LLL       LLLL      LLLLLLLLLL              
+		   LLLLLL LLLLL       LLL     LLL     LL    LLLL LLLL       LLLL LLLL      LLLL        LLLLL                  
+		LLLLLL   LLLLL       LLLL    LLL     LLL     LLLLLLL        LLLLLLLL       LLL         LLL                    
 	 LLLLLLLL    LLLL        LLL     LLL    LLLL     LLLLLL          LLLLLL        LLL         LLL                    
 	LLLLL       LLLL         LLL      LLL  LLLL       LLLL           LLLLL         LLL        LLL                     
-	            LLLL         LLL      LLLLLLLL      LLLLLL          LLLLLLL      LLLLL        LLL                     
-	            LLL          LLL      LLLLLL     LLLLLLLLLLLLLLLLLLLLLLLLLLLL LLLLLLLLL     LLLL               
-	            LLL          LLLLLLLLLLLLLLLLLLLLLLLL    LLLLLLLLLLLL    LLLLLLLLLL  LLLLLLLLLL                   
-	            LLLL         LLLLLLLLLL    LLLLLLLL        LLLLLLLL         LLLLL     LLLLLLLL   I am Macintosh. -->                                                                                                                        
-
+				LLLL         LLL      LLLLLLLL      LLLLLL          LLLLLLL      LLLLL        LLL                     
+				LLL          LLL      LLLLLL     LLLLLLLLLLLLLLLLLLLLLLLLLLLL LLLLLLLLL     LLLL               
+				LLL          LLLLLLLLLLLLLLLLLLLLLLLL    LLLLLLLLLLLL    LLLLLLLLLL  LLLLLLLLLL                   
+				LLLL         LLLLLLLLLL    LLLLLLLL        LLLLLLLL         LLLLL     LLLLLLLL   I am Macintosh. -->            
+				                                                                                                            
 	<meta charset="utf-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>	
 	<meta property="og:image" content="<?php
 		if ($thumbnail = $page->image("thumb.png")) {
 			echo $page->image("thumb.png")->url();
 		} else {
-		    echo url("assets/images/og-image.png");
+			echo url("assets/images/og-image.png");
 		}
 	?>"/>
 
@@ -54,9 +54,9 @@
 	<!-- css for IE 9 and below -->
 	<!--[if IE]>
 		<style type="text/css">
-    		#name h1 {
+			#name h1 {
 				padding-right: 0;
-   				border-right: none;
+				border-right: none;
 			}
 		</style>
 	<![endif]-->

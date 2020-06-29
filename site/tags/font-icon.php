@@ -1,12 +1,12 @@
 <?php
 
 kirbytext::$tags["font-icon"] = array(
-  "html" => function($tag) {
+	"html" => function($tag) {
 
-    $unicode = $tag->attr("font-icon");
+		$unicode = $tag->attr("font-icon");
 
-    return "<span class='font-icon'>&#x".$unicode.";</span>";
-  }
+		return "<span class='font-icon'>&#x".$unicode.";</span>";
+	}
 );
 
 ?>
