@@ -66,6 +66,7 @@
 	<!-- preload essential fonts -->
 	<link rel="preload" href="assets/fonts/FiraSans-Light.woff" as="font" type="font/woff" crossorigin>
 	<link rel="preload" href="assets/fonts/FiraMono-Bold.woff" as="font" type="font/woff" crossorigin>
+	<link rel="preload" href="assets/fonts/FontAwesome.woff" as="font" type="font/woff" crossorigin>
 
 </head>
 <body>
