@@ -18,3 +18,4 @@ fields:
 	copyright:
 		label: Copyright
 		type:  textarea
+		
