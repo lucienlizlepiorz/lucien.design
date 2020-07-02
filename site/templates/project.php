@@ -2,7 +2,7 @@
 
 <?php snippet("top") ?>
 
-<a class="title mono-bold" href><?php echo smartypants($page->title()) ?></a>
+<a class="title mono-bold" href="<?php echo $page->url() ?>"><?php echo smartypants($page->title()) ?></a>
 
 <h3 class="metadata secondary"><?php echo smartypants($page->keywords()) ?></h3>
 
