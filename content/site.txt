@@ -10,8 +10,4 @@ Description: Product manager, award-winning graphic designer, model train collec
 
 ----
 
-Keywords: product management, user experience design, software development
-
-----
-
 Copyright: © 2020 Lucien Liz-Lepiorz
