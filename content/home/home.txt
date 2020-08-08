@@ -6,9 +6,9 @@ Headline: hello!
 
 ----
 
-Text: Welcome to my corner of the web. I'm a product manager who loves to enable others, ruthlessly solve problems, and obsessively collect model trains. 
+Text: Welcome to my corner of the web. I'm a product manager who loves to enable others, methodically solve problems, and obsessively collect model trains. 
 
 - Currently, I'm collaborating across time zones to deliver a chat experience that brings (link: https://www.allstate.com/ text: Allstate class: mono-bold) into the next generation of contact center operations and customer interaction.
-- (project: Allstate-Identity-Protection preface: As a designer, I helped create new, multimillion-dollar business lines.)
+- (project: Allstate-Identity-Protection preface: As a designer, I helped create new digital services.)
 - (project: NEXT-2015 preface: I've also won a few international graphic design awards.)
 - (project: MetroNext preface: And I've been teaching myself how to code since Windows Phone 8.)

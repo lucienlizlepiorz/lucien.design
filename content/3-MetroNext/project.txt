@@ -2,7 +2,7 @@ Title: MetroNext
 
 ----
 
-Keywords: software development, mobile apps, transit
+Keywords: mobile apps, software development, transit
 
 ----
 

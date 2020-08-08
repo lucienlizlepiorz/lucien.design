@@ -2,11 +2,11 @@ Title: Allstate Identity Protection
 
 ----
 
-Keywords: product strategy, corporate innovation, privacy
+Keywords: mobile apps, product strategy, privacy
 
 ----
 
-Text: For over 80 years, Allstate has embodied safety and trust in the eyes of American consumers. In order to diversify the company’s portfolio, an internal innovation group explored the digital privacy and protection industry. Consumers ended up craving a feature that I co-developed with Sabrina Gagliano: real-time monitoring of breaches that affect your data.  
+Text: For over 80 years, Allstate has embodied safety and trust in the eyes of American consumers. In order to diversify the company’s portfolio, an internal innovation group explored the digital privacy and protection industry. Consumers ended up craving a service that I co-developed with Sabrina Gagliano: real-time monitoring of breaches that affect your data.  
 
 (image: ideation-goals.png caption: experience goals)
 
